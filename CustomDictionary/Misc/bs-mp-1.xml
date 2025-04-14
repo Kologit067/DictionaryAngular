@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dictionaries>
+  <Dictionary>
+    <DictionaryName>bs-mp-1</DictionaryName>
+    <Word>
+      <Native>crash</Native>
+      <Translation>крушение, авария; столкновение; авиационная катастрофа</Translation>
+    </Word>
+    <Word>
+      <Native>copter</Native>
+      <Translation>_разг. вертолет, геликоптер</Translation>
+    </Word>
+    <Word>
+      <Native>rover</Native>
+      <Translation>пиратское судно, скиталец, вид велосипеда</Translation>
+    </Word>
+    <Word>
+      <Native>mission</Native>
+      <Translation>(боевой) вылет, (боевая) задача; задание</Translation>
+    </Word>
+    <Word>
+      <Native>firmware</Native>
+      <Translation>программно-аппаротные средства; встроенные программы</Translation>
+    </Word>
+    <Word>
+      <Native>altitude</Native>
+      <Translation>высота, высота над горизонтом</Translation>
+    </Word>
+    <Word>
+      <Native>portable</Native>
+      <Translation>портативный, переносный</Translation>
+    </Word>
+    <Word>
+      <Native>aircraft</Native>
+      <Translation>мех. летательный аппарат (любой)</Translation>
+    </Word>
+    <Word>
+      <Native>contrary</Native>
+      <Translation>нечто обратное, обратный, противоположный</Translation>
+    </Word>
+    <Word>
+      <Native>loiter</Native>
+      <Translation>околачиваться , мешкать, медлить; задерживаться</Translation>
+    </Word>
+    <Word>
+      <Native>armed</Native>
+      <Translation>вооруженный</Translation>
+    </Word>
+    <Word>
+      <Native>rally</Native>
+      <Translation>объединение (сил,  действий), съезд; слет; сбор</Translation>
+    </Word>
+    <Word>
+      <Native>vicinity</Native>
+      <Translation>близость, окрестности; округа</Translation>
+    </Word>
+    <Word>
+      <Native>prefetch</Native>
+      <Translation>упреждающая выборка (из памяти) предварительно выбирать</Translation>
+    </Word>
+    <Word>
+      <Native>torque</Native>
+      <Translation>мех. крутящий или вращающий момент</Translation>
+    </Word>
+    <Word>
+      <Native>throttle</Native>
+      <Translation>то, что душит, тормозит или препятствует; тормоз, помеха;</Translation>
+    </Word>
+    <Word>
+      <Native>gimbals</Native>
+      <Translation>универсальный шарнир</Translation>
+    </Word>
+    <Word>
+      <Native>shutter</Native>
+      <Translation>атвор объектива</Translation>
+    </Word>
+    <Word>
+      <Native>yaw</Native>
+      <Translation>мех. рыскать (о корабле, самолете)</Translation>
+    </Word>
+    <Word>
+      <Native>tilt</Native>
+      <Translation>наклон, наклонное положение</Translation>
+    </Word>
+    <Word>
+      <Native>roll</Native>
+      <Translation>качаться, испытывать бортовую качку</Translation>
+    </Word>
+    <Word>
+      <Native>spire</Native>
+      <Translation>шпиц, шпиль, остроконечная вершина</Translation>
+    </Word>
+    <Word>
+      <Native>buttress</Native>
+      <Translation>контрфорс,  подпорка</Translation>
+    </Word>
+    <Word>
+      <Native>pier</Native>
+      <Translation>устой; столб простенок</Translation>
+    </Word>
+    <Word>
+      <Native>civilian</Native>
+      <Translation>штатский,  гражданское лицо</Translation>
+    </Word>
+    <Word>
+      <Native>assassination</Native>
+      <Translation>убийство политического или общественного деятеля</Translation>
+    </Word>
+    <Word>
+      <Native>execution</Native>
+      <Translation>разрушение, опустошение смертная) казнь</Translation>
+    </Word>
+    <Word>
+      <Native>hijacking</Native>
+      <Translation>угон,  похищение (самолета)</Translation>
+    </Word>
+    <Word>
+      <Native>piracy</Native>
+      <Translation>пиратство</Translation>
+    </Word>
+    <Word>
+      <Native>rape</Native>
+      <Translation>изнасилование</Translation>
+    </Word>
+    <Word>
+      <Native>refugee</Native>
+      <Translation>беглец,  беженец</Translation>
+    </Word>
+    <Word>
+      <Native>evacuee</Native>
+      <Translation>эвакуируемый</Translation>
+    </Word>
+    <Word>
+      <Native>recruit</Native>
+      <Translation>новобранец,  призывник</Translation>
+    </Word>
+    <Word>
+      <Native>coerced</Native>
+      <Translation>Принужденный</Translation>
+    </Word>
+    <Word>
+      <Native>willing</Native>
+      <Translation>готовый, склонный, расположенный, согласный</Translation>
+    </Word>
+    <Word>
+      <Native>combat</Native>
+      <Translation>бой, сражение</Translation>
+    </Word>
+    <Word>
+      <Native>loot</Native>
+      <Translation>мародерство добыча, награбленное добро</Translation>
+    </Word>
+  </Dictionary>
+</Dictionaries>

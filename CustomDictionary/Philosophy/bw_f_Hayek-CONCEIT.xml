@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dictionaries>
+  <Dictionary>
+    <DictionaryName>bw_f_Hayek-CONCEIT</DictionaryName>
+    <Word>
+      <Native>acquired</Native>
+      <Translation>благоприобретенный</Translation>
+    </Word>
+    <Word>
+      <Native>action</Native>
+      <Translation> действие,  поступок</Translation>
+    </Word>
+    <Word>
+      <Native>adaptation</Native>
+      <Translation>привыкание, приспособление</Translation>
+    </Word>
+    <Word>
+      <Native>artificial</Native>
+      <Translation>искусственный,  ненатуральный</Translation>
+    </Word>
+    <Word>
+      <Native>believe</Native>
+      <Translation>верить, верить в Бога</Translation>
+    </Word>
+    <Word>
+      <Native>beneficial</Native>
+      <Translation>благотворныйй, полезный; целительный </Translation>
+    </Word>
+    <Word>
+      <Native>central</Native>
+      <Translation>главный,  руководящий, центральный</Translation>
+    </Word>
+    <Word>
+      <Native>century</Native>
+      <Translation> столетие</Translation>
+    </Word>
+    <Word>
+      <Native>claim</Native>
+      <Translation> требование,  претензия, притязание; заявление</Translation>
+    </Word>
+    <Word>
+      <Native>closely</Native>
+      <Translation>близко,  вплотную,  тесно</Translation>
+    </Word>
+    <Word>
+      <Native>Community</Native>
+      <Translation>сообщество</Translation>
+    </Word>
+    <Word>
+      <Native>conceit</Native>
+      <Translation> самомнение,  заносчивость, зазнайство; тщеславие</Translation>
+    </Word>
+    <Word>
+      <Native>concept</Native>
+      <Translation>понятие,  идея, общее представление</Translation>
+    </Word>
+    <Word>
+      <Native>concrete</Native>
+      <Translation>  бетон</Translation>
+    </Word>
+    <Word>
+      <Native>conduct</Native>
+      <Translation> руководство,  ведение дела, поведение</Translation>
+    </Word>
+    <Word>
+      <Native>conflict</Native>
+      <Translation> конфликт</Translation>
+    </Word>
+    <Word>
+      <Native>cooperation</Native>
+      <Translation>взаимодействие,  связь, Сотрудничество</Translation>
+    </Word>
+    <Word>
+      <Native>cultural</Native>
+      <Translation>культурный (о поведении)</Translation>
+    </Word>
+    <Word>
+      <Native>deliberate</Native>
+      <Translation>хорошо обдуманный, взвешенный, преднамеренный</Translation>
+    </Word>
+    <Word>
+      <Native>deliberately</Native>
+      <Translation>сознательно,  осознанно, преднамеренно</Translation>
+    </Word>
+    <Word>
+      <Native>demand</Native>
+      <Translation> официальное требование, настойчивая просьба</Translation>
+    </Word>
+    <Word>
+      <Native>differentiation</Native>
+      <Translation> установление различий</Translation>
+    </Word>
+    <Word>
+      <Native>distinct</Native>
+      <Translation>отдельный,  особый; отчетливый; членораздельный</Translation>
+    </Word>
+    <Word>
+      <Native>economic</Native>
+      <Translation>экономический</Translation>
+    </Word>
+    <Word>
+      <Native>economy</Native>
+      <Translation> хозяйство,  экономика</Translation>
+    </Word>
+    <Word>
+      <Native>Effort</Native>
+      <Translation>усилие</Translation>
+    </Word>
+    <Word>
+      <Native>factual</Native>
+      <Translation> фактический,  действительный</Translation>
+    </Word>
+    <Word>
+      <Native>fatal</Native>
+      <Translation>неминуемый,  неизбежныйй, роковой,  неотвратимый</Translation>
+    </Word>
+  </Dictionary>
+  <Dictionary>
+    <DictionaryName>bw_f_Hayek-CONCEIT-2</DictionaryName>
+    <Word>
+      <Native>formation</Native>
+      <Translation>образование, формирование; учреждение</Translation>
+    </Word>
+    <Word>
+      <Native>foundation</Native>
+      <Translation>основание, положить начало </Translation>
+    </Word>
+    <Word>
+      <Native>freedom</Native>
+      <Translation> независимость, самостоятельность, свобода</Translation>
+    </Word>
+    <Word>
+      <Native>fully</Native>
+      <Translation> полностью, вполне</Translation>
+    </Word>
+    <Word>
+      <Native>gain</Native>
+      <Translation>доходы,  заработок,  барыши</Translation>
+    </Word>
+    <Word>
+      <Native>gradually</Native>
+      <Translation> нареч. исподволь,  мало-помалу</Translation>
+    </Word>
+    <Word>
+      <Native>hardly</Native>
+      <Translation>едва,  еле, насилу</Translation>
+    </Word>
+    <Word>
+      <Native>importance</Native>
+      <Translation>важность,  значимость</Translation>
+    </Word>
+    <Word>
+      <Native>increasingly</Native>
+      <Translation>нареч. все больше и больше</Translation>
+    </Word>
+    <Word>
+      <Native>indeed</Native>
+      <Translation>в самом деле,  действительно</Translation>
+    </Word>
+    <Word>
+      <Native>influence</Native>
+      <Translation>влияние,  действие, воздействие</Translation>
+    </Word>
+    <Word>
+      <Native>innate</Native>
+      <Translation>врожденный,  природный, присущий</Translation>
+    </Word>
+    <Word>
+      <Native>instinctual</Native>
+      <Translation>инстинктивный,  интуитивный</Translation>
+    </Word>
+    <Word>
+      <Native>Institution</Native>
+      <Translation>заведение, учреждение, институт</Translation>
+    </Word>
+    <Word>
+      <Native>intellectual</Native>
+      <Translation>интеллектуальный</Translation>
+    </Word>
+    <Word>
+      <Native>interaction</Native>
+      <Translation>взаимодействие; воздействие друг на друга</Translation>
+    </Word>
+    <Word>
+      <Native>Justice</Native>
+      <Translation>справедливость</Translation>
+    </Word>
+    <Word>
+      <Native>Labour</Native>
+      <Translation>амер.  труд </Translation>
+    </Word>
+    <Word>
+      <Native>largely</Native>
+      <Translation>в значительной степени, в большей мере, большей частью</Translation>
+    </Word>
+    <Word>
+      <Native>liberty</Native>
+      <Translation>свобода , нахождение на свободе</Translation>
+    </Word>
+    <Word>
+      <Native>maintain</Native>
+      <Translation>поддерживать,  удерживать, содержать в исправности</Translation>
+    </Word>
+    <Word>
+      <Native>mankind</Native>
+      <Translation> человечество</Translation>
+    </Word>
+    <Word>
+      <Native>manner</Native>
+      <Translation>способ,  метод;  образ действий, поведение </Translation>
+    </Word>
+    <Word>
+      <Native>marginal</Native>
+      <Translation>граничный, приграничный, заметки на полях</Translation>
+    </Word>
+    <Word>
+      <Native>merely</Native>
+      <Translation>только, просто; единственно</Translation>
+    </Word>
+    <Word>
+      <Native>mill</Native>
+      <Translation>мельница </Translation>
+    </Word>
+    <Word>
+      <Native>moral</Native>
+      <Translation>мораль,  назидание, поучение  </Translation>
+    </Word>
+    <Word>
+      <Native>morality</Native>
+      <Translation> мораль,  нравственность</Translation>
+    </Word>
+    <Word>
+      <Native>moreover</Native>
+      <Translation>кроме того, более того, сверх того </Translation>
+    </Word>
+  </Dictionary>
+  <Dictionary>
+    <DictionaryName>bw_f_Hayek-CONCEIT-3</DictionaryName>
+    <Word>
+      <Native>notion</Native>
+      <Translation>идея,  представление, понятие</Translation>
+    </Word>
+    <Word>
+      <Native>particularly</Native>
+      <Translation>очень, чрезвычайно; особенно, в особенности</Translation>
+    </Word>
+    <Word>
+      <Native>personal</Native>
+      <Translation>личный</Translation>
+    </Word>
+    <Word>
+      <Native>philosophy</Native>
+      <Translation> философия</Translation>
+    </Word>
+    <Word>
+      <Native>population</Native>
+      <Translation> (народо)население</Translation>
+    </Word>
+    <Word>
+      <Native>production</Native>
+      <Translation> производство,  изготовление; добыча; выработка </Translation>
+    </Word>
+    <Word>
+      <Native>productive</Native>
+      <Translation>производительный, эффективный</Translation>
+    </Word>
+    <Word>
+      <Native>rational</Native>
+      <Translation>разумный,  рациональный, целесообразный</Translation>
+    </Word>
+    <Word>
+      <Native>rationalism</Native>
+      <Translation>рационализм</Translation>
+    </Word>
+    <Word>
+      <Native>regard</Native>
+      <Translation>внимание, забота </Translation>
+    </Word>
+    <Word>
+      <Native>relative</Native>
+      <Translation> родственник, относительный, соотносительный</Translation>
+    </Word>
+    <Word>
+      <Native>remain</Native>
+      <Translation> остатки, следы прошлого, оставаться </Translation>
+    </Word>
+    <Word>
+      <Native>revolution</Native>
+      <Translation>  изменение,  переделка, революция </Translation>
+    </Word>
+    <Word>
+      <Native>role</Native>
+      <Translation>роль  </Translation>
+    </Word>
+    <Word>
+      <Native>satisfy</Native>
+      <Translation>удовлетворять, соответствовать, отвечать (чьим-л. требованиям)</Translation>
+    </Word>
+    <Word>
+      <Native>scientific</Native>
+      <Translation>научный </Translation>
+    </Word>
+    <Word>
+      <Native>serve</Native>
+      <Translation>состоять на государственной службе, служить, работать</Translation>
+    </Word>
+    <Word>
+      <Native>social</Native>
+      <Translation>общественный</Translation>
+    </Word>
+    <Word>
+      <Native>socialism</Native>
+      <Translation>социализм  </Translation>
+    </Word>
+    <Word>
+      <Native>socialist</Native>
+      <Translation> 1.социалист 2. социалистический</Translation>
+    </Word>
+    <Word>
+      <Native>solidarity</Native>
+      <Translation>солидарность,  единство</Translation>
+    </Word>
+    <Word>
+      <Native>spontaneous</Native>
+      <Translation>самопроизвольный, добровольный</Translation>
+    </Word>
+    <Word>
+      <Native>tend</Native>
+      <Translation> иметь тенденцию (к чему-л.)</Translation>
+    </Word>
+    <Word>
+      <Native>term</Native>
+      <Translation>период, срок; время; продолжительность</Translation>
+    </Word>
+    <Word>
+      <Native>towards</Native>
+      <Translation> предл к,  по направлению к </Translation>
+    </Word>
+    <Word>
+      <Native>tradition</Native>
+      <Translation> традиция</Translation>
+    </Word>
+    <Word>
+      <Native>traditional</Native>
+      <Translation> традиционный</Translation>
+    </Word>
+    <Word>
+      <Native>unknown</Native>
+      <Translation> 1. неизвестный  2. что-то неизвестное 2) незнакомец</Translation>
+    </Word>
+    <Word>
+      <Native>utility</Native>
+      <Translation>полезность, практичность, выгодность</Translation>
+    </Word>
+    <Word>
+      <Native>variety</Native>
+      <Translation> многообразие, разнообразие </Translation>
+    </Word>
+    <Word>
+      <Native>volume</Native>
+      <Translation> а) объем, масса (какого-л. вещества)</Translation>
+    </Word>
+    <Word>
+      <Native>wealth</Native>
+      <Translation> богатство,  состояние ( деньги)</Translation>
+    </Word>
+    <Word>
+      <Native>whatever</Native>
+      <Translation> 1. какой бы ни,  любой</Translation>
+    </Word>
+    <Word>
+      <Native>wherein</Native>
+      <Translation>в чем?, где?</Translation>
+    </Word>
+    <Word>
+      <Native>wish</Native>
+      <Translation>желание; пожелание; стремление</Translation>
+    </Word>
+    <Word>
+      <Native>economics</Native>
+      <Translation> экономика</Translation>
+    </Word>
+    <Word>
+      <Native>perhaps</Native>
+      <Translation> нареч. может быть,  возможно</Translation>
+    </Word>
+  </Dictionary>
+</Dictionaries>

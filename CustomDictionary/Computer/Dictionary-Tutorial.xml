@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dictionaries>
+  <Dictionary>
+    <DictionaryName>Tutorial</DictionaryName>
+    <Word>
+      <Native>shield</Native>
+      <Translation> щит,защита</Translation>
+    </Word>
+    <Word>
+      <Native>collocation</Native>
+      <Translation>словосочетание,размещение,расстановка</Translation>
+    </Word>
+    <Word>
+      <Native>latch</Native>
+      <Translation>щеколда, засов, защёлка</Translation>
+    </Word>
+    <Word>
+      <Native>spool</Native>
+      <Translation>катушка, бобина</Translation>
+    </Word>
+    <Word>
+      <Native>chunk</Native>
+      <Translation>ломоть</Translation>
+    </Word>
+    <Word>
+      <Native>pitfall</Native>
+      <Translation>подвох, ловушка, просчёт, заблуждение</Translation>
+    </Word>
+    <Word>
+      <Native>snip</Native>
+      <Translation>клочок, кусок, лоскуток, обрезок</Translation>
+    </Word>
+    <Word>
+      <Native>quiz</Native>
+      <Translation>экзамен, короткий тест</Translation>
+    </Word>
+    <Word>
+      <Native>seal</Native>
+      <Translation>тюлень,гарантия, доказательство, знак</Translation>
+    </Word>
+    <Word>
+      <Native>forge</Native>
+      <Translation>выковывать,выдумывать,изобретать</Translation>
+    </Word>
+    <Word>
+      <Native>harness</Native>
+      <Translation>упряжь, сбруя, снаряжение</Translation>
+    </Word>
+    <Word>
+      <Native>acceptance</Native>
+      <Translation>1)приём,принятие,одобрение</Translation>
+    </Word>
+    <Word>
+      <Native>acceptance</Native>
+      <Translation>1)приём,принятие,одобрение</Translation>
+    </Word>
+
+  </Dictionary>
+</Dictionaries>

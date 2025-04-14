@@ -1,0 +1,547 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dictionaries>
+  <Dictionary>
+    <DictionaryName>bw-fa-elementary-1</DictionaryName>
+    <Word>
+      <Native>ahead</Native>
+      <Translation>будущий,  грядущий</Translation>
+    </Word>
+    <Word>
+      <Native>amazement</Native>
+      <Translation>изумление,  удивление</Translation>
+    </Word>
+    <Word>
+      <Native>ambassador</Native>
+      <Translation>чрезвычайный и полномочный посол</Translation>
+    </Word>
+    <Word>
+      <Native>amusing</Native>
+      <Translation>забавный,  занимательный</Translation>
+    </Word>
+    <Word>
+      <Native>apron</Native>
+      <Translation>передник, фартук</Translation>
+    </Word>
+    <Word>
+      <Native>banged</Native>
+      <Translation>пьяный</Translation>
+    </Word>
+    <Word>
+      <Native>beg</Native>
+      <Translation>просить,  умолять</Translation>
+    </Word>
+    <Word>
+      <Native>bless</Native>
+      <Translation>благословлять; освящать благословлять</Translation>
+    </Word>
+    <Word>
+      <Native>bonnet</Native>
+      <Translation>капот</Translation>
+    </Word>
+    <Word>
+      <Native>bored</Native>
+      <Translation>скучающий  ≈ мне надоело</Translation>
+    </Word>
+    <Word>
+      <Native>bride</Native>
+      <Translation>невеста</Translation>
+    </Word>
+    <Word>
+      <Native>brightly</Native>
+      <Translation>ярко</Translation>
+    </Word>
+    <Word>
+      <Native>burned</Native>
+      <Translation>1) обожженный 2) пережженный 3) сожженный</Translation>
+    </Word>
+    <Word>
+      <Native>carelessness</Native>
+      <Translation>недобросовестность</Translation>
+    </Word>
+    <Word>
+      <Native>centre</Native>
+      <Translation>am центр</Translation>
+    </Word>
+    <Word>
+      <Native>chemistry</Native>
+      <Translation>химия</Translation>
+    </Word>
+    <Word>
+      <Native>churchman</Native>
+      <Translation>священник</Translation>
+    </Word>
+    <Word>
+      <Native>clearer</Native>
+      <Translation>очиститель  пищ. осветлитель</Translation>
+    </Word>
+    <Word>
+      <Native>cloak</Native>
+      <Translation>накидка, плащ; мантия</Translation>
+    </Word>
+    <Word>
+      <Native>club</Native>
+      <Translation>дубинка,  дубина</Translation>
+    </Word>
+    <Word>
+      <Native>cottage</Native>
+      <Translation>загородный дом</Translation>
+    </Word>
+    <Word>
+      <Native>crash</Native>
+      <Translation>грохот, треск</Translation>
+    </Word>
+    <Word>
+      <Native>curly</Native>
+      <Translation>кудрявый,  курчавый</Translation>
+    </Word>
+    <Word>
+      <Native>darkened</Native>
+      <Translation>затемненный</Translation>
+    </Word>
+    <Word>
+      <Native>deanery</Native>
+      <Translation>деканство деканат  епархия</Translation>
+    </Word>
+    <Word>
+      <Native>destroy</Native>
+      <Translation>разрушать,  рушить,  сносить</Translation>
+    </Word>
+    <Word>
+      <Native>difference</Native>
+      <Translation>разница,  несходство</Translation>
+    </Word>
+    <Word>
+      <Native>doorway</Native>
+      <Translation>а) дверной проем,  пролет</Translation>
+    </Word>
+    <Word>
+      <Native>drawers</Native>
+      <Translation>кальсоны,  подштанники</Translation>
+    </Word>
+    <Word>
+      <Native>dreadful</Native>
+      <Translation>страшный,  ужасный</Translation>
+    </Word>
+    <Word>
+      <Native>driven</Native>
+      <Translation>управляемый, нанесенный; наносимый, наметаемый</Translation>
+    </Word>
+    <Word>
+      <Native>earnest</Native>
+      <Translation>серьезный,  веский, весомый, важный</Translation>
+    </Word>
+    <Word>
+      <Native>examined</Native>
+      <Translation>1) исследованный 2) проверенный 3) разобранный 4) рассмотренный</Translation>
+    </Word>
+    <Word>
+      <Native>exercise</Native>
+      <Translation>осуществление,  применение, упражнение, тренировка</Translation>
+    </Word>
+    <Word>
+      <Native>explode</Native>
+      <Translation>взрывать(ся)</Translation>
+    </Word>
+    <Word>
+      <Native>Explorer</Native>
+      <Translation>исследователь</Translation>
+    </Word>
+    <Word>
+      <Native>failure</Native>
+      <Translation>неспособность, неудача, неуспех, провал</Translation>
+    </Word>
+    <Word>
+      <Native>fan</Native>
+      <Translation> поклонник,веер</Translation>
+    </Word>
+  </Dictionary>
+  <Dictionary>
+    <DictionaryName>bw-fa-elementary-2</DictionaryName>
+    <Word>
+      <Native>fashion</Native>
+      <Translation>форма,  очертания, покрой, манера</Translation>
+    </Word>
+    <Word>
+      <Native>fiance</Native>
+      <Translation>жених</Translation>
+    </Word>
+    <Word>
+      <Native>FLASH</Native>
+      <Translation>ВСПЫШКА</Translation>
+    </Word>
+    <Word>
+      <Native>forger</Native>
+      <Translation>кузнец, фальшивомонетчик</Translation>
+    </Word>
+    <Word>
+      <Native>fortuneteller</Native>
+      <Translation>гадалка</Translation>
+    </Word>
+    <Word>
+      <Native>forwards</Native>
+      <Translation>вперед,  дальше</Translation>
+    </Word>
+    <Word>
+      <Native>fright</Native>
+      <Translation>сильный внезапный испуг</Translation>
+    </Word>
+    <Word>
+      <Native>gaol</Native>
+      <Translation>тюрьма заключать в тюрьму</Translation>
+    </Word>
+    <Word>
+      <Native>gas</Native>
+      <Translation>газ бензин</Translation>
+    </Word>
+    <Word>
+      <Native>governor</Native>
+      <Translation>правитель,  губернатор</Translation>
+    </Word>
+    <Word>
+      <Native>growling</Native>
+      <Translation>рычание ворчание</Translation>
+    </Word>
+    <Word>
+      <Native>guilty</Native>
+      <Translation>виновный; виноватый</Translation>
+    </Word>
+    <Word>
+      <Native>handwriting</Native>
+      <Translation>почерк</Translation>
+    </Word>
+    <Word>
+      <Native>hatred</Native>
+      <Translation>ненависть, отвращение, омерзение</Translation>
+    </Word>
+    <Word>
+      <Native>headless</Native>
+      <Translation>обезглавленный</Translation>
+    </Word>
+    <Word>
+      <Native>hero</Native>
+      <Translation>герой ≈ герой-победитель</Translation>
+    </Word>
+    <Word>
+      <Native>huge</Native>
+      <Translation>огромный, громадный, гигантский, колоссальный</Translation>
+    </Word>
+    <Word>
+      <Native>hurry</Native>
+      <Translation>спешка; торопливость; поспешность</Translation>
+    </Word>
+    <Word>
+      <Native>icy</Native>
+      <Translation>ледяной, очень холодный</Translation>
+    </Word>
+    <Word>
+      <Native>innocent</Native>
+      <Translation>невинный человек невинный младенец</Translation>
+    </Word>
+    <Word>
+      <Native>introduce</Native>
+      <Translation>вводить; вставлять, помещать</Translation>
+    </Word>
+    <Word>
+      <Native>joined</Native>
+      <Translation>1) сращенный 2) объединенный 3) Соединенный</Translation>
+    </Word>
+    <Word>
+      <Native>keyhole</Native>
+      <Translation>замочная скважина</Translation>
+    </Word>
+    <Word>
+      <Native>lake</Native>
+      <Translation>озеро</Translation>
+    </Word>
+    <Word>
+      <Native>laughter</Native>
+      <Translation>смех,  хохот</Translation>
+    </Word>
+    <Word>
+      <Native>leaning</Native>
+      <Translation>склонность, пристрастие</Translation>
+    </Word>
+    <Word>
+      <Native>legal</Native>
+      <Translation>правовой,  юридический, судебный</Translation>
+    </Word>
+    <Word>
+      <Native>lifeless</Native>
+      <Translation>бездыханный, неодушевленный, неживой</Translation>
+    </Word>
+    <Word>
+      <Native>loneliness</Native>
+      <Translation>одиночество</Translation>
+    </Word>
+  </Dictionary>
+  <Dictionary>
+    <DictionaryName>bw-fa-elementary-3</DictionaryName>
+    <Word>
+      <Native>lucky</Native>
+      <Translation>удачный, удачливый, счастливчик</Translation>
+    </Word>
+    <Word>
+      <Native>maker</Native>
+      <Translation>творец, создатель</Translation>
+    </Word>
+    <Word>
+      <Native>misery</Native>
+      <Translation>страдание; горе; мучение</Translation>
+    </Word>
+    <Word>
+      <Native>monster</Native>
+      <Translation>чудовище, кто-л. огромного размера</Translation>
+    </Word>
+    <Word>
+      <Native>muddy</Native>
+      <Translation>грязный, слякотный; илистый;</Translation>
+    </Word>
+    <Word>
+      <Native>necklace</Native>
+      <Translation>ожерелье; колье</Translation>
+    </Word>
+    <Word>
+      <Native>noisy</Native>
+      <Translation>шумный, галдящий</Translation>
+    </Word>
+    <Word>
+      <Native>oldfashioned</Native>
+      <Translation>устарелый,  старомодный</Translation>
+    </Word>
+    <Word>
+      <Native>ordinary</Native>
+      <Translation>обычный,  обыкновенный, повседневный, монотонный</Translation>
+    </Word>
+    <Word>
+      <Native>owe</Native>
+      <Translation>быть должным, задолжать; быть в долгу</Translation>
+    </Word>
+    <Word>
+      <Native>painless</Native>
+      <Translation>безболезненный</Translation>
+    </Word>
+    <Word>
+      <Native>peaceful</Native>
+      <Translation>мирный,  миролюбивый,  тихий</Translation>
+    </Word>
+    <Word>
+      <Native>pharmacy</Native>
+      <Translation>аптечное дело</Translation>
+    </Word>
+    <Word>
+      <Native>pleasant</Native>
+      <Translation>приятный; милый, славный; симпатичный</Translation>
+    </Word>
+    <Word>
+      <Native>poetry</Native>
+      <Translation>поэзия,  стихи</Translation>
+    </Word>
+    <Word>
+      <Native>popular</Native>
+      <Translation>народный  адаптированный, понимаемый</Translation>
+    </Word>
+    <Word>
+      <Native>prince</Native>
+      <Translation>принц</Translation>
+    </Word>
+    <Word>
+      <Native>princess</Native>
+      <Translation>принцесса,  княгиня</Translation>
+    </Word>
+    <Word>
+      <Native>professional</Native>
+      <Translation>профессиональный</Translation>
+    </Word>
+    <Word>
+      <Native>professor</Native>
+      <Translation>профессор (университета)</Translation>
+    </Word>
+    <Word>
+      <Native>protect</Native>
+      <Translation>защищать, охранять, предохранять</Translation>
+    </Word>
+    <Word>
+      <Native>rage</Native>
+      <Translation>ярость, гнев, бешенство</Translation>
+    </Word>
+    <Word>
+      <Native>rake</Native>
+      <Translation>грабли садовый инструмент</Translation>
+    </Word>
+    <Word>
+      <Native>restful</Native>
+      <Translation>успокоительный, успокаивающий</Translation>
+    </Word>
+    <Word>
+      <Native>restless</Native>
+      <Translation>беспокойный,  неугомонный</Translation>
+    </Word>
+    <Word>
+      <Native>safely</Native>
+      <Translation>в сохранности 2) безопасно</Translation>
+    </Word>
+    <Word>
+      <Native>scream</Native>
+      <Translation>пронзительный крик, вопль, визг</Translation>
+    </Word>
+    <Word>
+      <Native>setting</Native>
+      <Translation>окружающая обстановка, окружение</Translation>
+    </Word>
+    <Word>
+      <Native>shriek</Native>
+      <Translation>скрип, скрежет, виз</Translation>
+    </Word>
+    <Word>
+      <Native>skid</Native>
+      <Translation>скаты,  полоз,  салазки</Translation>
+    </Word>
+    <Word>
+      <Native>smashed</Native>
+      <Translation>разг. вдрызг пьяный</Translation>
+    </Word>
+    <Word>
+      <Native>smelt</Native>
+      <Translation>плавка, расплавленный металл</Translation>
+    </Word>
+  </Dictionary>
+  <Dictionary>
+    <DictionaryName>bw-fa-elementary-3-1</DictionaryName>
+    <Word>
+      <Native>spark</Native>
+      <Translation>искра</Translation>
+    </Word>
+    <Word>
+      <Native>speed</Native>
+      <Translation>скорость,  темп</Translation>
+    </Word>
+    <Word>
+      <Native>splash</Native>
+      <Translation>брызганье,  брызги, плеск, всплеск</Translation>
+    </Word>
+    <Word>
+      <Native>spoken</Native>
+      <Translation>разговорный</Translation>
+    </Word>
+    <Word>
+      <Native>staircase</Native>
+      <Translation>лестница, лестничный марш</Translation>
+    </Word>
+    <Word>
+      <Native>steep</Native>
+      <Translation>круча, крутизна; обрыв, пропасть</Translation>
+    </Word>
+    <Word>
+      <Native>strangely</Native>
+      <Translation>странно,  необычно необыкновенно</Translation>
+    </Word>
+    <Word>
+      <Native>strength</Native>
+      <Translation>сила,  прочность; крепость</Translation>
+    </Word>
+    <Word>
+      <Native>suicide</Native>
+      <Translation>самоубийство</Translation>
+    </Word>
+    <Word>
+      <Native>sword</Native>
+      <Translation>меч,  шпага,  рапира</Translation>
+    </Word>
+    <Word>
+      <Native>terribly</Native>
+      <Translation>страшно, ужасно (эмоционально-усилительно)</Translation>
+    </Word>
+    <Word>
+      <Native>terrify</Native>
+      <Translation>ужасать; внушать или вселять ужас</Translation>
+    </Word>
+    <Word>
+      <Native>thankfully</Native>
+      <Translation>к счастью, слава богу</Translation>
+    </Word>
+    <Word>
+      <Native>thinner</Native>
+      <Translation>прореживатель разбавитель растворитель</Translation>
+    </Word>
+    <Word>
+      <Native>thunderstorm</Native>
+      <Translation>гроза</Translation>
+    </Word>
+    <Word>
+      <Native>tine</Native>
+      <Translation>зубец вил,  бороны,  острие</Translation>
+    </Word>
+    <Word>
+      <Native>torn</Native>
+      <Translation>оборванный</Translation>
+    </Word>
+    <Word>
+      <Native>toy</Native>
+      <Translation>забава,  игрушка</Translation>
+    </Word>
+    <Word>
+      <Native>twice</Native>
+      <Translation>дважды 2) вдвое</Translation>
+    </Word>
+    <Word>
+      <Native>unfashionable</Native>
+      <Translation>немодный</Translation>
+    </Word>
+    <Word>
+      <Native>unhappiness</Native>
+      <Translation>Несчастье</Translation>
+    </Word>
+    <Word>
+      <Native>united</Native>
+      <Translation>соединенный, объединенный, совместный</Translation>
+    </Word>
+    <Word>
+      <Native>valley</Native>
+      <Translation>долина</Translation>
+    </Word>
+    <Word>
+      <Native>valuable</Native>
+      <Translation>ценный,  дорогой, дорогостоящий, ценности</Translation>
+    </Word>
+    <Word>
+      <Native>vegetable</Native>
+      <Translation>овощ</Translation>
+    </Word>
+    <Word>
+      <Native>voyage</Native>
+      <Translation>плавание, , морское путешествие</Translation>
+    </Word>
+    <Word>
+      <Native>wagon</Native>
+      <Translation>тележка, повозка</Translation>
+    </Word>
+    <Word>
+      <Native>wander</Native>
+      <Translation>1.бродить,  странствовать</Translation>
+    </Word>
+    <Word>
+      <Native>wickedness</Native>
+      <Translation>злобность злая выходка злой поступок</Translation>
+    </Word>
+    <Word>
+      <Native>widow</Native>
+      <Translation>вдова</Translation>
+    </Word>
+    <Word>
+      <Native>wonder</Native>
+      <Translation>чудо; нечто удивительное, неожиданное</Translation>
+    </Word>
+    <Word>
+      <Native>worn</Native>
+      <Translation>потертый,  изношенный,  старый</Translation>
+    </Word>
+    <Word>
+      <Native>wrinkled</Native>
+      <Translation>морщинистый,  измятый</Translation>
+    </Word>
+    <Word>
+      <Native>writer</Native>
+      <Translation>писатель,  автор,  литератор</Translation>
+    </Word>
+  </Dictionary>
+</Dictionaries>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dictionaries>
+  <Dictionary>
+    <DictionaryName>bw-sql-1</DictionaryName>
+    <Word>
+      <Native>embark</Native>
+      <Translation>грузить на корабль</Translation>
+    </Word>
+    <Word>
+      <Native>envy</Native>
+      <Translation>зависть завидовать</Translation>
+    </Word>
+    <Word>
+      <Native>ahead</Native>
+      <Translation>будущий,  грядущий</Translation>
+    </Word>
+    <Word>
+      <Native>postpone</Native>
+      <Translation>откладывать,  отсрочивать</Translation>
+    </Word>
+    <Word>
+      <Native>realm</Native>
+      <Translation>королевство,  государство</Translation>
+    </Word>
+    <Word>
+      <Native>scaffold</Native>
+      <Translation>леса, подмости эшафот; плаха;</Translation>
+    </Word>
+    <Word>
+      <Native>flaw</Native>
+      <Translation>трещина пущение, ошибка трескаться; портиться</Translation>
+    </Word>
+    <Word>
+      <Native>intimidate</Native>
+      <Translation>пугать; запугивать, устрашать</Translation>
+    </Word>
+    <Word>
+      <Native>albeit</Native>
+      <Translation>союз,  хотя, даже хотя, тем не менее</Translation>
+    </Word>
+  </Dictionary>
+</Dictionaries>

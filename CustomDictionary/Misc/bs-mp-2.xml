@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dictionaries>
+  <Dictionary>
+    <DictionaryName>bs-mp-2</DictionaryName>
+    <Word>
+      <Native>feint</Native>
+      <Translation>притворство,  видимость, ложная атака</Translation>
+    </Word>
+    <Word>
+      <Native>dummy</Native>
+      <Translation>фиктивный; учебный макет, замена</Translation>
+    </Word>
+    <Word>
+      <Native>headquarters</Native>
+      <Translation>_воен. штаб; орган управления</Translation>
+    </Word>
+    <Word>
+      <Native>suspect</Native>
+      <Translation>подозревать, подозреваемый или подозрительный человек</Translation>
+    </Word>
+    <Word>
+      <Native>bomber</Native>
+      <Translation>бомбардировщик</Translation>
+    </Word>
+    <Word>
+      <Native>fighter</Native>
+      <Translation>_ав. истребитель</Translation>
+    </Word>
+    <Word>
+      <Native>numbness</Native>
+      <Translation>оцепенение</Translation>
+    </Word>
+    <Word>
+      <Native>jammer</Native>
+      <Translation>передатчик помех, глушитель</Translation>
+    </Word>
+    <Word>
+      <Native>patrol</Native>
+      <Translation>патруль,  дозор</Translation>
+    </Word>
+    <Word>
+      <Native>reconnaissance</Native>
+      <Translation>_воен. разведка</Translation>
+    </Word>
+    <Word>
+      <Native>trainer</Native>
+      <Translation>тренажер</Translation>
+    </Word>
+    <Word>
+      <Native>utility</Native>
+      <Translation>здания, установки, коммунальные сооружения</Translation>
+    </Word>
+    <Word>
+      <Native>airborne</Native>
+      <Translation>мех. размещаемый на самолете</Translation>
+    </Word>
+    <Word>
+      <Native>warfare</Native>
+      <Translation>боевые действия; способы ведения войны</Translation>
+    </Word>
+    <Word>
+      <Native>countermeasure</Native>
+      <Translation>контрмера,  противодействие</Translation>
+    </Word>
+    <Word>
+      <Native>mine</Native>
+      <Translation>мина; фугас</Translation>
+    </Word>
+    <Word>
+      <Native>rotary</Native>
+      <Translation>вращательный,  поворотный</Translation>
+    </Word>
+    <Word>
+      <Native>airship</Native>
+      <Translation>дирижабль</Translation>
+    </Word>
+    <Word>
+      <Native>tether</Native>
+      <Translation>привязать оковы; узы</Translation>
+    </Word>
+    <Word>
+      <Native>decoy</Native>
+      <Translation>макет; ложная цель</Translation>
+    </Word>
+    <Word>
+      <Native>interceptor</Native>
+      <Translation>ав. истребитель-перехватчик</Translation>
+    </Word>
+    <Word>
+      <Native>drogue</Native>
+      <Translation>плавучий якорь. тормозной парашют</Translation>
+    </Word>
+    <Word>
+      <Native>tow</Native>
+      <Translation>буксировка</Translation>
+    </Word>
+    <Word>
+      <Native>array</Native>
+      <Translation>строй, боевой порядок, совокупность; набор</Translation>
+    </Word>
+    <Word>
+      <Native>platoon</Native>
+      <Translation>_воен. взвод</Translation>
+    </Word>
+    <Word>
+      <Native>detachment</Native>
+      <Translation>отделение</Translation>
+    </Word>
+    <Word>
+      <Native>troop</Native>
+      <Translation>группа людей,  отряд</Translation>
+    </Word>
+    <Word>
+      <Native>battalion</Native>
+      <Translation>_воен. батальон</Translation>
+    </Word>
+    <Word>
+      <Native>squadron</Native>
+      <Translation>_воен. эскадрон, артиллерийский дивизион</Translation>
+    </Word>
+    <Word>
+      <Native>regiment</Native>
+      <Translation>_воен. полк</Translation>
+    </Word>
+    <Word>
+      <Native>division</Native>
+      <Translation>Дивизия</Translation>
+    </Word>
+    <Word>
+      <Native>corps</Native>
+      <Translation>_воен. корпус</Translation>
+    </Word>
+    <Word>
+      <Native>armoured</Native>
+      <Translation>_воен. бронированный</Translation>
+    </Word>
+    <Word>
+      <Native>ordnance</Native>
+      <Translation>артиллерийские орудия</Translation>
+    </Word>
+    <Word>
+      <Native>camp</Native>
+      <Translation>лагерь</Translation>
+    </Word>
+  </Dictionary>
+</Dictionaries>

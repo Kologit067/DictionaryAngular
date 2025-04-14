@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dictionaries>
+  <Dictionary>
+    <DictionaryName>bw-fa-intermediate-11-12</DictionaryName>
+    <Word>
+      <Native>whisper</Native>
+      <Translation>шепот</Translation>
+    </Word>
+    <Word>
+      <Native>spyglass</Native>
+      <Translation>подзорная труба</Translation>
+    </Word>
+    <Word>
+      <Native>trace</Native>
+      <Translation>след, отпечаток, признаки, прослеживать(ся)</Translation>
+    </Word>
+    <Word>
+      <Native>seaman</Native>
+      <Translation>моряк,  матрос</Translation>
+    </Word>
+    <Word>
+      <Native>mention</Native>
+      <Translation>упоминание, ссылка (на)</Translation>
+    </Word>
+    <Word>
+      <Native>groan</Native>
+      <Translation>стон, жалобы (раненых и т.п.)</Translation>
+    </Word>
+    <Word>
+      <Native>duke</Native>
+      <Translation>герцог</Translation>
+    </Word>
+    <Word>
+      <Native>chorus</Native>
+      <Translation>хор</Translation>
+    </Word>
+    <Word>
+      <Native>crawl</Native>
+      <Translation>ползать, медленно продвигаться</Translation>
+    </Word>
+    <Word>
+      <Native>anxious</Native>
+      <Translation>озабоченный,  беспокоящийся, тревожащийся, волнующийся</Translation>
+    </Word>
+    <Word>
+      <Native>scarcely</Native>
+      <Translation>едва, почти (не)</Translation>
+    </Word>
+    <Word>
+      <Native>warn</Native>
+      <Translation>предупреждать,  предостерегать</Translation>
+    </Word>
+    <Word>
+      <Native>touching</Native>
+      <Translation>трогательный, прикосновение и пр. касание</Translation>
+    </Word>
+    <Word>
+      <Native>trunk</Native>
+      <Translation>ствол дерева, туловище, магистраль</Translation>
+    </Word>
+    <Word>
+      <Native>swell</Native>
+      <Translation>набухать отекать разбухать опухать</Translation>
+    </Word>
+    <Word>
+      <Native>instantly</Native>
+      <Translation>немедленно, тотчас; мгновенно, моментально</Translation>
+    </Word>
+    <Word>
+      <Native>hedge</Native>
+      <Translation>(живая) изгородь,  ограда</Translation>
+    </Word>
+    <Word>
+      <Native>flesh</Native>
+      <Translation>мясо, тело, плоть</Translation>
+    </Word>
+    <Word>
+      <Native>cool</Native>
+      <Translation>прохладный, свежий</Translation>
+    </Word>
+    <Word>
+      <Native>attitude</Native>
+      <Translation>позиция, отношение к чему-л</Translation>
+    </Word>
+    <Word>
+      <Native>chart</Native>
+      <Translation>график, диаграмма, схема, таблица</Translation>
+    </Word>
+    <Word>
+      <Native>urgent</Native>
+      <Translation>срочный,  неотложный, необходимый</Translation>
+    </Word>
+    <Word>
+      <Native>parlour</Native>
+      <Translation>гостиная, общая комната (в квартире), приемная</Translation>
+    </Word>
+    <Word>
+      <Native>prisoner</Native>
+      <Translation>заключенный,  арестант</Translation>
+    </Word>
+    <Word>
+      <Native>movement</Native>
+      <Translation>движение; перемещение, передвижение</Translation>
+    </Word>
+    <Word>
+      <Native>naturally</Native>
+      <Translation>естественно,свободно, легко</Translation>
+    </Word>
+    <Word>
+      <Native>occasion</Native>
+      <Translation>возможность, случай, шанс</Translation>
+    </Word>
+    <Word>
+      <Native>hunter</Native>
+      <Translation>охотник</Translation>
+    </Word>
+    <Word>
+      <Native>battle</Native>
+      <Translation>битва,  сражение,  бой</Translation>
+    </Word>
+    <Word>
+      <Native>wandered</Native>
+      <Translation>заблудившийся, заблудший,  запутавшийся</Translation>
+    </Word>
+    <Word>
+      <Native>threatened</Native>
+      <Translation>такой, которым угрожают</Translation>
+    </Word>
+    <Word>
+      <Native>tapping</Native>
+      <Translation>укол,  прокол,  пункция</Translation>
+    </Word>
+    <Word>
+      <Native>rusty</Native>
+      <Translation>ржавый,  заржавленный</Translation>
+    </Word>
+    <Word>
+      <Native>peak</Native>
+      <Translation>пик; остроконечная вершина</Translation>
+    </Word>
+    <Word>
+      <Native>lightly</Native>
+      <Translation>слегка, едва; чуть-чуть</Translation>
+    </Word>
+    <Word>
+      <Native>distressed</Native>
+      <Translation>бедствующий, потерпевший аварию</Translation>
+    </Word>
+    <Word>
+      <Native>unlocked</Native>
+      <Translation>незамкнутый, незапертый</Translation>
+    </Word>
+    <Word>
+      <Native>wounded</Native>
+      <Translation>раненый, уязвленный, оскорбленный</Translation>
+    </Word>
+    <Word>
+      <Native>volley</Native>
+      <Translation>залп, град, сыпаться градом</Translation>
+    </Word>
+    <Word>
+      <Native>squire</Native>
+      <Translation>помещик,  сквайр</Translation>
+    </Word>
+    <Word>
+      <Native>suggest</Native>
+      <Translation>предлагать, советовать</Translation>
+    </Word>
+  </Dictionary>
+  <Dictionary>
+    <DictionaryName>bw-fa-intermediate-11-12-1</DictionaryName>
+    <Word>
+      <Native>surrounded</Native>
+      <Translation>Окруженный</Translation>
+    </Word>
+    <Word>
+      <Native>shy</Native>
+      <Translation>застенчивый, стеснительный, стыдливый; робкий,</Translation>
+    </Word>
+    <Word>
+      <Native>horrid</Native>
+      <Translation>страшный,  ужасный, противный, отталкивающий;</Translation>
+    </Word>
+    <Word>
+      <Native>fellow</Native>
+      <Translation>приятель,  товарищ, коллега, собрат</Translation>
+    </Word>
+    <Word>
+      <Native>fancy</Native>
+      <Translation>иллюзия; галлюцинация, воображение, фантазия</Translation>
+    </Word>
+    <Word>
+      <Native>fearful</Native>
+      <Translation>вселяющий страх,  страшный, пугающий</Translation>
+    </Word>
+    <Word>
+      <Native>dim</Native>
+      <Translation>темнота,  сумерки, слабость зрения</Translation>
+    </Word>
+    <Word>
+      <Native>deadly</Native>
+      <Translation>смертельный; смертоносный</Translation>
+    </Word>
+    <Word>
+      <Native>barrel</Native>
+      <Translation>бочка,  бочонок</Translation>
+    </Word>
+    <Word>
+      <Native>shadow</Native>
+      <Translation>тень</Translation>
+    </Word>
+    <Word>
+      <Native>studying</Native>
+      <Translation>изучающий, Исследование</Translation>
+    </Word>
+    <Word>
+      <Native>ruined</Native>
+      <Translation>разрушенный, развалившийся, погубленный,  разоренный</Translation>
+    </Word>
+    <Word>
+      <Native>retired</Native>
+      <Translation>удалившийся от дел, в отставке; ушедший на пенсию</Translation>
+    </Word>
+    <Word>
+      <Native>proper</Native>
+      <Translation>присущий, свойственный, пристойный</Translation>
+    </Word>
+    <Word>
+      <Native>plainly</Native>
+      <Translation>ясно,  различимо, просто, понятно</Translation>
+    </Word>
+    <Word>
+      <Native>oath</Native>
+      <Translation>клятва, присяга</Translation>
+    </Word>
+    <Word>
+      <Native>leap</Native>
+      <Translation>прям. и перен. прыжок; скачок, рискованное дело</Translation>
+    </Word>
+    <Word>
+      <Native>habit</Native>
+      <Translation>привычка, обыкновение,  обычай, заведенный порядок</Translation>
+    </Word>
+    <Word>
+      <Native>grateful</Native>
+      <Translation>благодарный; признательный, выражающий благодарность</Translation>
+    </Word>
+    <Word>
+      <Native>duty</Native>
+      <Translation>почтение,  повиновение, служебные обязанности; дежурство</Translation>
+    </Word>
+    <Word>
+      <Native>dressing</Native>
+      <Translation>одевание, убранство, отделка, очистка</Translation>
+    </Word>
+    <Word>
+      <Native>cove</Native>
+      <Translation>бухточка (среди скал), пещера (в скале)  :</Translation>
+    </Word>
+    <Word>
+      <Native>departure</Native>
+      <Translation>отъезд, отправление, отбытие</Translation>
+    </Word>
+    <Word>
+      <Native>cannon</Native>
+      <Translation>артиллерийское орудие, пушка</Translation>
+    </Word>
+    <Word>
+      <Native>aim</Native>
+      <Translation>цель, прицел, замысел</Translation>
+    </Word>
+    <Word>
+      <Native>weakness</Native>
+      <Translation>слабость, ослабление, ослабленность</Translation>
+    </Word>
+    <Word>
+      <Native>spare</Native>
+      <Translation>запасной, запасный; резервный</Translation>
+    </Word>
+    <Word>
+      <Native>sunlight</Native>
+      <Translation>солнечный свет</Translation>
+    </Word>
+    <Word>
+      <Native>personally</Native>
+      <Translation>лично,  персонально, что касается меня</Translation>
+    </Word>
+    <Word>
+      <Native>meantime</Native>
+      <Translation>тем временем,  между тем</Translation>
+    </Word>
+    <Word>
+      <Native>chamber</Native>
+      <Translation>палата</Translation>
+    </Word>
+    <Word>
+      <Native>behave</Native>
+      <Translation>вести себя,  поступать, держаться</Translation>
+    </Word>
+    <Word>
+      <Native>arriving</Native>
+      <Translation>прибывающий</Translation>
+    </Word>
+    <Word>
+      <Native>vain</Native>
+      <Translation>тщетный, напрасный, бесполезный</Translation>
+    </Word>
+    <Word>
+      <Native>riding</Native>
+      <Translation>верховая езда, мор. стоянка</Translation>
+    </Word>
+    <Word>
+      <Native>evidently</Native>
+      <Translation>очевидно,  несомненно, явно, ясно</Translation>
+    </Word>
+    <Word>
+      <Native>breathed</Native>
+      <Translation>(фонетика) глухой (о звуке)</Translation>
+    </Word>
+    <Word>
+      <Native>beaten</Native>
+      <Translation>битый, избитый, побитый</Translation>
+    </Word>
+    <Word>
+      <Native>arrival</Native>
+      <Translation>приезд, прибытие</Translation>
+    </Word>
+    <Word>
+      <Native>acting</Native>
+      <Translation>театр. выступление,  игра, представление</Translation>
+    </Word>
+  </Dictionary>
+</Dictionaries>

@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dictionaries>
+  <Dictionary>
+    <DictionaryName>bw-bi-Zelikovsky-BIOINFORMATICS_ALGORITHMS</DictionaryName>
+    <Word>
+      <Native>ambiguous</Native>
+      <Translation>двусмысленный  :  2) сомнительный</Translation>
+    </Word>
+    <Word>
+      <Native>amplification</Native>
+      <Translation>увеличение,  подъем,  прирост</Translation>
+    </Word>
+    <Word>
+      <Native>automaton</Native>
+      <Translation>автомат</Translation>
+    </Word>
+    <Word>
+      <Native>chip</Native>
+      <Translation>щепка,  лучина,  стружка</Translation>
+    </Word>
+    <Word>
+      <Native>chordal</Native>
+      <Translation>хордальный</Translation>
+    </Word>
+    <Word>
+      <Native>classifier</Native>
+      <Translation>классификатор</Translation>
+    </Word>
+    <Word>
+      <Native>comparative</Native>
+      <Translation>сравнительный сопоставительный</Translation>
+    </Word>
+    <Word>
+      <Native>compatible</Native>
+      <Translation>совместимый,  сочетаемый</Translation>
+    </Word>
+    <Word>
+      <Native>compound</Native>
+      <Translation>соединение; смесь; состав, строение,  структура</Translation>
+    </Word>
+    <Word>
+      <Native>consecutive</Native>
+      <Translation>последовательный</Translation>
+    </Word>
+    <Word>
+      <Native>correlation</Native>
+      <Translation>взаимозависимость, взаимоотношение, взаимосвязь,  соотношение</Translation>
+    </Word>
+    <Word>
+      <Native>dataset</Native>
+      <Translation>набор данных</Translation>
+    </Word>
+    <Word>
+      <Native>decomposition</Native>
+      <Translation>разложение,  расчленение, разбиение</Translation>
+    </Word>
+    <Word>
+      <Native>degeneracy</Native>
+      <Translation>вырожденность,  вырождение</Translation>
+    </Word>
+    <Word>
+      <Native>denote</Native>
+      <Translation>отмечать (знаком,  меткой)</Translation>
+    </Word>
+    <Word>
+      <Native>discrete</Native>
+      <Translation>прерывистый, дискретный</Translation>
+    </Word>
+    <Word>
+      <Native>duplication</Native>
+      <Translation>удваивание,  удвоение</Translation>
+    </Word>
+    <Word>
+      <Native>estimation</Native>
+      <Translation>оценка, суждение, мнение, почтение,  уважение</Translation>
+    </Word>
+    <Word>
+      <Native>formulation</Native>
+      <Translation>формулировка</Translation>
+    </Word>
+    <Word>
+      <Native>hexagonal</Native>
+      <Translation>шестиугольный</Translation>
+    </Word>
+    <Word>
+      <Native>hum</Native>
+      <Translation>жужжание</Translation>
+    </Word>
+    <Word>
+      <Native>imputation</Native>
+      <Translation>вменение в вину, инсинуация</Translation>
+    </Word>
+    <Word>
+      <Native>intersection</Native>
+      <Translation>перекрещивание, пересечение</Translation>
+    </Word>
+    <Word>
+      <Native>isomorphic</Native>
+      <Translation>изоморфный</Translation>
+    </Word>
+    <Word>
+      <Native>lateral</Native>
+      <Translation>боковой,  поперечный</Translation>
+    </Word>
+    <Word>
+      <Native>maximize</Native>
+      <Translation>увеличивать до крайности</Translation>
+    </Word>
+    <Word>
+      <Native>minimization</Native>
+      <Translation>сокращение до минимума</Translation>
+    </Word>
+    <Word>
+      <Native>multiplex</Native>
+      <Translation>многократный, многочисленный, сложный,  составной</Translation>
+    </Word>
+    <Word>
+      <Native>novel</Native>
+      <Translation>роман  новелла</Translation>
+    </Word>
+    <Word>
+      <Native>occurrence</Native>
+      <Translation>инцидент,  происшествие</Translation>
+    </Word>
+    <Word>
+      <Native>optimum</Native>
+      <Translation>наиболее благоприятные условия; оптимум</Translation>
+    </Word>
+    <Word>
+      <Native>partition</Native>
+      <Translation>расчленение,  деление, распределение</Translation>
+    </Word>
+    <Word>
+      <Native>pathway</Native>
+      <Translation>тропа,  тропинка,  дорожка, путь</Translation>
+    </Word>
+    <Word>
+      <Native>posterior</Native>
+      <Translation>задний, зад, ягодицы</Translation>
+    </Word>
+    <Word>
+      <Native>presence</Native>
+      <Translation>присутствие</Translation>
+    </Word>
+    <Word>
+      <Native>prior</Native>
+      <Translation>прежний,  бывший, настоятель</Translation>
+    </Word>
+    <Word>
+      <Native>probabilistic</Native>
+      <Translation>вероятный, вытекающий из теории вероятностей</Translation>
+    </Word>
+    <Word>
+      <Native>probe</Native>
+      <Translation>зонд, щуп</Translation>
+    </Word>
+    <Word>
+      <Native>prostate</Native>
+      <Translation>сущ.,  анат. предстательная железа</Translation>
+    </Word>
+    <Word>
+      <Native>seeds</Native>
+      <Translation>(мн.ч.)рассада</Translation>
+    </Word>
+    <Word>
+      <Native>sensitivity</Native>
+      <Translation>чувствительность 2) восприимчивость 3) щепетильность</Translation>
+    </Word>
+    <Word>
+      <Native>significantly</Native>
+      <Translation>нареч. многозначительно</Translation>
+    </Word>
+    <Word>
+      <Native>simulated</Native>
+      <Translation>поддельный,  фальшивый, моделирующий</Translation>
+    </Word>
+    <Word>
+      <Native>speciation</Native>
+      <Translation>видообразование</Translation>
+    </Word>
+    <Word>
+      <Native>subgraph</Native>
+      <Translation>подграф</Translation>
+    </Word>
+    <Word>
+      <Native>substring</Native>
+      <Translation>1) подстрока 2) подцепочка разбивать на подцепочки</Translation>
+    </Word>
+    <Word>
+      <Native>susceptibility</Native>
+      <Translation>восприимчивость,  впечатлительность; чувствительность</Translation>
+    </Word>
+    <Word>
+      <Native>synthesis</Native>
+      <Translation>синтез</Translation>
+    </Word>
+    <Word>
+      <Native>throughput</Native>
+      <Translation>пропускная способность 2) производительность (установки)</Translation>
+    </Word>
+    <Word>
+      <Native>tiling</Native>
+      <Translation>черепичная кровля</Translation>
+    </Word>
+    <Word>
+      <Native>topological</Native>
+      <Translation>топологический</Translation>
+    </Word>
+    <Word>
+      <Native>underlying</Native>
+      <Translation>лежащий или расположенный под чем-л</Translation>
+    </Word>
+    <Word>
+      <Native>variation</Native>
+      <Translation>изменение, перемена; варьирование</Translation>
+    </Word>
+    <Word>
+      <Native>yeast</Native>
+      <Translation>дрожжи,  закваска</Translation>
+    </Word>
+  </Dictionary>
+</Dictionaries>

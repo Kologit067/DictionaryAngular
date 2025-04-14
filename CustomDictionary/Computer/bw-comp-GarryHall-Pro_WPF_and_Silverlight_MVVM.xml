@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dictionaries>
+  <Dictionary>
+    <DictionaryName>bw-comp-GarryHall-Pro_WPF_and_Silverlight_MVVM</DictionaryName>
+    <Word>
+      <Native>port</Native>
+      <Translation>порт, гавань</Translation>
+    </Word>
+    <Word>
+      <Native>deposit</Native>
+      <Translation>депозит</Translation>
+    </Word>
+    <Word>
+      <Native>withdrawal</Native>
+      <Translation>отдергивание, отказ , отзыв</Translation>
+    </Word>
+    <Word>
+      <Native>encapsulation</Native>
+      <Translation>инкапсуляция</Translation>
+    </Word>
+    <Word>
+      <Native>password</Native>
+      <Translation>пароль,  пропуск</Translation>
+    </Word>
+    <Word>
+      <Native>extensibility</Native>
+      <Translation>растяжимость</Translation>
+    </Word>
+    <Word>
+      <Native>intent</Native>
+      <Translation>намерение</Translation>
+    </Word>
+    <Word>
+      <Native>fulfill</Native>
+      <Translation>выполнять, исполнять, осуществлять, удовлетворять</Translation>
+    </Word>
+    <Word>
+      <Native>whereby</Native>
+      <Translation>относ. посредством чего</Translation>
+    </Word>
+    <Word>
+      <Native>currency</Native>
+      <Translation>денежное обращение</Translation>
+    </Word>
+    <Word>
+      <Native>factored</Native>
+      <Translation>разложенный, факторизуемый</Translation>
+    </Word>
+    <Word>
+      <Native>agile</Native>
+      <Translation>шустрый , проворный,  быстрый,  живой</Translation>
+    </Word>
+    <Word>
+      <Native>cohesion</Native>
+      <Translation>сцепление,  зацепление,  связь</Translation>
+    </Word>
+    <Word>
+      <Native>immutable</Native>
+      <Translation>неизменный,  непреложный</Translation>
+    </Word>
+    <Word>
+      <Native>absolutely</Native>
+      <Translation>Абсолютно</Translation>
+    </Word>
+    <Word>
+      <Native>deserialization</Native>
+      <Translation>воссоздание объекта в памяти</Translation>
+    </Word>
+    <Word>
+      <Native>grained</Native>
+      <Translation>зернистый гранулированный</Translation>
+    </Word>
+    <Word>
+      <Native>suffice</Native>
+      <Translation>быть достаточным,  хватать</Translation>
+    </Word>
+    <Word>
+      <Native>waterfall</Native>
+      <Translation>водопад</Translation>
+    </Word>
+    <Word>
+      <Native>advisable</Native>
+      <Translation>рекомендуемый, целесообразный; рассудительный,  мудрый</Translation>
+    </Word>
+    <Word>
+      <Native>checker</Native>
+      <Translation>контролер, учетчик; счетчик</Translation>
+    </Word>
+    <Word>
+      <Native>concurrency</Native>
+      <Translation>параллелизм, согласованность действий</Translation>
+    </Word>
+    <Word>
+      <Native>declarative</Native>
+      <Translation>декларативный</Translation>
+    </Word>
+    <Word>
+      <Native>lifetime</Native>
+      <Translation>продолжительность жизни</Translation>
+    </Word>
+    <Word>
+      <Native>mapper</Native>
+      <Translation>устройство картографирования</Translation>
+    </Word>
+    <Word>
+      <Native>problematic</Native>
+      <Translation>проблематичный</Translation>
+    </Word>
+    <Word>
+      <Native>usable</Native>
+      <Translation>годный к употреблению, практичный</Translation>
+    </Word>
+    <Word>
+      <Native>vanilla</Native>
+      <Translation>ваниль</Translation>
+    </Word>
+    <Word>
+      <Native>verbose</Native>
+      <Translation>многословный</Translation>
+    </Word>
+    <Word>
+      <Native>aforementioned</Native>
+      <Translation>вышесказанный</Translation>
+    </Word>
+    <Word>
+      <Native>compelling</Native>
+      <Translation>необоримый,  неодолимый</Translation>
+    </Word>
+    <Word>
+      <Native>disparate</Native>
+      <Translation>несравнимый,  несопоставимый</Translation>
+    </Word>
+    <Word>
+      <Native>invasive</Native>
+      <Translation>захватнический,  агрессивный</Translation>
+    </Word>
+    <Word>
+      <Native>marshalling</Native>
+      <Translation>приведение в определенный порядок расположение в определенном порядке</Translation>
+    </Word>
+    <Word>
+      <Native>omit</Native>
+      <Translation>пропускать, упускать</Translation>
+    </Word>
+    <Word>
+      <Native>subscriber</Native>
+      <Translation>а) абонент б) подписчик в) читатель платной библиотеки</Translation>
+    </Word>
+    <Word>
+      <Native>subsystem</Native>
+      <Translation>подсистема</Translation>
+    </Word>
+    <Word>
+      <Native>surrogate</Native>
+      <Translation>заместитель (особ. епископа), замена</Translation>
+    </Word>
+    <Word>
+      <Native>adobe</Native>
+      <Translation>саман (необожженный кирпич)</Translation>
+    </Word>
+    <Word>
+      <Native>aggregation</Native>
+      <Translation>агрегация</Translation>
+    </Word>
+    <Word>
+      <Native>albeit</Native>
+      <Translation>союз,  поэт. хотя, даже хотя, тем не менее</Translation>
+    </Word>
+    <Word>
+      <Native>burden</Native>
+      <Translation>ноша,  груз,  тяжесть</Translation>
+    </Word>
+    <Word>
+      <Native>circumvent</Native>
+      <Translation>обмануть, ввести в заблужение, захватить хитростью</Translation>
+    </Word>
+    <Word>
+      <Native>clarity</Native>
+      <Translation>доходчивость,  ясность, чистота; прозрачность</Translation>
+    </Word>
+    <Word>
+      <Native>defect</Native>
+      <Translation>недостаток,  дефект</Translation>
+    </Word>
+    <Word>
+      <Native>encapsulate</Native>
+      <Translation>заключать в капсулу</Translation>
+    </Word>
+    <Word>
+      <Native>exclusively</Native>
+      <Translation>единственно,  исключительно</Translation>
+    </Word>
+    <Word>
+      <Native>purity</Native>
+      <Translation>чистота, беспримесность</Translation>
+    </Word>
+    <Word>
+      <Native>reside</Native>
+      <Translation>проживать,  жить (где-л.), пребывать</Translation>
+    </Word>
+    <Word>
+      <Native>runner</Native>
+      <Translation>бегун</Translation>
+    </Word>
+    <Word>
+      <Native>simplistic</Native>
+      <Translation>упрощенческий</Translation>
+    </Word>
+    <Word>
+      <Native>subtotal</Native>
+      <Translation>подуровень</Translation>
+    </Word>
+    <Word>
+      <Native>utilize</Native>
+      <Translation>использовать,  расходовать, употреблять</Translation>
+    </Word>
+    <Word>
+      <Native>abstraction</Native>
+      <Translation>абстракция,  обобщение</Translation>
+    </Word>
+    <Word>
+      <Native>alert</Native>
+      <Translation>предупреждать об опасности. тревога</Translation>
+    </Word>
+    <Word>
+      <Native>backed</Native>
+      <Translation>имеющий спинку,  со спинкой</Translation>
+    </Word>
+    <Word>
+      <Native>bottleneck</Native>
+      <Translation>узкое место,  препятствие</Translation>
+    </Word>
+    <Word>
+      <Native>chrome</Native>
+      <Translation>хим. хром (металл)</Translation>
+    </Word>
+    <Word>
+      <Native>consumption</Native>
+      <Translation>потребление,  затрата</Translation>
+    </Word>
+    <Word>
+      <Native>contextual</Native>
+      <Translation>контекстуальный</Translation>
+    </Word>
+    <Word>
+      <Native>deadlock</Native>
+      <Translation>мертвая точка,  безвыходное положение,  тупик</Translation>
+    </Word>
+    <Word>
+      <Native>enforce</Native>
+      <Translation>принуждать</Translation>
+    </Word>
+    <Word>
+      <Native>indirectly</Native>
+      <Translation>непрямо, косвенно</Translation>
+    </Word>
+    <Word>
+      <Native>intermediary</Native>
+      <Translation>посредник посредничество  промежуточный</Translation>
+    </Word>
+    <Word>
+      <Native>invaluable</Native>
+      <Translation>бесценный,  неоценимый</Translation>
+    </Word>
+    <Word>
+      <Native>loosely</Native>
+      <Translation>свободно,  нежестко, неряшливо</Translation>
+    </Word>
+    <Word>
+      <Native>marshal</Native>
+      <Translation>маршал</Translation>
+    </Word>
+    <Word>
+      <Native>multiplicity</Native>
+      <Translation>сложность,  многообразие, множественность</Translation>
+    </Word>
+    <Word>
+      <Native>Poll</Native>
+      <Translation>диал. голова,  череп</Translation>
+    </Word>
+    <Word>
+      <Native>pragmatic</Native>
+      <Translation>деятельный, активный; навязчивый</Translation>
+    </Word>
+    <Word>
+      <Native>refresh</Native>
+      <Translation>регенерация, процесс восстановления; обновление</Translation>
+    </Word>
+    <Word>
+      <Native>remit</Native>
+      <Translation>прощать; отпускать (грехи)</Translation>
+    </Word>
+    <Word>
+      <Native>scalable</Native>
+      <Translation>масштабируемый</Translation>
+    </Word>
+    <Word>
+      <Native>temptation</Native>
+      <Translation>искушение,  соблазн</Translation>
+    </Word>
+    <Word>
+      <Native>trusted</Native>
+      <Translation>доверенный, заслуживающий доверия;</Translation>
+    </Word>
+    <Word>
+      <Native>ubiquitous</Native>
+      <Translation>вездесущий,  повсеместный</Translation>
+    </Word>
+    <Word>
+      <Native>unavailable</Native>
+      <Translation>не имеющийся в наличии, недействительный</Translation>
+    </Word>
+    <Word>
+      <Native>upward</Native>
+      <Translation>направленный вверх, восходящий</Translation>
+    </Word>
+  </Dictionary>
+</Dictionaries>

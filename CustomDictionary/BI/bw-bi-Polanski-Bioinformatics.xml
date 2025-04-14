@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dictionaries>
+  <Dictionary>
+    <DictionaryName>bw-bi-Polanski-Bioinformatics</DictionaryName>
+    <Word>
+      <Native>accumulator</Native>
+      <Translation>тех. аккумулятор</Translation>
+    </Word>
+    <Word>
+      <Native>analogous</Native>
+      <Translation>аналогичный,  похожий,  сходный</Translation>
+    </Word>
+    <Word>
+      <Native>assumed</Native>
+      <Translation>выдуманный,  вымышленный, напускной</Translation>
+    </Word>
+    <Word>
+      <Native>assuming</Native>
+      <Translation>надменный, заносчивый; самонадеянный</Translation>
+    </Word>
+    <Word>
+      <Native>binomial</Native>
+      <Translation>(математика) бином</Translation>
+    </Word>
+    <Word>
+      <Native>coalescence</Native>
+      <Translation>биол. сращивание</Translation>
+    </Word>
+    <Word>
+      <Native>constrained</Native>
+      <Translation>скованный, несвободный, принужденный</Translation>
+    </Word>
+    <Word>
+      <Native>convex</Native>
+      <Translation>выпуклый,  круглый</Translation>
+    </Word>
+    <Word>
+      <Native>correction</Native>
+      <Translation>исправление, корректирование, внесение поправок</Translation>
+    </Word>
+    <Word>
+      <Native>cumulative</Native>
+      <Translation>совокупный,  накопленный</Translation>
+    </Word>
+    <Word>
+      <Native>differ</Native>
+      <Translation>отличаться</Translation>
+    </Word>
+    <Word>
+      <Native>dimensionality</Native>
+      <Translation>Размерность</Translation>
+    </Word>
+    <Word>
+      <Native>estimator</Native>
+      <Translation>оценщик, (математика) оценочная функция</Translation>
+    </Word>
+    <Word>
+      <Native>fitting</Native>
+      <Translation>примерка; прилаживание, подгонка по фигуре</Translation>
+    </Word>
+    <Word>
+      <Native>hairpin</Native>
+      <Translation>шпилька</Translation>
+    </Word>
+    <Word>
+      <Native>hybridization</Native>
+      <Translation>биол. гибридизация</Translation>
+    </Word>
+    <Word>
+      <Native>hydrogen</Native>
+      <Translation>хим. водород</Translation>
+    </Word>
+    <Word>
+      <Native>inequality</Native>
+      <Translation>неравенство; разница (в количестве); несоответствие</Translation>
+    </Word>
+    <Word>
+      <Native>inverse</Native>
+      <Translation>обратное, противоположное</Translation>
+    </Word>
+    <Word>
+      <Native>measurement</Native>
+      <Translation>снятие мерок, замер</Translation>
+    </Word>
+    <Word>
+      <Native>nitrogen</Native>
+      <Translation>хим. азот</Translation>
+    </Word>
+    <Word>
+      <Native>numerical</Native>
+      <Translation>числовой,  цифровой, численный</Translation>
+    </Word>
+    <Word>
+      <Native>observe</Native>
+      <Translation>наблюдать,  замечать, следить</Translation>
+    </Word>
+    <Word>
+      <Native>owing</Native>
+      <Translation>должный,  причитающийся, оставшийся неуплаченным</Translation>
+    </Word>
+    <Word>
+      <Native>polar</Native>
+      <Translation>полярный полюсный</Translation>
+    </Word>
+    <Word>
+      <Native>principal</Native>
+      <Translation>глава,  начальник, принципал</Translation>
+    </Word>
+    <Word>
+      <Native>quadratic</Native>
+      <Translation>мат. квадратный</Translation>
+    </Word>
+    <Word>
+      <Native>repetitive</Native>
+      <Translation>скучный, изобилующий повторениями</Translation>
+    </Word>
+    <Word>
+      <Native>replication</Native>
+      <Translation>возражение,  ответ, отражение; эхо</Translation>
+    </Word>
+    <Word>
+      <Native>reversed</Native>
+      <Translation>1) выворотный 2) вывороченный</Translation>
+    </Word>
+    <Word>
+      <Native>scalar</Native>
+      <Translation>мат. скалярный</Translation>
+    </Word>
+    <Word>
+      <Native>shotgun</Native>
+      <Translation>(военное) дробовик</Translation>
+    </Word>
+    <Word>
+      <Native>spatial</Native>
+      <Translation>пространственный,занимающий какое-либо пространство</Translation>
+    </Word>
+    <Word>
+      <Native>stationary</Native>
+      <Translation>закрепленный,  неподвижный</Translation>
+    </Word>
+    <Word>
+      <Native>variance</Native>
+      <Translation>разногласие,  изменение; колебание</Translation>
+    </Word>
+    <Word>
+      <Native>waterman</Native>
+      <Translation>лодочник,  перевозчик, пловец, гребец</Translation>
+    </Word>
+  </Dictionary>
+</Dictionaries>

@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dictionaries>
+  <Dictionary>
+    <DictionaryName>bw-l-Wuthering_Heights-1</DictionaryName>
+    <Word>
+      <Native>accept</Native>
+      <Translation>принимать,  брать; соглашаться</Translation>
+    </Word>
+    <Word>
+      <Native>advice</Native>
+      <Translation> совет, извещение; уведомление</Translation>
+    </Word>
+    <Word>
+      <Native>ago</Native>
+      <Translation> нареч. тому назад   ≈ давно   </Translation>
+    </Word>
+    <Word>
+      <Native>aloud</Native>
+      <Translation>вслух,  во весь голос</Translation>
+    </Word>
+    <Word>
+      <Native>anger</Native>
+      <Translation>гнев, ярость; раздражение</Translation>
+    </Word>
+    <Word>
+      <Native>angrily</Native>
+      <Translation> нареч. гневно,  сердито, сердито</Translation>
+    </Word>
+    <Word>
+      <Native>apart</Native>
+      <Translation>в отдалении, в стороне, обособленно</Translation>
+    </Word>
+    <Word>
+      <Native>appearance</Native>
+      <Translation> появление, внешний вид, внешность</Translation>
+    </Word>
+    <Word>
+      <Native>arrange</Native>
+      <Translation>приводить в порядок</Translation>
+    </Word>
+    <Word>
+      <Native>behaviour</Native>
+      <Translation> поведение образ действий,  манеры</Translation>
+    </Word>
+    <Word>
+      <Native>Bible</Native>
+      <Translation> Библия экземпляр библии</Translation>
+    </Word>
+    <Word>
+      <Native>bitterly</Native>
+      <Translation>горько 2) мучительно 3) резко</Translation>
+    </Word>
+    <Word>
+      <Native>blame</Native>
+      <Translation> порицание,  неодобрение, осуждение, упрек</Translation>
+    </Word>
+    <Word>
+      <Native>breathless</Native>
+      <Translation>запыхавшийся, затаивший дыхание</Translation>
+    </Word>
+    <Word>
+      <Native>burial</Native>
+      <Translation>похороны; погребение, захоронение</Translation>
+    </Word>
+    <Word>
+      <Native>calm</Native>
+      <Translation>спокойный,  мирный, невозмутимый</Translation>
+    </Word>
+    <Word>
+      <Native>calmly</Native>
+      <Translation> нареч. спокойно,  хладнокровно, невозмутимо</Translation>
+    </Word>
+    <Word>
+      <Native>cellar</Native>
+      <Translation> подвал,  погреб</Translation>
+    </Word>
+    <Word>
+      <Native>cheerful</Native>
+      <Translation>радостный,  веселый,  живой</Translation>
+    </Word>
+    <Word>
+      <Native>child</Native>
+      <Translation> ребенок,  дитя</Translation>
+    </Word>
+    <Word>
+      <Native>children</Native>
+      <Translation>дети </Translation>
+    </Word>
+    <Word>
+      <Native>Christmas</Native>
+      <Translation>рождество (сокр. )    ≈ праздновать Рождество   ≈ зимнее Рождество   ≈ на Рождество</Translation>
+    </Word>
+    <Word>
+      <Native>coffin</Native>
+      <Translation> гроб, непогасший продолговатый кусочек угля</Translation>
+    </Word>
+    <Word>
+      <Native>cousin</Native>
+      <Translation> двоюродный брат</Translation>
+    </Word>
+    <Word>
+      <Native>creature</Native>
+      <Translation>создание, творение, живое существо </Translation>
+    </Word>
+    <Word>
+      <Native>crossly</Native>
+      <Translation>сердито, раздраженно, сварливо</Translation>
+    </Word>
+    <Word>
+      <Native>darkness</Native>
+      <Translation> темнота,  тьма</Translation>
+    </Word>
+    <Word>
+      <Native>darling</Native>
+      <Translation>дорогой, милый, родной, любимый</Translation>
+    </Word>
+    <Word>
+      <Native>dean</Native>
+      <Translation>церк. декан, церк. настоятель собора</Translation>
+    </Word>
+    <Word>
+      <Native>despair</Native>
+      <Translation>отчаяние; безысходность, безнадежность</Translation>
+    </Word>
+    <Word>
+      <Native>desperately</Native>
+      <Translation>отчаянно, безрассудно</Translation>
+    </Word>
+    <Word>
+      <Native>disappointed</Native>
+      <Translation>разочарованный, разочаровавшийся; огорченный</Translation>
+    </Word>
+    <Word>
+      <Native>eager</Native>
+      <Translation>страстно желающий, страстно стремящийся</Translation>
+    </Word>
+    <Word>
+      <Native>encourage</Native>
+      <Translation> ободрять; вселять мужество, надежду; воодушевлять</Translation>
+    </Word>
+    <Word>
+      <Native>enemy</Native>
+      <Translation> враг; неприятель, противник</Translation>
+    </Word>
+    <Word>
+      <Native>fault</Native>
+      <Translation>недостаток, дефект</Translation>
+    </Word>
+    <Word>
+      <Native>fetch</Native>
+      <Translation>принести,  достать, сходить за кем-л</Translation>
+    </Word>
+    <Word>
+      <Native>fever</Native>
+      <Translation> жар,  лихорадка</Translation>
+    </Word>
+    <Word>
+      <Native>feverish</Native>
+      <Translation> лихорадочный,  возбужденный</Translation>
+    </Word>
+    <Word>
+      <Native>fierce</Native>
+      <Translation>свирепый, лютый, жестокий</Translation>
+    </Word>
+    <Word>
+      <Native>fond</Native>
+      <Translation>предик. испытывающий нежные чувства (к кому-л.)</Translation>
+    </Word>
+    <Word>
+      <Native>frighten</Native>
+      <Translation>пугать</Translation>
+    </Word>
+    <Word>
+      <Native>gasped</Native>
+      <Translation>Задыхающийся</Translation>
+    </Word>
+    <Word>
+      <Native>gentleman</Native>
+      <Translation>человек знатного происхождения, хорошо воспитанный человек</Translation>
+    </Word>
+    <Word>
+      <Native>ghost</Native>
+      <Translation> привидение,  призрак</Translation>
+    </Word>
+    <Word>
+      <Native>Gipsy</Native>
+      <Translation> цыган</Translation>
+    </Word>
+  </Dictionary>
+  <Dictionary>
+    <DictionaryName>bw-l-Wuthering_Heights-2</DictionaryName>
+    <Word>
+      <Native>glad</Native>
+      <Translation> довольный,  рад</Translation>
+    </Word>
+    <Word>
+      <Native>god</Native>
+      <Translation> бог</Translation>
+    </Word>
+    <Word>
+      <Native>grange</Native>
+      <Translation>помещения, используемые для нужд сельского хозяйства</Translation>
+    </Word>
+    <Word>
+      <Native>grave</Native>
+      <Translation>  могила</Translation>
+    </Word>
+    <Word>
+      <Native>guest</Native>
+      <Translation> гость</Translation>
+    </Word>
+    <Word>
+      <Native>hall</Native>
+      <Translation>усадьба,  поместье, зал; большое помещение</Translation>
+    </Word>
+    <Word>
+      <Native>haven</Native>
+      <Translation> гавань, бухта,  залив</Translation>
+    </Word>
+    <Word>
+      <Native>holding</Native>
+      <Translation> участок земли 2) владение (акциями и т. п.) 3) вклад</Translation>
+    </Word>
+    <Word>
+      <Native>inherit</Native>
+      <Translation>наследовать,  унаследовать</Translation>
+    </Word>
+    <Word>
+      <Native>inherited</Native>
+      <Translation> унаследованный,  перенятый  </Translation>
+    </Word>
+    <Word>
+      <Native>jealous</Native>
+      <Translation>ревнивый; ревнующий</Translation>
+    </Word>
+    <Word>
+      <Native>kill</Native>
+      <Translation>убивать, лишать жизни</Translation>
+    </Word>
+    <Word>
+      <Native>landlord</Native>
+      <Translation> арендодатель, помещик</Translation>
+    </Word>
+    <Word>
+      <Native>listening</Native>
+      <Translation> прослушивание</Translation>
+    </Word>
+    <Word>
+      <Native>locked</Native>
+      <Translation>1) взаперти 2) запертый 3) засоренный 4) закрытый</Translation>
+    </Word>
+    <Word>
+      <Native>lonely</Native>
+      <Translation>одинокий; страдающий от одиночества </Translation>
+    </Word>
+    <Word>
+      <Native>maid</Native>
+      <Translation> поэт. дева,  девица, служанка, горничная</Translation>
+    </Word>
+    <Word>
+      <Native>manage</Native>
+      <Translation>руководить,  управлять, , заведовать; стоять во главе</Translation>
+    </Word>
+    <Word>
+      <Native>marry</Native>
+      <Translation>жениться (на ком-л.) или выходить замуж (за кого-л.) ()</Translation>
+    </Word>
+    <Word>
+      <Native>master</Native>
+      <Translation> хозяин,  владелец, господин </Translation>
+    </Word>
+    <Word>
+      <Native>miserable</Native>
+      <Translation>жалкий,  несчастный  : бедствующий</Translation>
+    </Word>
+    <Word>
+      <Native>miss</Native>
+      <Translation>  потеря,  утрата; недостаток, отсутствие </Translation>
+    </Word>
+    <Word>
+      <Native>mistress</Native>
+      <Translation>хозяйка (дома), госпожа </Translation>
+    </Word>
+    <Word>
+      <Native>murder</Native>
+      <Translation>(умышленное, преднамеренное) убийство</Translation>
+    </Word>
+    <Word>
+      <Native>obey</Native>
+      <Translation>слушаться, повиноваться, подчиняться; выполнять приказание</Translation>
+    </Word>
+    <Word>
+      <Native>permission</Native>
+      <Translation>позволение, разрешение</Translation>
+    </Word>
+    <Word>
+      <Native>persuade</Native>
+      <Translation>убеждать; склонять, уговаривать</Translation>
+    </Word>
+    <Word>
+      <Native>pile</Native>
+      <Translation>  куча,  груда,  штабель</Translation>
+    </Word>
+    <Word>
+      <Native>pity</Native>
+      <Translation>жалость, сострадание, сожаление</Translation>
+    </Word>
+    <Word>
+      <Native>polite</Native>
+      <Translation>вежливый,  любезный,  учтивый</Translation>
+    </Word>
+    <Word>
+      <Native>politely</Native>
+      <Translation> нареч. вежливо,  любезно,  учтиво  : </Translation>
+    </Word>
+    <Word>
+      <Native>poured</Native>
+      <Translation>1) литый 2) залитый 3) разлитой 5) слитый ∙ -  </Translation>
+    </Word>
+    <Word>
+      <Native>pray</Native>
+      <Translation>молиться</Translation>
+    </Word>
+    <Word>
+      <Native>promise</Native>
+      <Translation> обещание</Translation>
+    </Word>
+    <Word>
+      <Native>punish</Native>
+      <Translation>наказывать, карать; налагать взыскание</Translation>
+    </Word>
+    <Word>
+      <Native>quarrel</Native>
+      <Translation>ссора,  перебранка, размолвка</Translation>
+    </Word>
+    <Word>
+      <Native>realize</Native>
+      <Translation>осуществлять,  выполнять (план , намерение)</Translation>
+    </Word>
+    <Word>
+      <Native>recognize</Native>
+      <Translation>осознавать,  постигать, отдавать себе отчет</Translation>
+    </Word>
+    <Word>
+      <Native>recover</Native>
+      <Translation>вновь обретать,  возвращать</Translation>
+    </Word>
+    <Word>
+      <Native>remind</Native>
+      <Translation>напоминать, походить</Translation>
+    </Word>
+    <Word>
+      <Native>revenge</Native>
+      <Translation> месть,  мщение</Translation>
+    </Word>
+    <Word>
+      <Native>rolling</Native>
+      <Translation> катание, изгиб; виток </Translation>
+    </Word>
+    <Word>
+      <Native>roughly</Native>
+      <Translation>грубо,  резко; невежливо </Translation>
+    </Word>
+    <Word>
+      <Native>rude</Native>
+      <Translation>грубый, невежливый; оскорбительный</Translation>
+    </Word>
+    <Word>
+      <Native>rushed</Native>
+      <Translation>перегруженный работой</Translation>
+    </Word>
+    <Word>
+      <Native>scold</Native>
+      <Translation>бранить(ся), сварливая баба</Translation>
+    </Word>
+    <Word>
+      <Native>scorn</Native>
+      <Translation>презрение, пренебрежение</Translation>
+    </Word>
+    <Word>
+      <Native>scornfully</Native>
+      <Translation>презрительно,  пренебрежительно</Translation>
+    </Word>
+    <Word>
+      <Native>screaming</Native>
+      <Translation>кричащий (о цвете, газетном заголовке)</Translation>
+    </Word>
+    <Word>
+      <Native>sight</Native>
+      <Translation> зрение</Translation>
+    </Word>
+    <Word>
+      <Native>silently</Native>
+      <Translation>молча</Translation>
+    </Word>
+    <Word>
+      <Native>soul</Native>
+      <Translation>дух,  душа</Translation>
+    </Word>
+    <Word>
+      <Native>stranger</Native>
+      <Translation> чужестранец,  чужой; незнакомец; посторонний</Translation>
+    </Word>
+    <Word>
+      <Native>suppose</Native>
+      <Translation>допускать,  думать,  полагать</Translation>
+    </Word>
+    <Word>
+      <Native>swearing</Native>
+      <Translation>сущ. богохульство,  профанация,  брань</Translation>
+    </Word>
+    <Word>
+      <Native>tempered</Native>
+      <Translation>1) умеренный 2) отрегулированный 3) закаленный </Translation>
+    </Word>
+    <Word>
+      <Native>trembling</Native>
+      <Translation>дрожь, дрожание</Translation>
+    </Word>
+    <Word>
+      <Native>unconscious</Native>
+      <Translation>не осознающий,без сознания</Translation>
+    </Word>
+    <Word>
+      <Native>unpleasant</Native>
+      <Translation>неприятный, противный; отталкивающий</Translation>
+    </Word>
+    <Word>
+      <Native>upset</Native>
+      <Translation>нарушать порядок, расстраивать, огорчать</Translation>
+    </Word>
+    <Word>
+      <Native>upstairs</Native>
+      <Translation>вверх (по лестнице)</Translation>
+    </Word>
+    <Word>
+      <Native>wicked</Native>
+      <Translation>злой,  безнравственный, злобный; порочный;</Translation>
+    </Word>
+    <Word>
+      <Native>wife</Native>
+      <Translation>жена</Translation>
+    </Word>
+    <Word>
+      <Native>wild</Native>
+      <Translation>дикий, дикорастущий, невозделанный</Translation>
+    </Word>
+    <Word>
+      <Native>worker</Native>
+      <Translation>рабочий,  трудящийся,  работник</Translation>
+    </Word>
+  </Dictionary>
+</Dictionaries>
