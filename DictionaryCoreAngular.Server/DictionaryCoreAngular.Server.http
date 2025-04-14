@@ -1,0 +1,6 @@
+@DictionaryCoreAngular.Server_HostAddress = http://localhost:5097
+
+GET {{DictionaryCoreAngular.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

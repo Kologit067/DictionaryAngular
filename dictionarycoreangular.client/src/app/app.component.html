@@ -1,0 +1,28 @@
+<h1 id="tableLabel">Working on dictionary</h1>
+
+<nav>
+  <a routerLink="">Words</a>
+  <a routerLink="/statistics">Statistics</a>
+  <a routerLink="/comparisions">Comparisions</a>
+</nav>
+<router-outlet></router-outlet>
+<!--<button (click)="goHome()">На главную</button>-->
+
+<table *ngIf="forecasts">
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Temp. (C)</th>
+      <th>Temp. (F)</th>
+      <th>Summary</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let forecast of forecasts">
+      <td>{{ forecast.date }}</td>
+      <td>{{ forecast.temperatureC }}</td>
+      <td>{{ forecast.temperatureF }}</td>
+      <td>{{ forecast.summary }}</td>
+    </tr>
+  </tbody>
+</table>
