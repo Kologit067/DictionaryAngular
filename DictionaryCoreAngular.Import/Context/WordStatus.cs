@@ -5,7 +5,7 @@ namespace DictionaryCoreAngular.Import.Context
     public class WordStatus
     {
         public int WordStatusId { get; set; }
-        public int? ErrorLevel { get; set; }
+        public decimal? ErrorLevel { get; set; }
         public bool IsPass { get; set; } = false;
         public int? WordListWordId { get; set; }
         public WordListWord? WordListWord { get; set; }

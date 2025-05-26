@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dictionaries>
+<Dictionary>
+  <DictionaryName>IrregularVerbs</DictionaryName>
+  <Word>
+    <Native>beat</Native>
+    <Translation>бить, колотить</Translation>
+  </Word>
+  <Word>
+    <Native>become</Native>
+    <Translation>становиться</Translation>
+  </Word>
+  <Word>
+    <Native>begin</Native>
+    <Translation>начинать</Translation>
+  </Word>
+  <Word>
+    <Native>bend</Native>
+    <Translation>сгибать, гнуть, изгибать</Translation>
+  </Word>
+  <Word>
+    <Native>bet</Native>
+    <Translation>спорить, держать пари</Translation>
+  </Word>
+  <Word>
+    <Native>bite</Native>
+    <Translation>кусать</Translation>
+  </Word>
+  <Word>
+    <Native>blow</Native>
+    <Translation>дуть, выдыхать</Translation>
+  </Word>
+  <Word>
+    <Native>break</Native>
+    <Translation>ломать, разбивать, разрушать</Translation>
+  </Word>
+  <Word>
+    <Native>bring</Native>
+    <Translation>приносить, привозить, доставлять</Translation>
+  </Word>
+  <Word>
+    <Native>broadcast</Native>
+    <Translation>вещать, передавать по радио</Translation>
+  </Word>
+  <Word>
+    <Native>build</Native>
+    <Translation>строить, сооружать</Translation>
+  </Word>
+  <Word>
+    <Native>burst</Native>
+    <Translation>лопаться, разрываться</Translation>
+  </Word>
+  <Word>
+    <Native>buy</Native>
+    <Translation>купить, покупать, приобретать</Translation>
+  </Word>
+  <Word>
+    <Native>catch</Native>
+    <Translation>ловить, поймать, схватить</Translation>
+  </Word>
+  <Word>
+    <Native>choose</Native>
+    <Translation>выбирать, избирать</Translation>
+  </Word>
+  <Word>
+    <Native>come</Native>
+    <Translation>приходить, подходить</Translation>
+  </Word>
+  <Word>
+    <Native>cost</Native>
+    <Translation>стоить, обходиться</Translation>
+  </Word>
+  <Word>
+    <Native>creep</Native>
+    <Translation>ползать, пресмыкаться</Translation>
+  </Word>
+  <Word>
+    <Native>cut</Native>
+    <Translation>резать, разрезать</Translation>
+  </Word>
+  <Word>
+    <Native>deal</Native>
+    <Translation>иметь дело, распределять, поступать</Translation>
+  </Word>
+  <Word>
+    <Native>dig</Native>
+    <Translation>копать, рыть</Translation>
+  </Word>
+  <Word>
+    <Native>do</Native>
+    <Translation>делать, выполнять</Translation>
+  </Word>
+  <Word>
+    <Native>draw</Native>
+    <Translation>рисовать, чертить</Translation>
+  </Word>
+  <Word>
+    <Native>drink</Native>
+    <Translation>пить</Translation>
+  </Word>
+  <Word>
+    <Native>drive</Native>
+    <Translation>ездить, подвозить, водить (авто)</Translation>
+  </Word>
+  <Word>
+    <Native>eat</Native>
+    <Translation>есть, поглощать, поедать</Translation>
+  </Word>
+  <Word>
+    <Native>fall</Native>
+    <Translation>падать</Translation>
+  </Word>
+  <Word>
+    <Native>feed</Native>
+    <Translation>кормить</Translation>
+  </Word>
+  <Word>
+    <Native>feel</Native>
+    <Translation>чувствовать, ощущать</Translation>
+  </Word>
+  <Word>
+    <Native>fight</Native>
+    <Translation>драться, сражаться, воевать</Translation>
+  </Word>
+  <Word>
+    <Native>find</Native>
+    <Translation>находить, обнаруживать, заставать</Translation>
+  </Word>
+  <Word>
+    <Native>flee</Native>
+    <Translation>убегать, спасаться бегством, исчезать</Translation>
+  </Word>
+  <Word>
+    <Native>fly</Native>
+    <Translation>летать</Translation>
+  </Word>
+  <Word>
+    <Native>forbid</Native>
+    <Translation>запрещать, не позволять, препятствовать</Translation>
+  </Word>
+  <Word>
+    <Native>forget</Native>
+    <Translation>забывать о (чём-либо)</Translation>
+  </Word>
+  <Word>
+    <Native>forgive</Native>
+    <Translation>прощать</Translation>
+  </Word>
+  <Word>
+    <Native>freeze</Native>
+    <Translation>замораживать, сковывать, морозить</Translation>
+  </Word>
+  <Word>
+    <Native>get</Native>
+    <Translation>получать, добираться</Translation>
+  </Word>
+  <Word>
+    <Native>give</Native>
+    <Translation>дать, подать, дарить</Translation>
+  </Word>
+  <Word>
+    <Native>go</Native>
+    <Translation>идти, двигаться</Translation>
+  </Word>
+  <Word>
+    <Native>grow</Native>
+    <Translation>расти, вырастать</Translation>
+  </Word>
+  <Word>
+    <Native>hang</Native>
+    <Translation>вешать, развешивать, висеть</Translation>
+  </Word>
+  <Word>
+    <Native>have</Native>
+    <Translation>иметь, обладать</Translation>
+  </Word>
+  <Word>
+    <Native>hear</Native>
+    <Translation>слышать, услышать</Translation>
+  </Word>
+  <Word>
+    <Native>hide</Native>
+    <Translation>прятать, скрывать</Translation>
+  </Word>
+  <Word>
+    <Native>hit</Native>
+    <Translation>ударять, поражать</Translation>
+  </Word>
+  <Word>
+    <Native>hold</Native>
+    <Translation>держать, удерживать, задерживать</Translation>
+  </Word>
+  <Word>
+    <Native>hurt</Native>
+    <Translation>ранить, причинять боль, ушибить</Translation>
+  </Word>
+  <Word>
+    <Native>keep</Native>
+    <Translation>хранить, сохранять, поддерживать</Translation>
+  </Word>
+  <Word>
+    <Native>kneel</Native>
+    <Translation>становиться (стоять) на коленях</Translation>
+  </Word>
+  <Word>
+    <Native>know</Native>
+    <Translation>знать, разбираться, иметь представление</Translation>
+  </Word>
+  <Word>
+    <Native>lay</Native>
+    <Translation>класть, положить, покрывать</Translation>
+  </Word>
+  <Word>
+    <Native>lead</Native>
+    <Translation>вести за собой, сопровождать, руководить</Translation>
+  </Word>
+  <Word>
+    <Native>leave</Native>
+    <Translation>покидать, уходить, уезжать, оставлять</Translation>
+  </Word>
+  <Word>
+    <Native>lend</Native>
+    <Translation>одалживать, давать взаймы (в долг)</Translation>
+  </Word>
+  <Word>
+    <Native>let</Native>
+    <Translation>позволять, разрешать</Translation>
+  </Word>
+  <Word>
+    <Native>lie</Native>
+    <Translation>лежать</Translation>
+  </Word>
+  <Word>
+    <Native>light</Native>
+    <Translation>защигать, светиться, освещать</Translation>
+  </Word>
+  <Word>
+    <Native>lose</Native>
+    <Translation>терять, лишаться, утрачивать</Translation>
+  </Word>
+  <Word>
+    <Native>make</Native>
+    <Translation>делать, создавать, изготавливать</Translation>
+  </Word>
+  <Word>
+    <Native>mean</Native>
+    <Translation>значить, иметь в виду, подразумевать</Translation>
+  </Word>
+  <Word>
+    <Native>meet</Native>
+    <Translation>встречать, знакомиться</Translation>
+  </Word>
+  <Word>
+    <Native>mistake</Native>
+    <Translation>ошибаться</Translation>
+  </Word>
+  <Word>
+    <Native>pay</Native>
+    <Translation>платить, оплачивать, рассчитываться</Translation>
+  </Word>
+  <Word>
+    <Native>put</Native>
+    <Translation>ставить, помещать, класть</Translation>
+  </Word>
+  <Word>
+    <Native>read</Native>
+    <Translation>читать, прочитать</Translation>
+  </Word>
+  <Word>
+    <Native>ride</Native>
+    <Translation>ехать верхом, кататься</Translation>
+  </Word>
+  <Word>
+    <Native>ring</Native>
+    <Translation>звенеть, звонить</Translation>
+  </Word>
+  <Word>
+    <Native>rise</Native>
+    <Translation>восходить, вставать, подниматься</Translation>
+  </Word>
+  <Word>
+    <Native>run</Native>
+    <Translation>бежать, бегать</Translation>
+  </Word>
+  <Word>
+    <Native>say</Native>
+    <Translation>говорить, сказать, произносить</Translation>
+  </Word>
+  <Word>
+    <Native>see</Native>
+    <Translation>видеть</Translation>
+  </Word>
+  <Word>
+    <Native>seek</Native>
+    <Translation>искать, разыскивать</Translation>
+  </Word>
+  <Word>
+    <Native>sell</Native>
+    <Translation>продавать, торговать</Translation>
+  </Word>
+  <Word>
+    <Native>send</Native>
+    <Translation>посылать, отправлять, отсылать</Translation>
+  </Word>
+  <Word>
+    <Native>set</Native>
+    <Translation>устанавливать, задавать, назначать</Translation>
+  </Word>
+  <Word>
+    <Native>sew</Native>
+    <Translation>шить, пришивать</Translation>
+  </Word>
+  <Word>
+    <Native>shake</Native>
+    <Translation>трясти, встряхивать</Translation>
+  </Word>
+  <Word>
+    <Native>shine</Native>
+    <Translation>светить, сиять, озарять</Translation>
+  </Word>
+  <Word>
+    <Native>shoot</Native>
+    <Translation>стрелять</Translation>
+  </Word>
+  <Word>
+    <Native>show</Native>
+    <Translation>показывать</Translation>
+  </Word>
+  <Word>
+    <Native>shrink</Native>
+    <Translation>сжиматься, сокращаться</Translation>
+  </Word>
+  <Word>
+    <Native>shut</Native>
+    <Translation>закрывать, запирать, затворять</Translation>
+  </Word>
+  <Word>
+    <Native>sing</Native>
+    <Translation>петь, напевать</Translation>
+  </Word>
+  <Word>
+    <Native>sink</Native>
+    <Translation>тонуть, погружаться</Translation>
+  </Word>
+  <Word>
+    <Native>sit</Native>
+    <Translation>сидеть, садиться</Translation>
+  </Word>
+  <Word>
+    <Native>sleep</Native>
+    <Translation>спать</Translation>
+  </Word>
+  <Word>
+    <Native>slide</Native>
+    <Translation>скользить</Translation>
+  </Word>
+  <Word>
+    <Native>speak</Native>
+    <Translation>говорить, разговаривать, высказываться</Translation>
+  </Word>
+  <Word>
+    <Native>spend</Native>
+    <Translation>тратить, расходовать, проводить (время)</Translation>
+  </Word>
+  <Word>
+    <Native>spit</Native>
+    <Translation>плевать, плеваться</Translation>
+  </Word>
+  <Word>
+    <Native>split</Native>
+    <Translation>раскалывать, расщеплять</Translation>
+  </Word>
+  <Word>
+    <Native>spread</Native>
+    <Translation>распространять, простираться</Translation>
+  </Word>
+  <Word>
+    <Native>spring</Native>
+    <Translation>возникнуть, вскочить</Translation>
+  </Word>
+  <Word>
+    <Native>stand</Native>
+    <Translation>стоять</Translation>
+  </Word>
+  <Word>
+    <Native>steal</Native>
+    <Translation>воровать, красть</Translation>
+  </Word>
+  <Word>
+    <Native>stick</Native>
+    <Translation>втыкать, приклеивать</Translation>
+  </Word>
+  <Word>
+    <Native>sting</Native>
+    <Translation>жалить, укусить</Translation>
+  </Word>
+  <Word>
+    <Native>stink</Native>
+    <Translation>вонять</Translation>
+  </Word>
+  <Word>
+    <Native>strike</Native>
+    <Translation>ударять, бить, поражать</Translation>
+  </Word>
+  <Word>
+    <Native>swear</Native>
+    <Translation>клясться, присягать</Translation>
+  </Word>
+  <Word>
+    <Native>sweep</Native>
+    <Translation>мести, подметать, смахивать</Translation>
+  </Word>
+  <Word>
+    <Native>swim</Native>
+    <Translation>плавать, плыть</Translation>
+  </Word>
+  <Word>
+    <Native>swing</Native>
+    <Translation>качать, раскачивать, размахивать</Translation>
+  </Word>
+  <Word>
+    <Native>take</Native>
+    <Translation>брать, хватать, взять</Translation>
+  </Word>
+  <Word>
+    <Native>teach</Native>
+    <Translation>учить, обучать</Translation>
+  </Word>
+  <Word>
+    <Native>tear</Native>
+    <Translation>рвать, отрывать</Translation>
+  </Word>
+  <Word>
+    <Native>tell</Native>
+    <Translation>рассказывать</Translation>
+  </Word>
+  <Word>
+    <Native>think</Native>
+    <Translation>думать, мыслить, размышлять</Translation>
+  </Word>
+  <Word>
+    <Native>throw</Native>
+    <Translation>бросать, кидать, метать</Translation>
+  </Word>
+  <Word>
+    <Native>understand</Native>
+    <Translation>понимать, постигать</Translation>
+  </Word>
+  <Word>
+    <Native>wake</Native>
+    <Translation>просыпаться, будить</Translation>
+  </Word>
+  <Word>
+    <Native>wear</Native>
+    <Translation>носить (одежду)</Translation>
+  </Word>
+  <Word>
+    <Native>weep</Native>
+    <Translation>плакать, рыдать</Translation>
+  </Word>
+  <Word>
+    <Native>win</Native>
+    <Translation>победить, выиграть</Translation>
+  </Word>
+  <Word>
+    <Native>write</Native>
+    <Translation>писать, записывать</Translation>
+  </Word>
+</Dictionary>
+</Dictionaries>

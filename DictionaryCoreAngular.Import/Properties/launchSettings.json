@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DictionaryCoreAngular.Import": {
+      "commandName": "Project",
+      "commandLineArgs": "CustomDictionary"
+    }
+  }
+}

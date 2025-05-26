@@ -5,11 +5,11 @@ namespace DictionaryCoreAngular.Import.Context
     {
         public int TranslationId { get; set; }
 
-        public string RawA { get; set; }
-        public string RawB { get; set; }
-        public string RawC { get; set; }
+        public string? RawA { get; set; }
+        public string? RawB { get; set; }
+        public string? RawC { get; set; }
         public string Short { get; set; }
-        public string Long { get; set; }
+        public string? Long { get; set; }
         public string? Transcription { get; set; }
         public int? WordId { get; set; }
         public Word? Word { get; set; }

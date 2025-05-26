@@ -4,6 +4,7 @@ using DictionaryCoreAngular.Import.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DictionaryCoreAngular.Import.Migrations
 {
     [DbContext(typeof(DictionaryContext))]
-    partial class DictionaryContextModelSnapshot : ModelSnapshot
+    [Migration("20250424111348_v5")]
+    partial class v5
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -223,9 +226,6 @@ namespace DictionaryCoreAngular.Import.Migrations
                     b.Property<decimal>("ErrorLevel")
                         .HasColumnType("decimal(18,2)");
 
-                    b.Property<int>("StepWordStatus")
-                        .HasColumnType("int");
-
                     b.Property<int?>("StepdId")
                         .HasColumnType("int");
 
@@ -253,15 +253,19 @@ namespace DictionaryCoreAngular.Import.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Long")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("RawA")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("RawB")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("RawC")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Short")
@@ -408,8 +412,8 @@ namespace DictionaryCoreAngular.Import.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("WordStatusId"));
 
-                    b.Property<decimal?>("ErrorLevel")
-                        .HasColumnType("decimal(18,2)");
+                    b.Property<int?>("ErrorLevel")
+                        .HasColumnType("int");
 
                     b.Property<int?>("HistoryRoundId")
                         .HasColumnType("int");
