@@ -17,6 +17,14 @@ namespace DictionaryCoreAngular.Import.CustomDictionary
 
         public async Task Process()
         {
+            foreach (FileInfo file in _directory.GetFiles())
+            {
+                WordListMaker listMaker = new WordListMaker(file, _configuration);
+                listMaker.Process(group.WordListGroupId, dictionaryId);
+            }
+            
+
+
             WordListGroup? group;
             int dictionaryId = 0;
             using (DictionaryContext dictionaryContext = new DictionaryContext())
