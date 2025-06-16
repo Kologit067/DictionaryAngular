@@ -4,7 +4,7 @@ namespace DictionaryCoreAngular.Import.Context
     public class History
     {
         public int HistoryId { get; set; }
-        public int? ErrorLevel { get; set; }
+        public decimal? ErrorLevel { get; set; }
         public bool IsPass { get; set; } = false;
         public int? UserId { get; set; }
         public User? User { get; set; }

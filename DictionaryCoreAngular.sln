@@ -9,6 +9,18 @@ Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "dictionarycoreangular.clien
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryCoreAngular.Import", "DictionaryCoreAngular.Import\DictionaryCoreAngular.Import.csproj", "{ABAACC90-CF32-4E3F-A9A5-AFAB0105EC18}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BusinessLogic", "BusinessLogic", "{A481EF01-030C-40F9-95F0-F973A04EDA82}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{A1C5C4D8-5030-442E-9C82-0881944D5479}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryAngular.Service", "DictionaryAngular.Service\DictionaryAngular.Service.csproj", "{948F5FF7-EEED-4F59-A6F4-A4087B57D526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryAngular.Service.Contracts", "DictionaryAngular.Service.Contracts\DictionaryAngular.Service.Contracts.csproj", "{6DF71477-30A8-407E-A8A4-3D75BB058FC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryAngular.Data", "DictionaryAngular.Data\DictionaryAngular.Data.csproj", "{52B243B0-F1CA-48F3-AFF6-81DAF3346839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryAngular.Data.Contracts", "DictionaryAngular.Data.Contracts\DictionaryAngular.Data.Contracts.csproj", "{02B47CA0-E631-4FDA-A123-C88D5A2A17B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,9 +41,31 @@ Global
 		{ABAACC90-CF32-4E3F-A9A5-AFAB0105EC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABAACC90-CF32-4E3F-A9A5-AFAB0105EC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABAACC90-CF32-4E3F-A9A5-AFAB0105EC18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{948F5FF7-EEED-4F59-A6F4-A4087B57D526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{948F5FF7-EEED-4F59-A6F4-A4087B57D526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{948F5FF7-EEED-4F59-A6F4-A4087B57D526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{948F5FF7-EEED-4F59-A6F4-A4087B57D526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DF71477-30A8-407E-A8A4-3D75BB058FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF71477-30A8-407E-A8A4-3D75BB058FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF71477-30A8-407E-A8A4-3D75BB058FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF71477-30A8-407E-A8A4-3D75BB058FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52B243B0-F1CA-48F3-AFF6-81DAF3346839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B243B0-F1CA-48F3-AFF6-81DAF3346839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B243B0-F1CA-48F3-AFF6-81DAF3346839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B243B0-F1CA-48F3-AFF6-81DAF3346839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B47CA0-E631-4FDA-A123-C88D5A2A17B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B47CA0-E631-4FDA-A123-C88D5A2A17B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B47CA0-E631-4FDA-A123-C88D5A2A17B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B47CA0-E631-4FDA-A123-C88D5A2A17B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{948F5FF7-EEED-4F59-A6F4-A4087B57D526} = {A481EF01-030C-40F9-95F0-F973A04EDA82}
+		{6DF71477-30A8-407E-A8A4-3D75BB058FC5} = {A481EF01-030C-40F9-95F0-F973A04EDA82}
+		{52B243B0-F1CA-48F3-AFF6-81DAF3346839} = {A1C5C4D8-5030-442E-9C82-0881944D5479}
+		{02B47CA0-E631-4FDA-A123-C88D5A2A17B7} = {A1C5C4D8-5030-442E-9C82-0881944D5479}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B3C166EC-BB4A-49BD-94D6-F27460E0E4FB}
