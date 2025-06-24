@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dictionaries>
+  <Dictionary>
+    <DictionaryName>bw-comp-Richter-CLR-1</DictionaryName>
+    <Word>
+      <Native>accessibility</Native>
+      <Translation>доступность общедоступность</Translation>
+    </Word>
+    <Word>
+      <Native>accessor</Native>
+      <Translation>(узел кассетного ЗУ)</Translation>
+    </Word>
+    <Word>
+      <Native>allocated</Native>
+      <Translation>1) уделенный 2) размещенный 3) распределенный</Translation>
+    </Word>
+    <Word>
+      <Native>anonymous</Native>
+      <Translation> анонимный,  безымянный</Translation>
+    </Word>
+    <Word>
+      <Native>apply</Native>
+      <Translation>обращаться с просьбой, касаться, относиться; применяться</Translation>
+    </Word>
+    <Word>
+      <Native>array</Native>
+      <Translation> строй, боевой порядок, совокупность; набор</Translation>
+    </Word>
+    <Word>
+      <Native>assembly</Native>
+      <Translation> сбор,  собрание, сходка </Translation>
+    </Word>
+    <Word>
+      <Native>asynchronous</Native>
+      <Translation> асинхронный</Translation>
+    </Word>
+    <Word>
+      <Native>attribute</Native>
+      <Translation> свойство, атрибут </Translation>
+    </Word>
+    <Word>
+      <Native>aware</Native>
+      <Translation>знающий, осведомленный, сведущий, сознающий </Translation>
+    </Word>
+    <Word>
+      <Native>byte</Native>
+      <Translation>байт (в информатике)</Translation>
+    </Word>
+    <Word>
+      <Native>cache</Native>
+      <Translation>тайник,тайный склад,сверхоперативная память</Translation>
+    </Word>
+    <Word>
+      <Native>callback</Native>
+      <Translation>звать обратно, отзыв работников предприятия</Translation>
+    </Word>
+    <Word>
+      <Native>caller</Native>
+      <Translation>вызывающая сторона</Translation>
+    </Word>
+    <Word>
+      <Native>cancel</Native>
+      <Translation> зачеркивание , аннулирование, отмена </Translation>
+    </Word>
+    <Word>
+      <Native>cast</Native>
+      <Translation>литье, бросок, В ролях</Translation>
+    </Word>
+    <Word>
+      <Native>char</Native>
+      <Translation>древесный уголь,  случайная работа </Translation>
+    </Word>
+    <Word>
+      <Native>character</Native>
+      <Translation>буква, иероглиф; цифра; письмо; знак</Translation>
+    </Word>
+    <Word>
+      <Native>collector</Native>
+      <Translation>собиратель, коллекционер сборщик (налогов) </Translation>
+    </Word>
+    <Word>
+      <Native>compile</Native>
+      <Translation>собирать, накапливать,выбирать информацию, составлять (книгу.)</Translation>
+    </Word>
+    <Word>
+      <Native>compiler</Native>
+      <Translation> компилятор</Translation>
+    </Word>
+    <Word>
+      <Native>completed</Native>
+      <Translation>1) укомплектованный 2) завершенный 3) законченный 4) заполненный</Translation>
+    </Word>
+    <Word>
+      <Native>construct</Native>
+      <Translation>строить,  сооружать, создавать; сочинять;</Translation>
+    </Word>
+    <Word>
+      <Native>contract</Native>
+      <Translation> юридический документ а) контракт</Translation>
+    </Word>
+    <Word>
+      <Native>conversion</Native>
+      <Translation> смена одного другим, превращение, переход </Translation>
+    </Word>
+    <Word>
+      <Native>convert</Native>
+      <Translation>Переделывать (into); преобразовывать; превращать </Translation>
+    </Word>
+    <Word>
+      <Native>custom</Native>
+      <Translation>обычай; обыкновение, привычка, сделанный на заказ</Translation>
+    </Word>
+    <Word>
+      <Native>debugger</Native>
+      <Translation>отладчик,  программа отладки</Translation>
+    </Word>
+    <Word>
+      <Native>decimal</Native>
+      <Translation>десятичный   </Translation>
+    </Word>
+    <Word>
+      <Native>desired</Native>
+      <Translation>желательный,  желанный</Translation>
+    </Word>
+    <Word>
+      <Native>developer</Native>
+      <Translation>разработчик, застройщик </Translation>
+    </Word>
+    <Word>
+      <Native>directory</Native>
+      <Translation> руководство,  инструкция, указатель адресный справочник</Translation>
+    </Word>
+    <Word>
+      <Native>dispose</Native>
+      <Translation>помещать,  размещать, располагать, склонять</Translation>
+    </Word>
+    <Word>
+      <Native>emit</Native>
+      <Translation> испускать,  излучать, выделять (тепло)</Translation>
+    </Word>
+    <Word>
+      <Native>employee</Native>
+      <Translation> рабочий,  служащий, работающий по найму</Translation>
+    </Word>
+    <Word>
+      <Native>encoding</Native>
+      <Translation>кодирование,  шифрование</Translation>
+    </Word>
+    <Word>
+      <Native>ensure</Native>
+      <Translation> обеспечивать, гарантировать </Translation>
+    </Word>
+    <Word>
+      <Native>enum</Native>
+      <Translation>перечисление, подсчет, перечень</Translation>
+    </Word>
+    <Word>
+      <Native>environment</Native>
+      <Translation>окружение,  окружающая обстановка, окружающая среда</Translation>
+    </Word>
+    <Word>
+      <Native>exception</Native>
+      <Translation> исключение, изъятие</Translation>
+    </Word>
+    <Word>
+      <Native>explain</Native>
+      <Translation>объяснять, разъяснять; изъяснять, толковать</Translation>
+    </Word>
+    <Word>
+      <Native>explicit</Native>
+      <Translation>ясный, подробный; подробно разработанный; высказанный до конца</Translation>
+    </Word>
+    <Word>
+      <Native>explicitly</Native>
+      <Translation>1) особо 2) подробно 3) явно </Translation>
+    </Word>
+    <Word>
+      <Native>extension</Native>
+      <Translation> а) удлинение,  растягивание, расширение</Translation>
+    </Word>
+    <Word>
+      <Native>feedback</Native>
+      <Translation>Обратная связь</Translation>
+    </Word>
+    <Word>
+      <Native>finalization</Native>
+      <Translation>Завершение, заключительная процедура</Translation>
+    </Word>
+    <Word>
+      <Native>frequently</Native>
+      <Translation>зачастую,  часто,  часто</Translation>
+    </Word>
+    <Word>
+      <Native>garbage</Native>
+      <Translation> мусор, отбросы, хлам </Translation>
+    </Word>
+    <Word>
+      <Native>generation</Native>
+      <Translation> поколение </Translation>
+    </Word>
+    <Word>
+      <Native>hash</Native>
+      <Translation>мелко порубленное, нарезанное, покрошенное</Translation>
+    </Word>
+    <Word>
+      <Native>heap</Native>
+      <Translation> груда,  куча, масса, множество </Translation>
+    </Word>
+    <Word>
+      <Native>host</Native>
+      <Translation>  принимать гостей, толпа,  масса,  куча</Translation>
+    </Word>
+  </Dictionary>
+  <Dictionary>
+    <DictionaryName>bw-comp-Richter-CLR-2</DictionaryName>
+    <Word>
+      <Native>immediately</Native>
+      <Translation>незамедлительный, немедленно, тотчас непосредственно</Translation>
+    </Word>
+    <Word>
+      <Native>implicitly</Native>
+      <Translation>неявным образом,  неявно, косвенно</Translation>
+    </Word>
+    <Word>
+      <Native>initialize</Native>
+      <Translation>использовать инициалы (вместо полного имени)</Translation>
+    </Word>
+    <Word>
+      <Native>internally</Native>
+      <Translation>внутри, изнутри, по отношению к внутренней стороне</Translation>
+    </Word>
+    <Word>
+      <Native>invoke</Native>
+      <Translation>просить,  умолять, призывать; взывать</Translation>
+    </Word>
+    <Word>
+      <Native>Kernel</Native>
+      <Translation>ядро выполняет планирование и диспетчеризацию потоков</Translation>
+    </Word>
+    <Word>
+      <Native>Load</Native>
+      <Translation>нагрузка, груз, бремя, заряд, тяжесть</Translation>
+    </Word>
+    <Word>
+      <Native>loop</Native>
+      <Translation> петля, описывать петлю; двигаться по кругу</Translation>
+    </Word>
+    <Word>
+      <Native>manager</Native>
+      <Translation>управляющий,  заведующий, владелец, хозяин</Translation>
+    </Word>
+    <Word>
+      <Native>manifest</Native>
+      <Translation>проявление, манифестация</Translation>
+    </Word>
+    <Word>
+      <Native>member</Native>
+      <Translation> член (в разн. знач.)</Translation>
+    </Word>
+    <Word>
+      <Native>metadata</Native>
+      <Translation>метаданные, метаданные</Translation>
+    </Word>
+    <Word>
+      <Native>modify</Native>
+      <Translation>видоизменять,  трансформировать, подправлять, корректировать, вносить поправки</Translation>
+    </Word>
+    <Word>
+      <Native>native</Native>
+      <Translation>абориген, автохтон, туземец</Translation>
+    </Word>
+    <Word>
+      <Native>numeric</Native>
+      <Translation>цифровой,  числовой</Translation>
+    </Word>
+    <Word>
+      <Native>obtain</Native>
+      <Translation>получать,  добывать, доставать, приобретать</Translation>
+    </Word>
+    <Word>
+      <Native>override</Native>
+      <Translation>наехать,  переехать, отвергать, не принимать во внимание</Translation>
+    </Word>
+    <Word>
+      <Native>partial</Native>
+      <Translation>частичный,  неполный, предвзятый</Translation>
+    </Word>
+    <Word>
+      <Native>pointer</Native>
+      <Translation>указатель, указка, стрелка  </Translation>
+    </Word>
+    <Word>
+      <Native>policy</Native>
+      <Translation>политика,  линия поведения</Translation>
+    </Word>
+    <Word>
+      <Native>Pool</Native>
+      <Translation>бассейн, общий фонд</Translation>
+    </Word>
+    <Word>
+      <Native>primitive</Native>
+      <Translation>первобытный, первичный; исходный</Translation>
+    </Word>
+    <Word>
+      <Native>priority</Native>
+      <Translation> первенство,  преимущество, старшинство </Translation>
+    </Word>
+    <Word>
+      <Native>processing</Native>
+      <Translation> обработка, обработка данных  </Translation>
+    </Word>
+    <Word>
+      <Native>proxy</Native>
+      <Translation> полномочие, передача голоса или полномочий</Translation>
+    </Word>
+    <Word>
+      <Native>publisher</Native>
+      <Translation> издатель, владелец газеты</Translation>
+    </Word>
+    <Word>
+      <Native>queue</Native>
+      <Translation> коса, очередь; хвост</Translation>
+    </Word>
+    <Word>
+      <Native>reflection</Native>
+      <Translation>образ, отражение </Translation>
+    </Word>
+    <Word>
+      <Native>safety</Native>
+      <Translation>безопасность, сохранность </Translation>
+    </Word>
+    <Word>
+      <Native>sealed</Native>
+      <Translation>запечатанный,  за печатью, непонятный, неясный</Translation>
+    </Word>
+    <Word>
+      <Native>serialization</Native>
+      <Translation>публикация по частям (в газете)</Translation>
+    </Word>
+    <Word>
+      <Native>serialize</Native>
+      <Translation>издавать выпусками,  сериями</Translation>
+    </Word>
+    <Word>
+      <Native>shared</Native>
+      <Translation>общий,  совместный, совместного пользования</Translation>
+    </Word>
+    <Word>
+      <Native>signature</Native>
+      <Translation> подпись  </Translation>
+    </Word>
+    <Word>
+      <Native>singleton</Native>
+      <Translation>одиночка, единичный предмет, холостяк</Translation>
+    </Word>
+    <Word>
+      <Native>specify</Native>
+      <Translation>точно определять, устанавливать, предписывать; детально излагать</Translation>
+    </Word>
+    <Word>
+      <Native>stack</Native>
+      <Translation>множество однородных предметов, стог (сена); скирда (хлеба);</Translation>
+    </Word>
+    <Word>
+      <Native>stream</Native>
+      <Translation> поток,  река,  ручей, струя, течение </Translation>
+    </Word>
+    <Word>
+      <Native>strongly</Native>
+      <Translation>крепко,  сильно,  прочно, весьма, чрезвычайно; интенсивно;</Translation>
+    </Word>
+    <Word>
+      <Native>symbol</Native>
+      <Translation> символ, эмблема </Translation>
+    </Word>
+    <Word>
+      <Native>synchronization</Native>
+      <Translation>1) синхронизация</Translation>
+    </Word>
+    <Word>
+      <Native>task</Native>
+      <Translation> урочная работа,  задача, задание; урок</Translation>
+    </Word>
+    <Word>
+      <Native>thrown</Native>
+      <Translation> 1) забросанный 2) заброшенный 3) киданный 4) кинутый ∙ -   </Translation>
+    </Word>
+    <Word>
+      <Native>timeout</Native>
+      <Translation>простой,  время простоя, ревышение лимита времени</Translation>
+    </Word>
+    <Word>
+      <Native>timer</Native>
+      <Translation>часы; хронометр</Translation>
+    </Word>
+    <Word>
+      <Native>token</Native>
+      <Translation> знак; символ, талон, жетон</Translation>
+    </Word>
+    <Word>
+      <Native>typically</Native>
+      <Translation>типично</Translation>
+    </Word>
+    <Word>
+      <Native>unhandled</Native>   
+      <Translation>не тронутый рукой, необъезженный (о лошади)</Translation>
+    </Word>
+    <Word>
+      <Native>versioning</Native>
+      <Translation>контроль версий</Translation>
+    </Word>
+  </Dictionary>
+</Dictionaries>

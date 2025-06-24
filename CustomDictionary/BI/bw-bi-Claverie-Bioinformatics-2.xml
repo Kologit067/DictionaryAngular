@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dictionaries>
+  <Dictionary>
+    <DictionaryName>bw-bi-Claverie-Bioinformatics-4</DictionaryName>
+    <Word>
+      <Native>ambiguity</Native>
+      <Translation>двусмысленность</Translation>
+    </Word>
+    <Word>
+      <Native>ancestral</Native>
+      <Translation>наследственный,  потомственный, родовой</Translation>
+    </Word>
+    <Word>
+      <Native>assemble</Native>
+      <Translation>1) собирать(ся); 2) созывать; 3) тех. монтировать</Translation>
+    </Word>
+    <Word>
+      <Native>average</Native>
+      <Translation>средняя величина; среднее</Translation>
+    </Word>
+    <Word>
+      <Native>bacteria</Native>
+      <Translation>бактерии</Translation>
+    </Word>
+    <Word>
+      <Native>basically</Native>
+      <Translation>в своей основе,  по существу; по правде говоря</Translation>
+    </Word>
+    <Word>
+      <Native>biochemistry</Native>
+      <Translation>биохимия</Translation>
+    </Word>
+    <Word>
+      <Native>biotechnology</Native>
+      <Translation>(техническое) биотехнология</Translation>
+    </Word>
+    <Word>
+      <Native>bootstrapping</Native>
+      <Translation>самонастройки</Translation>
+    </Word>
+    <Word>
+      <Native>centric</Native>
+      <Translation>основной,  центральный, расположенный в центре</Translation>
+    </Word>
+    <Word>
+      <Native>chromosome</Native>
+      <Translation>биол. хромосома</Translation>
+    </Word>
+    <Word>
+      <Native>cloning</Native>
+      <Translation>биол. вегетативное размножение</Translation>
+    </Word>
+    <Word>
+      <Native>coil</Native>
+      <Translation>виток,  кольцо (веревки, каната)</Translation>
+    </Word>
+    <Word>
+      <Native>coiled</Native>
+      <Translation>свитый намотанный змеевиковый</Translation>
+    </Word>
+    <Word>
+      <Native>colored</Native>
+      <Translation>окpашенный, pаскpашенный; цветной</Translation>
+    </Word>
+    <Word>
+      <Native>complementary</Native>
+      <Translation>добавочный, дополнительный (до целого)</Translation>
+    </Word>
+    <Word>
+      <Native>contaminated</Native>
+      <Translation>зараженный,  загрязненный</Translation>
+    </Word>
+    <Word>
+      <Native>convince</Native>
+      <Translation>убеждать, уверять,  доводить до сознания</Translation>
+    </Word>
+    <Word>
+      <Native>criterion</Native>
+      <Translation>критерий,  мерило,  признак</Translation>
+    </Word>
+    <Word>
+      <Native>deselect</Native>
+      <Translation>снять отметку (с пункта), отсеять</Translation>
+    </Word>
+    <Word>
+      <Native>detection</Native>
+      <Translation>выявление,  обнаружение</Translation>
+    </Word>
+    <Word>
+      <Native>distinguish</Native>
+      <Translation>различить,  разглядеть, отличать</Translation>
+    </Word>
+    <Word>
+      <Native>emboss</Native>
+      <Translation>выбивать,  чеканить,  выдавливать выпуклый рисунок</Translation>
+    </Word>
+    <Word>
+      <Native>evaluate</Native>
+      <Translation>оценивать, давать оценку; определять качество, важность</Translation>
+    </Word>
+    <Word>
+      <Native>exhaustive</Native>
+      <Translation>истощающий, исчерпывающий,  всесторонний</Translation>
+    </Word>
+    <Word>
+      <Native>experimental</Native>
+      <Translation>эмпирический, основанный на опыте</Translation>
+    </Word>
+    <Word>
+      <Native>exploration</Native>
+      <Translation>изучение,  исследование, разведка, мед. обследование</Translation>
+    </Word>
+    <Word>
+      <Native>extract</Native>
+      <Translation>вытяжка</Translation>
+    </Word>
+    <Word>
+      <Native>fetching</Native>
+      <Translation>заманчивый, привлекательный, притягательный</Translation>
+    </Word>
+    <Word>
+      <Native>fragment</Native>
+      <Translation>обломок,  осколок,  кусок, составная часть, отрывок</Translation>
+    </Word>
+    <Word>
+      <Native>gather</Native>
+      <Translation>собирать(ся), рвать (цветы); снимать (урожай)</Translation>
+    </Word>
+    <Word>
+      <Native>gathering</Native>
+      <Translation>собирание, комплектование, накопление ; сборище</Translation>
+    </Word>
+    <Word>
+      <Native>genuine</Native>
+      <Translation>истинный,  подлинный, настоящий, неподдельный</Translation>
+    </Word>
+    <Word>
+      <Native>guessing</Native>
+      <Translation>(нестрогие) рассуждения с использованием догадок</Translation>
+    </Word>
+    <Word>
+      <Native>guidelines</Native>
+      <Translation>руководящие принципы</Translation>
+    </Word>
+  </Dictionary>
+  <Dictionary>
+    <DictionaryName>bw-bi-Claverie-Bioinformatics-5</DictionaryName>
+    <Word>
+      <Native>helical</Native>
+      <Translation>спиральный,  спиралевидный, винтовой</Translation>
+    </Word>
+    <Word>
+      <Native>helix</Native>
+      <Translation>спираль</Translation>
+    </Word>
+    <Word>
+      <Native>identification</Native>
+      <Translation>отождествление опознавание, определение</Translation>
+    </Word>
+    <Word>
+      <Native>ignore</Native>
+      <Translation>игнорировать,  пренебрегать</Translation>
+    </Word>
+    <Word>
+      <Native>indicated</Native>
+      <Translation>индикаторный,  номинальный</Translation>
+    </Word>
+    <Word>
+      <Native>indication</Native>
+      <Translation>показание, отсчет (прибора), признак, симптом, намек</Translation>
+    </Word>
+    <Word>
+      <Native>informative</Native>
+      <Translation>информационный,  информативный</Translation>
+    </Word>
+    <Word>
+      <Native>inverted</Native>
+      <Translation>опрокинутый,  перевернутый,  поставленный вверх дном</Translation>
+    </Word>
+    <Word>
+      <Native>involve</Native>
+      <Translation>втягивать,  вовлекать, влечь за собой, вызывать (последствия)</Translation>
+    </Word>
+    <Word>
+      <Native>iteration</Native>
+      <Translation>повторение,  повторное применение операции</Translation>
+    </Word>
+    <Word>
+      <Native>likelihood</Native>
+      <Translation>вероятность</Translation>
+    </Word>
+    <Word>
+      <Native>listing</Native>
+      <Translation>составление списков, реестров, внесение в список</Translation>
+    </Word>
+    <Word>
+      <Native>located</Native>
+      <Translation>расположенный, Размещенный</Translation>
+    </Word>
+    <Word>
+      <Native>locus</Native>
+      <Translation>лат.,место местоположение, положение</Translation>
+    </Word>
+    <Word>
+      <Native>manual</Native>
+      <Translation>руководство,  наставление, ручной; с ручным управлением</Translation>
+    </Word>
+    <Word>
+      <Native>masking</Native>
+      <Translation>маскирование, маскировка</Translation>
+    </Word>
+    <Word>
+      <Native>mature</Native>
+      <Translation>зрелый, спелый, сложившийся, сформировавшийся</Translation>
+    </Word>
+    <Word>
+      <Native>meaningful</Native>
+      <Translation>выразительный, многозначительный, полный значения</Translation>
+    </Word>
+    <Word>
+      <Native>membrane</Native>
+      <Translation>плева,  оболочка,  перепонка</Translation>
+    </Word>
+    <Word>
+      <Native>mining</Native>
+      <Translation>горное дело</Translation>
+    </Word>
+    <Word>
+      <Native>mutation</Native>
+      <Translation>биол. мутация, изменение,  перемена</Translation>
+    </Word>
+    <Word>
+      <Native>national</Native>
+      <Translation>народный,  национальный</Translation>
+    </Word>
+    <Word>
+      <Native>nonetheless</Native>
+      <Translation>несмотря на,  однако, тем не менее, все же</Translation>
+    </Word>
+    <Word>
+      <Native>nuclear</Native>
+      <Translation>биол., астрон. ядерный</Translation>
+    </Word>
+    <Word>
+      <Native>numerous</Native>
+      <Translation>многочисленный, ритмичный, размеренный</Translation>
+    </Word>
+    <Word>
+      <Native>origin</Native>
+      <Translation>начало,  источник, исходная точка</Translation>
+    </Word>
+    <Word>
+      <Native>parsing</Native>
+      <Translation>синтаксический анализ</Translation>
+    </Word>
+    <Word>
+      <Native>percentage</Native>
+      <Translation>процентное содержание; процент</Translation>
+    </Word>
+    <Word>
+      <Native>poorly</Native>
+      <Translation>в бедности, в нужде</Translation>
+    </Word>
+    <Word>
+      <Native>possibility</Native>
+      <Translation>возможность, вероятность</Translation>
+    </Word>
+    <Word>
+      <Native>proceed</Native>
+      <Translation>продолжать (путь), идти далее, направляться</Translation>
+    </Word>
+  </Dictionary>
+  <Dictionary>
+    <DictionaryName>bw-bi-Claverie-Bioinformatics-6</DictionaryName>
+    <Word>
+      <Native>promoter</Native>
+      <Translation>лицо, способствующее чему-л., покровитель</Translation>
+    </Word>
+    <Word>
+      <Native>reasonable</Native>
+      <Translation>разумный, благоразумный; рациональный; здравый</Translation>
+    </Word>
+    <Word>
+      <Native>recognizing</Native>
+      <Translation>1) распознающий 2) узнающий</Translation>
+    </Word>
+    <Word>
+      <Native>reconstruct</Native>
+      <Translation>перестраивать, восстанавливать, воссоздавать</Translation>
+    </Word>
+    <Word>
+      <Native>reconstruction</Native>
+      <Translation>перестройка,  реконструкция</Translation>
+    </Word>
+    <Word>
+      <Native>reproduce</Native>
+      <Translation>порождать, производить, воспроизводить, повторять</Translation>
+    </Word>
+    <Word>
+      <Native>scheme</Native>
+      <Translation>нечто задуманное, спланированное</Translation>
+    </Word>
+    <Word>
+      <Native>sib</Native>
+      <Translation>родство, родственные связи родня</Translation>
+    </Word>
+    <Word>
+      <Native>significance</Native>
+      <Translation>важность, значительность, значение,  смысл</Translation>
+    </Word>
+    <Word>
+      <Native>stability</Native>
+      <Translation>стабильность, устойчивость</Translation>
+    </Word>
+    <Word>
+      <Native>statistical</Native>
+      <Translation>статистический</Translation>
+    </Word>
+    <Word>
+      <Native>transcript</Native>
+      <Translation>дубликат, копия, расшифровка (стенограммы)</Translation>
+    </Word>
+    <Word>
+      <Native>transfer</Native>
+      <Translation>перенос, перенесение; перемещение, перечисление (денежных сумм)</Translation>
+    </Word>
+    <Word>
+      <Native>tricky</Native>
+      <Translation>хитрый,  ловкий,  искусный коварный</Translation>
+    </Word>
+    <Word>
+      <Native>tuning</Native>
+      <Translation>радио настройка, тех. регулировка (двигателя)</Translation>
+    </Word>
+    <Word>
+      <Native>unrelated</Native>
+      <Translation>несвязанный, не имеющий отношения</Translation>
+    </Word>
+    <Word>
+      <Native>usage</Native>
+      <Translation>обращение (с приборами), употребление, применение,</Translation>
+    </Word>
+    <Word>
+      <Native>vast</Native>
+      <Translation>обширный,  безбрежный, пространный, простор, ширь</Translation>
+    </Word>
+    <Word>
+      <Native>versus</Native>
+      <Translation>лат (юрид) (спорт) против, в сравнении</Translation>
+    </Word>
+    <Word>
+      <Native>vertebrate</Native>
+      <Translation>1.позвоночное животное 2. позвоночный  :</Translation>
+    </Word>
+    <Word>
+      <Native>viral</Native>
+      <Translation>(медицина) вирусный</Translation>
+    </Word>
+    <Word>
+      <Native>virus</Native>
+      <Translation>вирус; заразное начало</Translation>
+    </Word>
+    <Word>
+      <Native>yield</Native>
+      <Translation>плоды, урожай (тж. сбор урожая)</Translation>
+    </Word>
+  </Dictionary>
+</Dictionaries>

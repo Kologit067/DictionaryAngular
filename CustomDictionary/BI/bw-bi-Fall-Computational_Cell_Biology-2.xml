@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dictionaries>
+  <Dictionary>
+    <DictionaryName>bw-bi-Fall-Computational_Cell_Biology-2</DictionaryName>
+    <Word>
+      <Native>pancreatic</Native>
+      <Translation>поджелудочный</Translation>
+    </Word>
+    <Word>
+      <Native>clamp</Native>
+      <Translation>зажим,  хомут,  скоба</Translation>
+    </Word>
+    <Word>
+      <Native>ensemble</Native>
+      <Translation>единое,  стройное целое</Translation>
+    </Word>
+    <Word>
+      <Native>leak</Native>
+      <Translation>течь,  протечка, утечка</Translation>
+    </Word>
+    <Word>
+      <Native>propagation</Native>
+      <Translation>распространение, воспроизведение, размножение</Translation>
+    </Word>
+    <Word>
+      <Native>macroscopic</Native>
+      <Translation>макроскопический</Translation>
+    </Word>
+    <Word>
+      <Native>filament</Native>
+      <Translation>бот. нить</Translation>
+    </Word>
+    <Word>
+      <Native>influx</Native>
+      <Translation>эк. втекание,  приток</Translation>
+    </Word>
+    <Word>
+      <Native>particle</Native>
+      <Translation>частица; бесконечно малая частица вещества</Translation>
+    </Word>
+    <Word>
+      <Native>giant</Native>
+      <Translation>великан,  гигант</Translation>
+    </Word>
+    <Word>
+      <Native>intercellular</Native>
+      <Translation>прил.,  биол. межклеточный</Translation>
+    </Word>
+    <Word>
+      <Native>simplified</Native>
+      <Translation>Упрощенный</Translation>
+    </Word>
+    <Word>
+      <Native>medium</Native>
+      <Translation>посредничество,  средство; способ, путь,</Translation>
+    </Word>
+    <Word>
+      <Native>qualitative</Native>
+      <Translation>качественный</Translation>
+    </Word>
+    <Word>
+      <Native>basal</Native>
+      <Translation>лежащий в основе,  основной</Translation>
+    </Word>
+    <Word>
+      <Native>budding</Native>
+      <Translation>(ботаника) бутонизация распускающийся, расцветающий</Translation>
+    </Word>
+    <Word>
+      <Native>confirm</Native>
+      <Translation>подтверждать, подкреплять</Translation>
+    </Word>
+    <Word>
+      <Native>sympathetic</Native>
+      <Translation>сочувственный</Translation>
+    </Word>
+    <Word>
+      <Native>compartment</Native>
+      <Translation>(железнодорожное) купе отсек</Translation>
+    </Word>
+    <Word>
+      <Native>bullfrog</Native>
+      <Translation>лягушка-бык,  лягушка-вол</Translation>
+    </Word>
+    <Word>
+      <Native>decay</Native>
+      <Translation>гниение (органических веществ)</Translation>
+    </Word>
+    <Word>
+      <Native>pore</Native>
+      <Translation>пора</Translation>
+    </Word>
+    <Word>
+      <Native>activator</Native>
+      <Translation>возбуждающее средство или вещество</Translation>
+    </Word>
+    <Word>
+      <Native>affinity</Native>
+      <Translation>близость, родство; сходство</Translation>
+    </Word>
+    <Word>
+      <Native>cardiac</Native>
+      <Translation>(медицина) средство, возбуждающее сердечную деятельность</Translation>
+    </Word>
+    <Word>
+      <Native>fluid</Native>
+      <Translation>текучая среда (жидкость или газ)</Translation>
+    </Word>
+    <Word>
+      <Native>saltatory</Native>
+      <Translation>танцующий, прыгающий, скачущий</Translation>
+    </Word>
+    <Word>
+      <Native>transmitter</Native>
+      <Translation>отправитель, (радио)передатчик</Translation>
+    </Word>
+    <Word>
+      <Native>barrier</Native>
+      <Translation>барьер, помеха,  преграда</Translation>
+    </Word>
+    <Word>
+      <Native>eigenvalue</Native>
+      <Translation>собственое значение</Translation>
+    </Word>
+    <Word>
+      <Native>inhibitor</Native>
+      <Translation>ингибитор</Translation>
+    </Word>
+    <Word>
+      <Native>nondimensional</Native>
+      <Translation>безразмерный</Translation>
+    </Word>
+    <Word>
+      <Native>subunit</Native>
+      <Translation>субблок  элемент блока</Translation>
+    </Word>
+    <Word>
+      <Native>cartoon</Native>
+      <Translation>карикатура</Translation>
+    </Word>
+    <Word>
+      <Native>fission</Native>
+      <Translation>разделение,  (биология) размножение путем деления клеток</Translation>
+    </Word>
+    <Word>
+      <Native>junction</Native>
+      <Translation>связывание,  соединение, сочетание</Translation>
+    </Word>
+    <Word>
+      <Native>pituitary</Native>
+      <Translation>(анатомия) гипофиз</Translation>
+    </Word>
+    <Word>
+      <Native>relaxation</Native>
+      <Translation>а) частичное или полное освобождение от наказания</Translation>
+    </Word>
+    <Word>
+      <Native>reticulum</Native>
+      <Translation>(биология) сеточка</Translation>
+    </Word>
+    <Word>
+      <Native>simplify</Native>
+      <Translation>упрощать(ся)</Translation>
+    </Word>
+    <Word>
+      <Native>depolarization</Native>
+      <Translation>физ. деполяризация</Translation>
+    </Word>
+    <Word>
+      <Native>directional</Native>
+      <Translation>направленный, направленного действия</Translation>
+    </Word>
+    <Word>
+      <Native>hint</Native>
+      <Translation>намек</Translation>
+    </Word>
+    <Word>
+      <Native>magnitude</Native>
+      <Translation>величина; размеры важность; значительность</Translation>
+    </Word>
+    <Word>
+      <Native>spindle</Native>
+      <Translation>веретено</Translation>
+    </Word>
+    <Word>
+      <Native>squid</Native>
+      <Translation>кальмар</Translation>
+    </Word>
+    <Word>
+      <Native>uptake</Native>
+      <Translation>тех. вертикальный канал</Translation>
+    </Word>
+    <Word>
+      <Native>asymptotic</Native>
+      <Translation>асимптотический</Translation>
+    </Word>
+    <Word>
+      <Native>cubic</Native>
+      <Translation>кубический,  кубичный</Translation>
+    </Word>
+    <Word>
+      <Native>diffusing</Native>
+      <Translation>светорассейвающий</Translation>
+    </Word>
+    <Word>
+      <Native>diffusive</Native>
+      <Translation>распространяющийся, многословный (с оттенком уничижительности)</Translation>
+    </Word>
+    <Word>
+      <Native>ganglion</Native>
+      <Translation>(анатомия) нервный узел</Translation>
+    </Word>
+    <Word>
+      <Native>quasi</Native>
+      <Translation>лат., как бы,  якобы</Translation>
+    </Word>
+  </Dictionary>
+</Dictionaries>

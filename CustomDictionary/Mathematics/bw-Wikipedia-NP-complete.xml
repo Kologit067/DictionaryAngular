@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dictionaries>
+  <Dictionary>
+    <DictionaryName>bw-Wikipedia-NP-complete_1</DictionaryName>
+    <Word>
+      <Native>algorithm</Native>
+      <Translation>алгоритм  </Translation>
+    </Word>
+    <Word>
+      <Native>although</Native>
+      <Translation>хотя,  если бы даже</Translation>
+    </Word>
+    <Word>
+      <Native>analysis</Native>
+      <Translation> анализ,  изучение</Translation>
+    </Word>
+    <Word>
+      <Native>approximate</Native>
+      <Translation>лежащий рядом,  близкий, приближенный, приблизительный</Translation>
+    </Word>
+    <Word>
+      <Native>approximation</Native>
+      <Translation> приближение</Translation>
+    </Word>
+    <Word>
+      <Native>arbitrary</Native>
+      <Translation>произвольный, случайный</Translation>
+    </Word>
+    <Word>
+      <Native>assignment</Native>
+      <Translation> назначение 2) ассигнование 3) распределение</Translation>
+    </Word>
+    <Word>
+      <Native>auction</Native>
+      <Translation>аукцион,  торг</Translation>
+    </Word>
+    <Word>
+      <Native>basis</Native>
+      <Translation> базис,  основа,  основание</Translation>
+    </Word>
+    <Word>
+      <Native>bid</Native>
+      <Translation> предложение цены (на аукционе)</Translation>
+    </Word>
+    <Word>
+      <Native>binary</Native>
+      <Translation>двоичный </Translation>
+    </Word>
+    <Word>
+      <Native>bipartite</Native>
+      <Translation> двусторонний (о соглашении) состоящий из двух частей </Translation>
+    </Word>
+    <Word>
+      <Native>boolean</Native>
+      <Translation>булевский</Translation>
+    </Word>
+    <Word>
+      <Native>capacity</Native>
+      <Translation> вместимость, емкость </Translation>
+    </Word>
+    <Word>
+      <Native>chromatic</Native>
+      <Translation>цветной,  цветовой</Translation>
+    </Word>
+    <Word>
+      <Native>circuit</Native>
+      <Translation> нечто кругообразное а) окружность</Translation>
+    </Word>
+    <Word>
+      <Native>clause</Native>
+      <Translation> статья,  пункт,  условие</Translation>
+    </Word>
+    <Word>
+      <Native>clique</Native>
+      <Translation>группировка </Translation>
+    </Word>
+    <Word>
+      <Native>closure</Native>
+      <Translation> закрытие, завершение </Translation>
+    </Word>
+    <Word>
+      <Native>combinatorial</Native>
+      <Translation> прил.,  мат. комбинаторный</Translation>
+    </Word>
+    <Word>
+      <Native>completeness</Native>
+      <Translation>полнота,  завершенность</Translation>
+    </Word>
+    <Word>
+      <Native>complexity</Native>
+      <Translation> сложность ,  технологическая сложность , трудность  </Translation>
+    </Word>
+    <Word>
+      <Native>computation</Native>
+      <Translation>вычисление,  выкладка,  подсчет</Translation>
+    </Word>
+    <Word>
+      <Native>computing</Native>
+      <Translation>1. вычислительный  :  2.вычислительная техника</Translation>
+    </Word>
+    <Word>
+      <Native>conjecture</Native>
+      <Translation> гипотеза,  догадка, предположение </Translation>
+    </Word>
+    <Word>
+      <Native>constant</Native>
+      <Translation> постоянная</Translation>
+    </Word>
+    <Word>
+      <Native>constraint</Native>
+      <Translation> принуждение, напряженность; скованность</Translation>
+    </Word>
+    <Word>
+      <Native>corresponding</Native>
+      <Translation>надлежащий,  соответственный, соответствующий </Translation>
+    </Word>
+    <Word>
+      <Native>covering</Native>
+      <Translation> покрышка,  покрытие </Translation>
+    </Word>
+    <Word>
+      <Native>cycle</Native>
+      <Translation> цикл, овокупность действий</Translation>
+    </Word>
+    <Word>
+      <Native>dimensional</Native>
+      <Translation> имеющий измерение</Translation>
+    </Word>
+    <Word>
+      <Native>dual</Native>
+      <Translation>двойственный</Translation>
+    </Word>
+    <Word>
+      <Native>due</Native>
+      <Translation> должное,  то, что причитается</Translation>
+    </Word>
+    <Word>
+      <Native>efficient</Native>
+      <Translation>а) действенный, результативный</Translation>
+    </Word>
+    <Word>
+      <Native>efficiently</Native>
+      <Translation>рационально,  разумно , Эффективно</Translation>
+    </Word>
+    <Word>
+      <Native>either</Native>
+      <Translation>oдин из двух; тот или другой</Translation>
+    </Word>
+    <Word>
+      <Native>encyclopedia</Native>
+      <Translation> энциклопедия</Translation>
+    </Word>
+    <Word>
+      <Native>equivalent</Native>
+      <Translation>эквивалент  </Translation>
+    </Word>
+    <Word>
+      <Native>exact</Native>
+      <Translation>точный, строгий, тщательный </Translation>
+    </Word>
+    <Word>
+      <Native>exist</Native>
+      <Translation>существовать; иметься в природе</Translation>
+    </Word>
+    <Word>
+      <Native>exponential</Native>
+      <Translation>показательная функция</Translation>
+    </Word>
+    <Word>
+      <Native>external</Native>
+      <Translation>а) внешний,  наружный</Translation>
+    </Word>
+    <Word>
+      <Native>factor</Native>
+      <Translation> фактор, движущая сила</Translation>
+    </Word>
+    <Word>
+      <Native>feasible</Native>
+      <Translation>реальный,  выполнимый, осуществимый </Translation>
+    </Word>
+    <Word>
+      <Native>finite</Native>
+      <Translation>ограниченный, конечный </Translation>
+    </Word>
+    <Word>
+      <Native>flow</Native>
+      <Translation> течение, поток, струя </Translation>
+    </Word>
+    <Word>
+      <Native>formal</Native>
+      <Translation>срогий, формальный</Translation>
+    </Word>
+    <Word>
+      <Native>formula</Native>
+      <Translation> формула</Translation>
+    </Word>
+    <Word>
+      <Native>further</Native>
+      <Translation> более отдаленный, дальний</Translation>
+    </Word>
+    <Word>
+      <Native>generalized</Native>
+      <Translation> обобщенный</Translation>
+    </Word>
+    <Word>
+      <Native>graph</Native>
+      <Translation>  граф,  диаграмма,  схема</Translation>
+    </Word>
+    <Word>
+      <Native>hence</Native>
+      <Translation> с этих пор, с этого времени, отсюда</Translation>
+    </Word>
+    <Word>
+      <Native>heuristic</Native>
+      <Translation>эвристический, эвристический</Translation>
+    </Word>
+    <Word>
+      <Native>hierarchy</Native>
+      <Translation> иерархия </Translation>
+    </Word>
+    <Word>
+      <Native>include</Native>
+      <Translation>заключать,  включать в себя</Translation>
+    </Word>
+    <Word>
+      <Native>independent</Native>
+      <Translation>независимый</Translation>
+    </Word>
+    <Word>
+      <Native>integer</Native>
+      <Translation> целое</Translation>
+    </Word>
+    <Word>
+      <Native>integral</Native>
+      <Translation>целый; полный, цельный</Translation>
+    </Word>
+    <Word>
+      <Native>Journal</Native>
+      <Translation>журнал, дневник</Translation>
+    </Word>
+    <Word>
+      <Native>knapsack</Native>
+      <Translation>ранец,  рюкзак</Translation>
+    </Word>
+  </Dictionary>
+  <Dictionary>
+    <DictionaryName>bw-Wikipedia-NP-complete_2</DictionaryName>
+    <Word>
+      <Native>known</Native>
+      <Translation> известный </Translation>
+    </Word>
+    <Word>
+      <Native>largest</Native>
+      <Translation>наибольший</Translation>
+    </Word>
+    <Word>
+      <Native>length</Native>
+      <Translation> длина </Translation>
+    </Word>
+    <Word>
+      <Native>linear</Native>
+      <Translation>линейный</Translation>
+    </Word>
+    <Word>
+      <Native>management</Native>
+      <Translation> управление,  заведование, руководство</Translation>
+    </Word>
+    <Word>
+      <Native>matching</Native>
+      <Translation>приведение в соответствие , соразмерение; согласование</Translation>
+    </Word>
+    <Word>
+      <Native>mathematical</Native>
+      <Translation> математический</Translation>
+    </Word>
+    <Word>
+      <Native>matrix</Native>
+      <Translation> анат. матка </Translation>
+    </Word>
+    <Word>
+      <Native>maximum</Native>
+      <Translation> максимум</Translation>
+    </Word>
+    <Word>
+      <Native>means</Native>
+      <Translation>средство, способ, метод, методика; возможность</Translation>
+    </Word>
+    <Word>
+      <Native>minimum</Native>
+      <Translation>минимум</Translation>
+    </Word>
+    <Word>
+      <Native>negative</Native>
+      <Translation>отрицательный</Translation>
+    </Word>
+    <Word>
+      <Native>node</Native>
+      <Translation>узел, узловая точка; пункт</Translation>
+    </Word>
+    <Word>
+      <Native>objective</Native>
+      <Translation> цель,  стремление </Translation>
+    </Word>
+    <Word>
+      <Native>operational</Native>
+      <Translation>операционный, оперативный </Translation>
+    </Word>
+    <Word>
+      <Native>optimal</Native>
+      <Translation>оптимальный </Translation>
+    </Word>
+    <Word>
+      <Native>optimization</Native>
+      <Translation>оптимизация</Translation>
+    </Word>
+    <Word>
+      <Native>otherwise</Native>
+      <Translation>иначе,  иным способом, в других отношениях</Translation>
+    </Word>
+    <Word>
+      <Native>output</Native>
+      <Translation> продукция,  продукт, выработка </Translation>
+    </Word>
+    <Word>
+      <Native>particular</Native>
+      <Translation>а) особенный, специфический, подробность</Translation>
+    </Word>
+    <Word>
+      <Native>planar</Native>
+      <Translation>планарный,  плоский</Translation>
+    </Word>
+    <Word>
+      <Native>polynomial</Native>
+      <Translation>многочленный </Translation>
+    </Word>
+    <Word>
+      <Native>practical</Native>
+      <Translation>практический,  практичный</Translation>
+    </Word>
+    <Word>
+      <Native>primal</Native>
+      <Translation>древний,  изначальный, основной </Translation>
+    </Word>
+    <Word>
+      <Native>probability</Native>
+      <Translation> возможное,  осуществимое, правдоподобное </Translation>
+    </Word>
+    <Word>
+      <Native>Program</Native>
+      <Translation>программа  </Translation>
+    </Word>
+    <Word>
+      <Native>proof</Native>
+      <Translation> подтверждение, доказательство </Translation>
+    </Word>
+    <Word>
+      <Native>prove</Native>
+      <Translation>доказывать,  удостоверять, подтверждать </Translation>
+    </Word>
+    <Word>
+      <Native>random</Native>
+      <Translation> сделанный или выбранный наугад</Translation>
+    </Word>
+    <Word>
+      <Native>rank</Native>
+      <Translation>  ряд,  линия , чин</Translation>
+    </Word>
+    <Word>
+      <Native>ratio</Native>
+      <Translation> мат. отношение,  пропорция</Translation>
+    </Word>
+    <Word>
+      <Native>reduction</Native>
+      <Translation> а) снижение,  понижение, сокращение</Translation>
+    </Word>
+    <Word>
+      <Native>research</Native>
+      <Translation>(научное) исследование, изучение</Translation>
+    </Word>
+    <Word>
+      <Native>restricted</Native>
+      <Translation> ограниченный,  сведенный к пределам</Translation>
+    </Word>
+    <Word>
+      <Native>salesman</Native>
+      <Translation> продавец, торговец, коммивояжер </Translation>
+    </Word>
+    <Word>
+      <Native>satisfiability</Native>
+      <Translation>лог. выполнимость</Translation>
+    </Word>
+    <Word>
+      <Native>satisfiable</Native>
+      <Translation>лог.  выполнимый </Translation>
+    </Word>
+    <Word>
+      <Native>scheduling</Native>
+      <Translation>составление расписания</Translation>
+    </Word>
+    <Word>
+      <Native>search</Native>
+      <Translation> поиски,  поиск, розыск </Translation>
+    </Word>
+    <Word>
+      <Native>standard</Native>
+      <Translation>мерило, норма, образец</Translation>
+    </Word>
+    <Word>
+      <Native>subset</Native>
+      <Translation>мат. подмножество</Translation>
+    </Word>
+    <Word>
+      <Native>sum</Native>
+      <Translation> сумма,  количество, величина, итог</Translation>
+    </Word>
+    <Word>
+      <Native>theorem</Native>
+      <Translation>теорема </Translation>
+    </Word>
+    <Word>
+      <Native>theoretical</Native>
+      <Translation>теоретический  абстрактный</Translation>
+    </Word>
+    <Word>
+      <Native>therefore</Native>
+      <Translation>по этой причине; вследствие этого; поэтому, следовательно</Translation>
+    </Word>
+    <Word>
+      <Native>thus</Native>
+      <Translation>так,  таким образом, до такой степени</Translation>
+    </Word>
+    <Word>
+      <Native>total</Native>
+      <Translation>целое,  сумма,  итог, общая сумма   </Translation>
+    </Word>
+    <Word>
+      <Native>tour</Native>
+      <Translation> обращение,  оборот, цикл </Translation>
+    </Word>
+    <Word>
+      <Native>undirected</Native>
+      <Translation>неориентированный,  ненаправленный</Translation>
+    </Word>
+    <Word>
+      <Native>variable</Native>
+      <Translation>изменчивый,  изменяющийся, переменный </Translation>
+    </Word>
+    <Word>
+      <Native>vertex</Native>
+      <Translation> вершина, верхушка, зенит</Translation>
+    </Word>
+    <Word>
+      <Native>vertices</Native>
+      <Translation>вершины, верхушки</Translation>
+    </Word>
+    <Word>
+      <Native>whether</Native>
+      <Translation>союз ли</Translation>
+    </Word>
+    <Word>
+      <Native>whose</Native>
+      <Translation>чей,  чье</Translation>
+    </Word>
+    <Word>
+      <Native>zero</Native>
+      <Translation> нульб нулевая точка</Translation>
+    </Word>
+    <Word>
+      <Native>simplex</Native>
+      <Translation>симплекс симплексный</Translation>
+    </Word>
+  </Dictionary>
+</Dictionaries>

@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dictionaries>
+  <Dictionary>
+    <DictionaryName>bw-bi-WernerArber-Introduction_to_bioinformatics_algoryth</DictionaryName>
+    <Word>
+      <Native>additive</Native>
+      <Translation>добавление,  дополнение, приправа</Translation>
+    </Word>
+    <Word>
+      <Native>alphabet</Native>
+      <Translation>алфавит</Translation>
+    </Word>
+    <Word>
+      <Native>backward</Native>
+      <Translation>обратный, направленный или повернутый назад</Translation>
+    </Word>
+    <Word>
+      <Native>balanced</Native>
+      <Translation>уравновешенный,  гармоничный, пропорциональный</Translation>
+    </Word>
+    <Word>
+      <Native>bifurcation</Native>
+      <Translation>раздвоение,  разветвление,  бифуркация</Translation>
+    </Word>
+    <Word>
+      <Native>breakpoint</Native>
+      <Translation>точка останова; точка прерывания</Translation>
+    </Word>
+    <Word>
+      <Native>bypass</Native>
+      <Translation>обход  обводный канал  обходный путь</Translation>
+    </Word>
+    <Word>
+      <Native>candidate</Native>
+      <Translation>кандидат,  кандидатура</Translation>
+    </Word>
+    <Word>
+      <Native>casino</Native>
+      <Translation>игорный дом</Translation>
+    </Word>
+    <Word>
+      <Native>cluster</Native>
+      <Translation>кисть,  пучок,  гроздь, скопление</Translation>
+    </Word>
+    <Word>
+      <Native>covariance</Native>
+      <Translation>ковариантность</Translation>
+    </Word>
+    <Word>
+      <Native>decoding</Native>
+      <Translation>декодирование; дешифрирование</Translation>
+    </Word>
+    <Word>
+      <Native>degenerate</Native>
+      <Translation>дегенерат, выродок</Translation>
+    </Word>
+    <Word>
+      <Native>deletion</Native>
+      <Translation>архаич. разрушение; уничтожение; устранение</Translation>
+    </Word>
+    <Word>
+      <Native>digest</Native>
+      <Translation>краткое изложение; резюме</Translation>
+    </Word>
+    <Word>
+      <Native>dimension</Native>
+      <Translation>мат. измерение, размеры</Translation>
+    </Word>
+    <Word>
+      <Native>emission</Native>
+      <Translation>эмиссия,  испускание</Translation>
+    </Word>
+    <Word>
+      <Native>enriched</Native>
+      <Translation>обогащенный,  улучшенный</Translation>
+    </Word>
+    <Word>
+      <Native>gel</Native>
+      <Translation>сущ.,  хим. гель</Translation>
+    </Word>
+    <Word>
+      <Native>hashing</Native>
+      <Translation>хэширование</Translation>
+    </Word>
+    <Word>
+      <Native>illustration</Native>
+      <Translation>иллюстрирование</Translation>
+    </Word>
+    <Word>
+      <Native>insertion</Native>
+      <Translation>вкладывание; ввод, введение, вставка</Translation>
+    </Word>
+    <Word>
+      <Native>interval</Native>
+      <Translation>интервал,  промежуток</Translation>
+    </Word>
+    <Word>
+      <Native>intron</Native>
+      <Translation>интрон (незначащий участок гена</Translation>
+    </Word>
+    <Word>
+      <Native>ion</Native>
+      <Translation>физ. ион</Translation>
+    </Word>
+    <Word>
+      <Native>matrices</Native>
+      <Translation>матрицы</Translation>
+    </Word>
+    <Word>
+      <Native>maximization</Native>
+      <Translation>амер.,  мат. максимизация</Translation>
+    </Word>
+    <Word>
+      <Native>minimal</Native>
+      <Translation>минимальный</Translation>
+    </Word>
+    <Word>
+      <Native>mismatch</Native>
+      <Translation>плохое сочетание, несоответствие</Translation>
+    </Word>
+    <Word>
+      <Native>outline</Native>
+      <Translation>очертание; контур; абрис</Translation>
+    </Word>
+    <Word>
+      <Native>parsimony</Native>
+      <Translation>бережливость,  расчет, экономия</Translation>
+    </Word>
+    <Word>
+      <Native>peaks</Native>
+      <Translation>Пики</Translation>
+    </Word>
+    <Word>
+      <Native>permutation</Native>
+      <Translation>мат. перестановка</Translation>
+    </Word>
+    <Word>
+      <Native>quicksort</Native>
+      <Translation>быстрая сортировка</Translation>
+    </Word>
+    <Word>
+      <Native>randomly</Native>
+      <Translation>случайно, Беспорядочно</Translation>
+    </Word>
+    <Word>
+      <Native>recall</Native>
+      <Translation>воспоминание, активизация в памяти, вызывать обратно</Translation>
+    </Word>
+    <Word>
+      <Native>recognition</Native>
+      <Translation>узнавание; опознавание, осознание,  понимание</Translation>
+    </Word>
+    <Word>
+      <Native>recurrence</Native>
+      <Translation>повторение, повторное проявление; рецидив</Translation>
+    </Word>
+    <Word>
+      <Native>reducing</Native>
+      <Translation>уменьшение восстановительный  понижающий распадающийся</Translation>
+    </Word>
+    <Word>
+      <Native>refinement</Native>
+      <Translation>очищение, рафинация</Translation>
+    </Word>
+    <Word>
+      <Native>reversal</Native>
+      <Translation>полное изменение, полная перестановка, обратный ход</Translation>
+    </Word>
+    <Word>
+      <Native>rowan</Native>
+      <Translation>рябина (дерево,  ягода)</Translation>
+    </Word>
+    <Word>
+      <Native>spectral</Native>
+      <Translation>призрачный; похожий на привидение</Translation>
+    </Word>
+    <Word>
+      <Native>spectrum</Native>
+      <Translation>физ. спектр</Translation>
+    </Word>
+    <Word>
+      <Native>spliced</Native>
+      <Translation>вязаный,  сплетенный, Сращивающийся</Translation>
+    </Word>
+    <Word>
+      <Native>strip</Native>
+      <Translation>длинный узкий кусок; полоса; лента</Translation>
+    </Word>
+    <Word>
+      <Native>subsequence</Native>
+      <Translation>подпоследовательность</Translation>
+    </Word>
+    <Word>
+      <Native>tourist</Native>
+      <Translation>турист</Translation>
+    </Word>
+    <Word>
+      <Native>training</Native>
+      <Translation>тренировка , воспитание обучение</Translation>
+    </Word>
+    <Word>
+      <Native>transcription</Native>
+      <Translation>транскрипция; транскрибирование</Translation>
+    </Word>
+    <Word>
+      <Native>turnip</Native>
+      <Translation>(ботаника) репа</Translation>
+    </Word>
+  </Dictionary>
+</Dictionaries>

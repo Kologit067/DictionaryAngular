@@ -1,0 +1,504 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dictionaries>
+  <Dictionary>
+    <DictionaryName>bw-bi-Claverie-Bioinformatics_1</DictionaryName>
+    <Word>
+      <Native>accession</Native>
+      <Translation> прирост,  прибавление, доступ</Translation>
+    </Word>
+    <Word>
+      <Native>according</Native>
+      <Translation>1) соответственно 2) так, таким образом; следовательно</Translation>
+    </Word>
+    <Word>
+      <Native>actually</Native>
+      <Translation>фактически,  на самом деле,  в действительности</Translation>
+    </Word>
+    <Word>
+      <Native>additional</Native>
+      <Translation> добавочный, дополнительный  </Translation>
+    </Word>
+    <Word>
+      <Native>align</Native>
+      <Translation>выстраивать в линию, выравнивать </Translation>
+    </Word>
+    <Word>
+      <Native>alignment</Native>
+      <Translation> выверка,  выравнивание, расположение по одной линии</Translation>
+    </Word>
+    <Word>
+      <Native>alternative</Native>
+      <Translation> альтернатива</Translation>
+    </Word>
+    <Word>
+      <Native>ancestor</Native>
+      <Translation> прародитель, предок </Translation>
+    </Word>
+    <Word>
+      <Native>annotation</Native>
+      <Translation> аннотация,  резюме</Translation>
+    </Word>
+    <Word>
+      <Native>appear</Native>
+      <Translation>показываться, появляться </Translation>
+    </Word>
+    <Word>
+      <Native>automatically</Native>
+      <Translation>автоматически, непроизвольно</Translation>
+    </Word>
+    <Word>
+      <Native>bacterial</Native>
+      <Translation>бактериальный</Translation>
+    </Word>
+    <Word>
+      <Native>bin</Native>
+      <Translation> закром,  ларь,  бункер</Translation>
+    </Word>
+    <Word>
+      <Native>biological</Native>
+      <Translation> биологический</Translation>
+    </Word>
+    <Word>
+      <Native>blast</Native>
+      <Translation>а) сильный порыв ветра б) учащенное дыхание</Translation>
+    </Word>
+    <Word>
+      <Native>blasting</Native>
+      <Translation>гибельный, губительный</Translation>
+    </Word>
+    <Word>
+      <Native>bootstrap</Native>
+      <Translation>использовать сущ. вариант системы  для создания нового</Translation>
+    </Word>
+    <Word>
+      <Native>bottom</Native>
+      <Translation>низ, нижняя часть</Translation>
+    </Word>
+    <Word>
+      <Native>cell</Native>
+      <Translation>ячейка, клетка, элемент</Translation>
+    </Word>
+    <Word>
+      <Native>check</Native>
+      <Translation>проверить</Translation>
+    </Word>
+    <Word>
+      <Native>choice</Native>
+      <Translation> выбор,  отбор,  подбор</Translation>
+    </Word>
+    <Word>
+      <Native>compare</Native>
+      <Translation>сравнивать,  сверять, сличать </Translation>
+    </Word>
+    <Word>
+      <Native>comparing</Native>
+      <Translation>сравнивание,  сравнивающий</Translation>
+    </Word>
+    <Word>
+      <Native>complicated</Native>
+      <Translation>запутанный,  сложный, трудный для понимания   </Translation>
+    </Word>
+    <Word>
+      <Native>composition</Native>
+      <Translation> а) составление,  образование, построение</Translation>
+    </Word>
+    <Word>
+      <Native>compute</Native>
+      <Translation>считать,  подсчитывать, вычислять, делать выкладки</Translation>
+    </Word>
+    <Word>
+      <Native>consensus</Native>
+      <Translation>единодушие</Translation>
+    </Word>
+    <Word>
+      <Native>consider</Native>
+      <Translation>рассматривать, обсуждать; обдумывать</Translation>
+    </Word>
+    <Word>
+      <Native>contain</Native>
+      <Translation>содержать , ограничивать,  сдерживать,</Translation>
+    </Word>
+    <Word>
+      <Native>correspond</Native>
+      <Translation>соответствовать, согласовываться, соотноситься</Translation>
+    </Word>
+    <Word>
+      <Native>describe</Native>
+      <Translation>описывать,  рассказывать, изображать; характеризовать</Translation>
+    </Word>
+    <Word>
+      <Native>description</Native>
+      <Translation>составление описания</Translation>
+    </Word>
+    <Word>
+      <Native>detailed</Native>
+      <Translation>подробный,  детальный, обстоятельный </Translation>
+    </Word>
+    <Word>
+      <Native>documentation</Native>
+      <Translation> а) документация,  документы</Translation>
+    </Word>
+    <Word>
+      <Native>edit</Native>
+      <Translation>редактировать</Translation>
+    </Word>
+    <Word>
+      <Native>edition</Native>
+      <Translation> выпуск,  издание, публикация </Translation>
+    </Word>
+    <Word>
+      <Native>enter</Native>
+      <Translation>вход входить</Translation>
+    </Word>
+    <Word>
+      <Native>entire</Native>
+      <Translation>полный, совершенный, целый, цельный; </Translation>
+    </Word>
+    <Word>
+      <Native>entry</Native>
+      <Translation> вход,  въезд </Translation>
+    </Word>
+    <Word>
+      <Native>enzyme</Native>
+      <Translation>фермент,  энзим</Translation>
+    </Word>
+    <Word>
+      <Native>especially</Native>
+      <Translation>особенно,  в особенности, главным образом</Translation>
+    </Word>
+    <Word>
+      <Native>European</Native>
+      <Translation> 1. европейский 2.европеец</Translation>
+    </Word>
+    <Word>
+      <Native>evolution</Native>
+      <Translation> эволюция,  развитие </Translation>
+    </Word>
+    <Word>
+      <Native>evolutionary</Native>
+      <Translation>эволюционный</Translation>
+    </Word>
+    <Word>
+      <Native>exon</Native>
+      <Translation>экзон (часть гена)</Translation>
+    </Word>
+    <Word>
+      <Native>expect</Native>
+      <Translation>ждать, ожидать, предполагать </Translation>
+    </Word>
+    <Word>
+      <Native>feature</Native>
+      <Translation> особенность, характерная черта; деталь, признак</Translation>
+    </Word>
+    <Word>
+      <Native>final</Native>
+      <Translation>завершающий, заключительный, конечный</Translation>
+    </Word>
+  </Dictionary>
+  <Dictionary>
+    <DictionaryName>bw-bi-Claverie-Bioinformatics_2</DictionaryName>
+    <Word>
+      <Native>gap</Native>
+      <Translation> брешь,  пролом, щель </Translation>
+    </Word>
+    <Word>
+      <Native>generate</Native>
+      <Translation>вызывать,  порождать, производить</Translation>
+    </Word>
+    <Word>
+      <Native>genetic</Native>
+      <Translation> генетический</Translation>
+    </Word>
+    <Word>
+      <Native>global</Native>
+      <Translation>всемирный,  мировой, всеобщий; всеобъемлющий</Translation>
+    </Word>
+    <Word>
+      <Native>graphic</Native>
+      <Translation>графический,  изобразительный</Translation>
+    </Word>
+    <Word>
+      <Native>human</Native>
+      <Translation>людской, человеческий, свойственный человеку</Translation>
+    </Word>
+    <Word>
+      <Native>identical</Native>
+      <Translation>тот же самый, одинаковый, идентичный</Translation>
+    </Word>
+    <Word>
+      <Native>identify</Native>
+      <Translation>устанавливать тождество, отождествлять </Translation>
+    </Word>
+    <Word>
+      <Native>identity</Native>
+      <Translation> идентичность,  тождество, одинаковость</Translation>
+    </Word>
+    <Word>
+      <Native>indicate</Native>
+      <Translation>показывать, указывать, служить признаком, означать</Translation>
+    </Word>
+    <Word>
+      <Native>individual</Native>
+      <Translation>индивидуальный,  личный</Translation>
+    </Word>
+    <Word>
+      <Native>install</Native>
+      <Translation>устанавливать назначить инсталлировать</Translation>
+    </Word>
+    <Word>
+      <Native>interactive</Native>
+      <Translation>взаимодействующий, воздействующие друг на друга</Translation>
+    </Word>
+    <Word>
+      <Native>internal</Native>
+      <Translation>внутренний внутренние органы, духовный</Translation>
+    </Word>
+    <Word>
+      <Native>interpret</Native>
+      <Translation>объяснять,  толковать, интерпретировать</Translation>
+    </Word>
+    <Word>
+      <Native>involved</Native>
+      <Translation>запутанный,  связанный, вовлеченный</Translation>
+    </Word>
+    <Word>
+      <Native>Laboratory</Native>
+      <Translation>лаборатория</Translation>
+    </Word>
+    <Word>
+      <Native>likely</Native>
+      <Translation>вероятный, возможный, насколько это реально</Translation>
+    </Word>
+    <Word>
+      <Native>location</Native>
+      <Translation>помещение,  размещение, определение местонахождения</Translation>
+    </Word>
+    <Word>
+      <Native>mail</Native>
+      <Translation>почта, почтовая корреспонденция</Translation>
+    </Word>
+    <Word>
+      <Native>major</Native>
+      <Translation> майор ,более важный</Translation>
+    </Word>
+    <Word>
+      <Native>matter</Native>
+      <Translation> вещество, иметь значение; значить</Translation>
+    </Word>
+    <Word>
+      <Native>meaning</Native>
+      <Translation>значение смысл</Translation>
+    </Word>
+    <Word>
+      <Native>molecular</Native>
+      <Translation> молекулярный </Translation>
+    </Word>
+    <Word>
+      <Native>molecule</Native>
+      <Translation>молекула, молекула,  молекула</Translation>
+    </Word>
+    <Word>
+      <Native>occur</Native>
+      <Translation>происходить,  случаться, совершаться </Translation>
+    </Word>
+    <Word>
+      <Native>online</Native>
+      <Translation>Интерактивно,  вчт. текущий</Translation>
+    </Word>
+    <Word>
+      <Native>option</Native>
+      <Translation> выбор,  альтернатива, (возможный) вариант</Translation>
+    </Word>
+    <Word>
+      <Native>organism</Native>
+      <Translation>организм</Translation>
+    </Word>
+    <Word>
+      <Native>package</Native>
+      <Translation>пакет, сверток; пачка, тюк; кипа</Translation>
+    </Word>
+    <Word>
+      <Native>pairwise</Native>
+      <Translation>попарно, по двое</Translation>
+    </Word>
+    <Word>
+      <Native>penalty</Native>
+      <Translation> а) наказание,  взыскание, штраф </Translation>
+    </Word>
+    <Word>
+      <Native>percent</Native>
+      <Translation>процент</Translation>
+    </Word>
+  </Dictionary>
+  <Dictionary>
+    <DictionaryName>bw-bi-Claverie-Bioinformatics_3</DictionaryName>
+    <Word>
+      <Native>plot</Native>
+      <Translation> надел,  делянка, вычерчивать </Translation>
+    </Word>
+    <Word>
+      <Native>potential</Native>
+      <Translation>вероятный, возможный; скрытый</Translation>
+    </Word>
+    <Word>
+      <Native>powerful</Native>
+      <Translation>могучий,  мощный, веский, убедительный; значительный </Translation>
+    </Word>
+    <Word>
+      <Native>predict</Native>
+      <Translation>предсказывать,  пророчить, упреждать </Translation>
+    </Word>
+    <Word>
+      <Native>predicted</Native>
+      <Translation> предсказанный,  прогнозированный, расчетный  </Translation>
+    </Word>
+    <Word>
+      <Native>predicting</Native>
+      <Translation>предсказывающий,  упреждающий</Translation>
+    </Word>
+    <Word>
+      <Native>prediction</Native>
+      <Translation> предсказание,  прогноз, предварение</Translation>
+    </Word>
+    <Word>
+      <Native>primary</Native>
+      <Translation> основополагающее, первостепенной важности</Translation>
+    </Word>
+    <Word>
+      <Native>protein</Native>
+      <Translation>белок</Translation>
+    </Word>
+    <Word>
+      <Native>receptor</Native>
+      <Translation>рецептор,  орган чувств</Translation>
+    </Word>
+    <Word>
+      <Native>refer</Native>
+      <Translation>направлять,  отсылать (за какой-л. информацией)</Translation>
+    </Word>
+    <Word>
+      <Native>relevant</Native>
+      <Translation>значимый; уместный, относящийся к делу</Translation>
+    </Word>
+    <Word>
+      <Native>repeat</Native>
+      <Translation> повторение,  то, что повторяется</Translation>
+    </Word>
+    <Word>
+      <Native>residue</Native>
+      <Translation> остаток  : - 2) хим. осадок</Translation>
+    </Word>
+    <Word>
+      <Native>restriction</Native>
+      <Translation>ограничение, сужение  </Translation>
+    </Word>
+    <Word>
+      <Native>retrieve</Native>
+      <Translation>получение обратно; возвращение  доставать</Translation>
+    </Word>
+    <Word>
+      <Native>sampler</Native>
+      <Translation>сборник образцов, примеров</Translation>
+    </Word>
+    <Word>
+      <Native>saving</Native>
+      <Translation>бережливый, расчетливый,спасительный</Translation>
+    </Word>
+    <Word>
+      <Native>score</Native>
+      <Translation> зарубка,  бороздка,  счет </Translation>
+    </Word>
+    <Word>
+      <Native>scroll</Native>
+      <Translation> свиток, список, перечень</Translation>
+    </Word>
+    <Word>
+      <Native>secondary</Native>
+      <Translation>вторичный</Translation>
+    </Word>
+    <Word>
+      <Native>segment</Native>
+      <Translation> отрезок, доля,  часть,  кусок  </Translation>
+    </Word>
+    <Word>
+      <Native>sequence</Native>
+      <Translation>последовательность, ряд; порядок следования</Translation>
+    </Word>
+    <Word>
+      <Native>server</Native>
+      <Translation>1) поднос (для тарелок,) 2)лопаточка и вилка</Translation>
+    </Word>
+    <Word>
+      <Native>signal</Native>
+      <Translation> знак,  сигнал </Translation>
+    </Word>
+    <Word>
+      <Native>similarity</Native>
+      <Translation> подобие,  похожесть,  сходство, схожесть </Translation>
+    </Word>
+    <Word>
+      <Native>software</Native>
+      <Translation>компьютерные программы </Translation>
+    </Word>
+    <Word>
+      <Native>sophisticated</Native>
+      <Translation> изощренный, утонченный, лишенный простоты естественности; изощренный, утонченный</Translation>
+    </Word>
+    <Word>
+      <Native>specialist</Native>
+      <Translation>знаток,  специалист</Translation>
+    </Word>
+    <Word>
+      <Native>species</Native>
+      <Translation>биол. вид</Translation>
+    </Word>
+    <Word>
+      <Native>specific</Native>
+      <Translation>особенный,  особый, характерный  </Translation>
+    </Word>
+    <Word>
+      <Native>stable</Native>
+      <Translation> стойкий,  устойчивый, неизменяемый, постоянный</Translation>
+    </Word>
+    <Word>
+      <Native>strand</Native>
+      <Translation>берег, прибрежная полоса </Translation>
+    </Word>
+    <Word>
+      <Native>structural</Native>
+      <Translation>структурный   </Translation>
+    </Word>
+    <Word>
+      <Native>submit</Native>
+      <Translation>подчинять(ся), покорять</Translation>
+    </Word>
+    <Word>
+      <Native>terminus</Native>
+      <Translation>конечная станция</Translation>
+    </Word>
+    <Word>
+      <Native>threshold</Native>
+      <Translation> порог 2) перен. преддверие, канун</Translation>
+    </Word>
+    <Word>
+      <Native>translation</Native>
+      <Translation> перевод с языка на язык</Translation>
+    </Word>
+    <Word>
+      <Native>trust</Native>
+      <Translation> вера, доверие </Translation>
+    </Word>
+    <Word>
+      <Native>typical</Native>
+      <Translation>типичный</Translation>
+    </Word>
+    <Word>
+      <Native>unfortunately</Native>
+      <Translation>нареч. к несчастью,  к сожалению</Translation>
+    </Word>
+    <Word>
+      <Native>gene</Native>
+      <Translation>биол. ген  </Translation>
+    </Word>
+  </Dictionary>
+</Dictionaries>

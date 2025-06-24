@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dictionaries>
+  <Dictionary>
+    <DictionaryName>bw-fa-beginner</DictionaryName>
+    <Word>
+      <Native>adventure</Native>
+      <Translation>приключение</Translation>
+    </Word>
+    <Word>
+      <Native>arrive</Native>
+      <Translation>прибывать, приезжать</Translation>
+    </Word>
+    <Word>
+      <Native>association</Native>
+      <Translation>Ассоциация</Translation>
+    </Word>
+    <Word>
+      <Native>cave</Native>
+      <Translation>пещера,  полость</Translation>
+    </Word>
+    <Word>
+      <Native>centigrade</Native>
+      <Translation>стоградусный</Translation>
+    </Word>
+    <Word>
+      <Native>depot</Native>
+      <Translation>склад,  хранилище,  амбар</Translation>
+    </Word>
+    <Word>
+      <Native>dictionary</Native>
+      <Translation>словарь ≈ составлять словарь</Translation>
+    </Word>
+    <Word>
+      <Native>dinosaur</Native>
+      <Translation>динозавр</Translation>
+    </Word>
+    <Word>
+      <Native>extra</Native>
+      <Translation>дополнительный лишний запасной добавочный</Translation>
+    </Word>
+    <Word>
+      <Native>glossary</Native>
+      <Translation>(толковый словарь к какому-л. тексту или книге)</Translation>
+    </Word>
+    <Word>
+      <Native>hamburger</Native>
+      <Translation>булочка с рубленым бифштексом</Translation>
+    </Word>
+    <Word>
+      <Native>hill</Native>
+      <Translation>холм; возвышенность; пригорок</Translation>
+    </Word>
+    <Word>
+      <Native>lea</Native>
+      <Translation>поэт. луг,  поле 2) с.-х. пар</Translation>
+    </Word>
+    <Word>
+      <Native>milkshake</Native>
+      <Translation>молочный коктейль</Translation>
+    </Word>
+  </Dictionary>
+  <Dictionary>
+    <DictionaryName>bw-fa-beginner-2</DictionaryName>
+    <Word>
+      <Native>partner</Native>
+      <Translation>человек, которого с другим(и) объединяют общие цели, интересы, задачи, род деятельности</Translation>
+    </Word>
+    <Word>
+      <Native>plateau</Native>
+      <Translation>плато,  плоскогорье</Translation>
+    </Word>
+    <Word>
+      <Native>pretend</Native>
+      <Translation>притворятся, делать вид; симулировать</Translation>
+    </Word>
+    <Word>
+      <Native>pretending</Native>
+      <Translation>Притворство</Translation>
+    </Word>
+    <Word>
+      <Native>RACE</Native>
+      <Translation>гонка</Translation>
+    </Word>
+    <Word>
+      <Native>recycling</Native>
+      <Translation>повторное использованиег, возвращение в оборот</Translation>
+    </Word>
+    <Word>
+      <Native>reed</Native>
+      <Translation>тростник,  камыш</Translation>
+    </Word>
+    <Word>
+      <Native>remote</Native>
+      <Translation>дальний, далекий, отдаленный</Translation>
+    </Word>
+    <Word>
+      <Native>reserved</Native>
+      <Translation>скрытный,  сдержанный, запасной</Translation>
+    </Word>
+    <Word>
+      <Native>sawyer</Native>
+      <Translation>пильщик; лесоруб</Translation>
+    </Word>
+    <Word>
+      <Native>ski</Native>
+      <Translation>лыжа</Translation>
+    </Word>
+    <Word>
+      <Native>sledge</Native>
+      <Translation>1.салазки,  сани  :</Translation>
+    </Word>
+    <Word>
+      <Native>snowstorm</Native>
+      <Translation>буран,  вьюга,  метель  :</Translation>
+    </Word>
+    <Word>
+      <Native>terra</Native>
+      <Translation>лат., земля, суша, континент</Translation>
+    </Word>
+    <Word>
+      <Native>thief</Native>
+      <Translation>вор,  похититель</Translation>
+    </Word>
+    <Word>
+      <Native>treasure</Native>
+      <Translation>1.сокровище (тж. перен.), клад</Translation>
+    </Word>
+    <Word>
+      <Native>trial</Native>
+      <Translation>испытание, проба</Translation>
+    </Word>
+    <Word>
+      <Native>truck</Native>
+      <Translation>дешевый, розничный товар</Translation>
+    </Word>
+  </Dictionary>
+</Dictionaries>

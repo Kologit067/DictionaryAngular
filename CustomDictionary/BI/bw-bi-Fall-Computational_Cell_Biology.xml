@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dictionaries>
+  <Dictionary>
+    <DictionaryName>bw-bi-Fall-Computational_Cell_Biology</DictionaryName>
+    <Word>
+      <Native>activation</Native>
+      <Translation>активация,  возбуждение</Translation>
+    </Word>
+    <Word>
+      <Native>amplitude</Native>
+      <Translation>диапазон; размах, обширность,  протяженность</Translation>
+    </Word>
+    <Word>
+      <Native>boundary</Native>
+      <Translation>граница,  межа</Translation>
+    </Word>
+    <Word>
+      <Native>conductance</Native>
+      <Translation>(физическое) электропроводность</Translation>
+    </Word>
+    <Word>
+      <Native>coupled</Native>
+      <Translation>двухсторонний,  двойной,  парный</Translation>
+    </Word>
+    <Word>
+      <Native>dependence</Native>
+      <Translation>зависимость; обусловленность</Translation>
+    </Word>
+    <Word>
+      <Native>diffuse</Native>
+      <Translation>раскинувшийся, разбросанный рассеянный</Translation>
+    </Word>
+    <Word>
+      <Native>diffusion</Native>
+      <Translation>диффузия, рассеивание</Translation>
+    </Word>
+    <Word>
+      <Native>dimensionless</Native>
+      <Translation>1) безразмерный 2) отвлеченный 3) безмерный</Translation>
+    </Word>
+    <Word>
+      <Native>dissociation</Native>
+      <Translation>разъединение,  разделение, разобщение</Translation>
+    </Word>
+    <Word>
+      <Native>equilibrium</Native>
+      <Translation>баланс,  равновесие, устойчивость</Translation>
+    </Word>
+    <Word>
+      <Native>excitability</Native>
+      <Translation>возбудимость, чувствительность (к раздражителю)</Translation>
+    </Word>
+    <Word>
+      <Native>excitable</Native>
+      <Translation>(легко) возбудимый, чувствительный к раздражению</Translation>
+    </Word>
+    <Word>
+      <Native>excitation</Native>
+      <Translation>активизация,  возбуждение</Translation>
+    </Word>
+    <Word>
+      <Native>excitatory</Native>
+      <Translation>(биология) возбудительный</Translation>
+    </Word>
+    <Word>
+      <Native>fertilization</Native>
+      <Translation>удобрение почвы</Translation>
+    </Word>
+    <Word>
+      <Native>firing</Native>
+      <Translation>стрельба, разжигание, растапливание</Translation>
+    </Word>
+    <Word>
+      <Native>flux</Native>
+      <Translation>течение; поток, прилив</Translation>
+    </Word>
+    <Word>
+      <Native>fraction</Native>
+      <Translation>дробь</Translation>
+    </Word>
+    <Word>
+      <Native>glucose</Native>
+      <Translation>хим. глюкоза</Translation>
+    </Word>
+    <Word>
+      <Native>glut</Native>
+      <Translation>пресыщение, насыщение, неумеренность, избыток</Translation>
+    </Word>
+    <Word>
+      <Native>inactivation</Native>
+      <Translation>подавление активности</Translation>
+    </Word>
+    <Word>
+      <Native>inhibition</Native>
+      <Translation>физиол. задержка, подавление, торможение</Translation>
+    </Word>
+    <Word>
+      <Native>inhibitory</Native>
+      <Translation>физиол. задерживающий, подавляющий, тормозящий</Translation>
+    </Word>
+    <Word>
+      <Native>intracellular</Native>
+      <Translation>внутриклеточный</Translation>
+    </Word>
+    <Word>
+      <Native>kinetics</Native>
+      <Translation>кинетика</Translation>
+    </Word>
+    <Word>
+      <Native>localized</Native>
+      <Translation>Локализованный</Translation>
+    </Word>
+    <Word>
+      <Native>neuron</Native>
+      <Translation>биол. нейрон</Translation>
+    </Word>
+    <Word>
+      <Native>nonlinear</Native>
+      <Translation>нелинейный</Translation>
+    </Word>
+    <Word>
+      <Native>numerically</Native>
+      <Translation>в числовом виде</Translation>
+    </Word>
+    <Word>
+      <Native>oscillation</Native>
+      <Translation>качание колебание; неустойчивость</Translation>
+    </Word>
+    <Word>
+      <Native>oscillator</Native>
+      <Translation>тех. вибратор</Translation>
+    </Word>
+    <Word>
+      <Native>oscillatory</Native>
+      <Translation>колебательный</Translation>
+    </Word>
+    <Word>
+      <Native>periodic</Native>
+      <Translation>периодический</Translation>
+    </Word>
+    <Word>
+      <Native>perturbation</Native>
+      <Translation>смятение,  расстройство, нарушение спокойствия</Translation>
+    </Word>
+    <Word>
+      <Native>reader</Native>
+      <Translation>читатель</Translation>
+    </Word>
+    <Word>
+      <Native>response</Native>
+      <Translation>ответ,  отклик, ответное чувство</Translation>
+    </Word>
+    <Word>
+      <Native>saddle</Native>
+      <Translation>седло</Translation>
+    </Word>
+    <Word>
+      <Native>secretion</Native>
+      <Translation>физиол. секреция</Translation>
+    </Word>
+    <Word>
+      <Native>simulation</Native>
+      <Translation>симуляция,  притворство</Translation>
+    </Word>
+    <Word>
+      <Native>sodium</Native>
+      <Translation>хим. натрий</Translation>
+    </Word>
+    <Word>
+      <Native>spike</Native>
+      <Translation>острый выступ</Translation>
+    </Word>
+    <Word>
+      <Native>thermal</Native>
+      <Translation>термический,  тепловой</Translation>
+    </Word>
+    <Word>
+      <Native>trajectory</Native>
+      <Translation>орбита,  путь,  траектория</Translation>
+    </Word>
+    <Word>
+      <Native>transporter</Native>
+      <Translation>тех. транспортер,  конвейер</Translation>
+    </Word>
+    <Word>
+      <Native>unstable</Native>
+      <Translation>нетвердый; нестабильный</Translation>
+    </Word>
+    <Word>
+      <Native>velocity</Native>
+      <Translation>(физическое) скорость</Translation>
+    </Word>
+  </Dictionary>
+</Dictionaries>

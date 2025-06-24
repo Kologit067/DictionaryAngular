@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dictionaries>
+  <Dictionary>
+    <DictionaryName>bw-bi-Polanski-Bioinformatics-3</DictionaryName>
+    <Word>
+      <Native>annealing</Native>
+      <Translation>тех. отжиг</Translation>
+    </Word>
+    <Word>
+      <Native>applicable</Native>
+      <Translation>применимый,  подходящий</Translation>
+    </Word>
+    <Word>
+      <Native>branching</Native>
+      <Translation>ветвление ветвящийся</Translation>
+    </Word>
+    <Word>
+      <Native>bubble</Native>
+      <Translation>пузырек (в воде или другой жидкости)</Translation>
+    </Word>
+    <Word>
+      <Native>chapman</Native>
+      <Translation>странствующий торговец</Translation>
+    </Word>
+    <Word>
+      <Native>clustered</Native>
+      <Translation>кустовой, растущий пучками</Translation>
+    </Word>
+    <Word>
+      <Native>coalescent</Native>
+      <Translation>сросшийся, слипшийся</Translation>
+    </Word>
+    <Word>
+      <Native>coincide</Native>
+      <Translation>совмещаться , совпадать</Translation>
+    </Word>
+    <Word>
+      <Native>collision</Native>
+      <Translation>столкновение, соударение</Translation>
+    </Word>
+    <Word>
+      <Native>compression</Native>
+      <Translation>сжатие,  сокращение, уплотнение</Translation>
+    </Word>
+    <Word>
+      <Native>concavity</Native>
+      <Translation>вогнутая поверхность,  вогнутость</Translation>
+    </Word>
+    <Word>
+      <Native>convergence</Native>
+      <Translation>схождение в одной точке</Translation>
+    </Word>
+    <Word>
+      <Native>creation</Native>
+      <Translation>создание, библ. сотворение мира;</Translation>
+    </Word>
+    <Word>
+      <Native>cyclic</Native>
+      <Translation>циклический,  цикличный</Translation>
+    </Word>
+    <Word>
+      <Native>derivative</Native>
+      <Translation>производное слово, мат. производная</Translation>
+    </Word>
+    <Word>
+      <Native>distanced</Native>
+      <Translation>оставленный далеко позади</Translation>
+    </Word>
+    <Word>
+      <Native>excluded</Native>
+      <Translation>исключенный</Translation>
+    </Word>
+    <Word>
+      <Native>exponentially</Native>
+      <Translation>экспоненциально</Translation>
+    </Word>
+    <Word>
+      <Native>extremum</Native>
+      <Translation>экстремум (максимум или минимум)</Translation>
+    </Word>
+    <Word>
+      <Native>formulate</Native>
+      <Translation>формулировать,  определять</Translation>
+    </Word>
+    <Word>
+      <Native>improbable</Native>
+      <Translation>невероятный,  немыслимый, неправдоподобный</Translation>
+    </Word>
+    <Word>
+      <Native>indexed</Native>
+      <Translation>Индексированный, занумерованный</Translation>
+    </Word>
+    <Word>
+      <Native>indexing</Native>
+      <Translation>индексирование,  индексация</Translation>
+    </Word>
+    <Word>
+      <Native>intuitive</Native>
+      <Translation>интуитивный</Translation>
+    </Word>
+    <Word>
+      <Native>labelled</Native>
+      <Translation>маркированный, с этикеткой</Translation>
+    </Word>
+    <Word>
+      <Native>massive</Native>
+      <Translation>тяжелый,  массивный</Translation>
+    </Word>
+    <Word>
+      <Native>multidimensional</Native>
+      <Translation>1) многоразмерный 2) многоаспектный 3) многомерный</Translation>
+    </Word>
+    <Word>
+      <Native>normalized</Native>
+      <Translation>нормированный, Нормализованный</Translation>
+    </Word>
+    <Word>
+      <Native>optimizing</Native>
+      <Translation>поиск [отыскание] оптимального решения</Translation>
+    </Word>
+    <Word>
+      <Native>practically</Native>
+      <Translation>практически</Translation>
+    </Word>
+    <Word>
+      <Native>pseudocode</Native>
+      <Translation>псевдокод, символический код</Translation>
+    </Word>
+    <Word>
+      <Native>rectangular</Native>
+      <Translation>прямоугольный</Translation>
+    </Word>
+    <Word>
+      <Native>recurrent</Native>
+      <Translation>повторяющийся периодически  мед. рецидивный</Translation>
+    </Word>
+    <Word>
+      <Native>reject</Native>
+      <Translation>отвергать, отклонять; отказывать, признанный негодным, брак</Translation>
+    </Word>
+    <Word>
+      <Native>rejection</Native>
+      <Translation>отказ,  непринятие,  мед. отторжение</Translation>
+    </Word>
+    <Word>
+      <Native>rigid</Native>
+      <Translation>жесткий,  негнущийся, несгибаемый</Translation>
+    </Word>
+    <Word>
+      <Native>robust</Native>
+      <Translation>крепкий,  здоровый,  сильный</Translation>
+    </Word>
+    <Word>
+      <Native>sequential</Native>
+      <Translation>являющийся продолжением,  последовательный, логический</Translation>
+    </Word>
+    <Word>
+      <Native>structured</Native>
+      <Translation>структурный,  структурированный</Translation>
+    </Word>
+    <Word>
+      <Native>successively</Native>
+      <Translation>последовательно, подряд</Translation>
+    </Word>
+    <Word>
+      <Native>sufficiency</Native>
+      <Translation>(обыкн.  ) достаточность</Translation>
+    </Word>
+    <Word>
+      <Native>tracing</Native>
+      <Translation>отслеживание, мониторинг</Translation>
+    </Word>
+    <Word>
+      <Native>transient</Native>
+      <Translation>мимолетный, недолговечный, преходящий</Translation>
+    </Word>
+    <Word>
+      <Native>transposition</Native>
+      <Translation>перемещение,  перестановка, перегруппировка</Translation>
+    </Word>
+    <Word>
+      <Native>treelike</Native>
+      <Translation>древовидный,  древесный</Translation>
+    </Word>
+    <Word>
+      <Native>unbiased</Native>
+      <Translation>беспристрастный,  объективный, непредубежденный</Translation>
+    </Word>
+    <Word>
+      <Native>uniformly</Native>
+      <Translation>1) равномерно 2) однородно 3) постоянно 4) равно</Translation>
+    </Word>
+    <Word>
+      <Native>unordered</Native>
+      <Translation>неупорядоченный</Translation>
+    </Word>
+    <Word>
+      <Native>unsupervised</Native>
+      <Translation>безнадзорный</Translation>
+    </Word>
+    <Word>
+      <Native>weighting</Native>
+      <Translation>груз</Translation>
+    </Word>
+  </Dictionary>
+</Dictionaries>

@@ -1,0 +1,584 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dictionaries>
+  <Dictionary>
+    <DictionaryName>bw_comp_Ryan_Vice_MVVM_1_1</DictionaryName>
+    <Word>
+      <Native>Access</Native>
+      <Translation>доступ, проход, подход</Translation>
+    </Word>
+    <Word>
+      <Native>actual</Native>
+      <Translation>существующий,  современный, подлинный, настоящий</Translation>
+    </Word>
+    <Word>
+      <Native>address</Native>
+      <Translation> адрес</Translation>
+    </Word>
+    <Word>
+      <Native>advantage</Native>
+      <Translation> преимущество; превосходство</Translation>
+    </Word>
+    <Word>
+      <Native>allow</Native>
+      <Translation>позволять, разрешать; давать разрешение</Translation>
+    </Word>
+    <Word>
+      <Native>allowed</Native>
+      <Translation>дозволенный, разрешенный</Translation>
+    </Word>
+    <Word>
+      <Native>already</Native>
+      <Translation> нареч. уже</Translation>
+    </Word>
+    <Word>
+      <Native>approach</Native>
+      <Translation> приближение, подход,</Translation>
+    </Word>
+    <Word>
+      <Native>architecture</Native>
+      <Translation> архитектура</Translation>
+    </Word>
+    <Word>
+      <Native>assert</Native>
+      <Translation>утверждать,  заявлять,  самоутверждаться; </Translation>
+    </Word>
+    <Word>
+      <Native>avoid</Native>
+      <Translation>избегать,  отменять, аннулировать; делать недействительным</Translation>
+    </Word>
+    <Word>
+      <Native>background</Native>
+      <Translation> задний план,  фон</Translation>
+    </Word>
+    <Word>
+      <Native>benefit</Native>
+      <Translation> преимущество,  привилегия, польза</Translation>
+    </Word>
+    <Word>
+      <Native>bind</Native>
+      <Translation> связывание, связанность,  связь, привязывать </Translation>
+    </Word>
+    <Word>
+      <Native>binding</Native>
+      <Translation> переплет, связывание, вязка снопов</Translation>
+    </Word>
+    <Word>
+      <Native>blend</Native>
+      <Translation> смесь, смешивание , стираться (о различиях)</Translation>
+    </Word>
+    <Word>
+      <Native>block</Native>
+      <Translation> блок,  глыба</Translation>
+    </Word>
+    <Word>
+      <Native>bold</Native>
+      <Translation>отважный,  смелый, дерзновенный, дерзкий </Translation>
+    </Word>
+    <Word>
+      <Native>border</Native>
+      <Translation> граница  (across, over, between) </Translation>
+    </Word>
+    <Word>
+      <Native>bound</Native>
+      <Translation>  граница,  предел, рамки</Translation>
+    </Word>
+    <Word>
+      <Native>center</Native>
+      <Translation>(американизм) центр</Translation>
+    </Word>
+    <Word>
+      <Native>click</Native>
+      <Translation> щелчок 2) фон. звук-щелчок</Translation>
+    </Word>
+    <Word>
+      <Native>client</Native>
+      <Translation>клиент , постоянный покупатель</Translation>
+    </Word>
+    <Word>
+      <Native>code</Native>
+      <Translation> ист. сборник законов, одировать, зашифровывать 2</Translation>
+    </Word>
+    <Word>
+      <Native>collection</Native>
+      <Translation> накопление,  сбор, совокупность</Translation>
+    </Word>
+    <Word>
+      <Native>column</Native>
+      <Translation> архит. колонна , столбец </Translation>
+    </Word>
+    <Word>
+      <Native>command</Native>
+      <Translation>команда, командование, приказ</Translation>
+    </Word>
+    <Word>
+      <Native>communicate</Native>
+      <Translation>говорить, сообщать кому-л, передавать</Translation>
+    </Word>
+    <Word>
+      <Native>component</Native>
+      <Translation> компонент,  составная часть</Translation>
+    </Word>
+    <Word>
+      <Native>configuration</Native>
+      <Translation> конфигурация,  очертание</Translation>
+    </Word>
+    <Word>
+      <Native>const</Native>
+      <Translation> [] константа,  постоянная (величина)</Translation>
+    </Word>
+    <Word>
+      <Native>constructor</Native>
+      <Translation> конструктор,  инженер</Translation>
+    </Word>
+    <Word>
+      <Native>container</Native>
+      <Translation> вместилище,  сосуд</Translation>
+    </Word>
+    <Word>
+      <Native>content</Native>
+      <Translation>мн. содержимое , содержание</Translation>
+    </Word>
+    <Word>
+      <Native>controller</Native>
+      <Translation> контролер,  ревизор</Translation>
+    </Word>
+    <Word>
+      <Native>converter</Native>
+      <Translation> конвертер, преобразователь</Translation>
+    </Word>
+    <Word>
+      <Native>coverage</Native>
+      <Translation> сфера действия,  рамки, освещение события</Translation>
+    </Word>
+    <Word>
+      <Native>create</Native>
+      <Translation>порождать,  производить, создавать, творить </Translation>
+    </Word>
+    <Word>
+      <Native>currently</Native>
+      <Translation>теперь,  в настоящее время</Translation>
+    </Word>
+    <Word>
+      <Native>customer</Native>
+      <Translation>заказчик,  покупатель,  клиент</Translation>
+    </Word>
+    <Word>
+      <Native>default</Native>
+      <Translation>отказ выплачивать долги</Translation>
+    </Word>
+    <Word>
+      <Native>define</Native>
+      <Translation>определять, давать определение</Translation>
+    </Word>
+    <Word>
+      <Native>definition</Native>
+      <Translation>определение, формулирование</Translation>
+    </Word>
+    <Word>
+      <Native>delay</Native>
+      <Translation> задержка,  проволочка, приостановка</Translation>
+    </Word>
+    <Word>
+      <Native>delegate</Native>
+      <Translation> делегат,  депутат</Translation>
+    </Word>
+    <Word>
+      <Native>dependency</Native>
+      <Translation> а) зависимость; подчиненное положение</Translation>
+    </Word>
+    <Word>
+      <Native>diagram</Native>
+      <Translation> диаграмма,  график</Translation>
+    </Word>
+    <Word>
+      <Native>dialog</Native>
+      <Translation>диалог, разговор  </Translation>
+    </Word>
+    <Word>
+      <Native>domain</Native>
+      <Translation> наследственная собственность, имение, поместье;</Translation>
+    </Word>
+    <Word>
+      <Native>double</Native>
+      <Translation> двойное количество </Translation>
+    </Word>
+  </Dictionary>
+  <Dictionary>
+    <DictionaryName>bw_comp_Ryan_Vice_MVVM_1_2</DictionaryName>
+    <Word>
+      <Native>easily</Native>
+      <Translation>легко,  свободно, без труда</Translation>
+    </Word>
+    <Word>
+      <Native>empty</Native>
+      <Translation>порожняк пустой, незаполненный</Translation>
+    </Word>
+    <Word>
+      <Native>enterprise</Native>
+      <Translation> предприятие, предприимчивость</Translation>
+    </Word>
+    <Word>
+      <Native>entity</Native>
+      <Translation>нечто объективно, реально существующее; данность</Translation>
+    </Word>
+    <Word>
+      <Native>equipment</Native>
+      <Translation> оборудование,  оснащение</Translation>
+    </Word>
+    <Word>
+      <Native>estimate</Native>
+      <Translation> оценка, составить мнение, оченит</Translation>
+    </Word>
+    <Word>
+      <Native>foreground</Native>
+      <Translation>самое важное место, передний план</Translation>
+    </Word>
+    <Word>
+      <Native>framework</Native>
+      <Translation> остов,  корпус, каркас </Translation>
+    </Word>
+    <Word>
+      <Native>functionality</Native>
+      <Translation>функциональность (математика)</Translation>
+    </Word>
+    <Word>
+      <Native>generally</Native>
+      <Translation>обычно,  как правило, вообще </Translation>
+    </Word>
+    <Word>
+      <Native>generic</Native>
+      <Translation>характерный для определенного класса, вида, общий </Translation>
+    </Word>
+    <Word>
+      <Native>grid</Native>
+      <Translation> решетка,  сетка  </Translation>
+    </Word>
+    <Word>
+      <Native>handler</Native>
+      <Translation>дрессировщик,  укротитель , обработчик</Translation>
+    </Word>
+    <Word>
+      <Native>hierarchical</Native>
+      <Translation>иерархический</Translation>
+    </Word>
+    <Word>
+      <Native>humble</Native>
+      <Translation>скромный, непритязательный; застенчивый</Translation>
+    </Word>
+    <Word>
+      <Native>ignorable</Native>
+      <Translation>игнорируемый</Translation>
+    </Word>
+    <Word>
+      <Native>ignorance</Native>
+      <Translation> невежественность,  невежество, необразованность </Translation>
+    </Word>
+    <Word>
+      <Native>implement</Native>
+      <Translation> инструмент, орудия производства, выполнять, осуществлять</Translation>
+    </Word>
+    <Word>
+      <Native>implementation</Native>
+      <Translation>выполнение,  исполнение, обеспечение </Translation>
+    </Word>
+    <Word>
+      <Native>improve</Native>
+      <Translation>улучшать(ся), совершенствовать </Translation>
+    </Word>
+    <Word>
+      <Native>injection</Native>
+      <Translation> вливание,  впрыскивание</Translation>
+    </Word>
+    <Word>
+      <Native>input</Native>
+      <Translation> вклад,  взнос, ввод информации</Translation>
+    </Word>
+    <Word>
+      <Native>instance</Native>
+      <Translation>пример, образец; случай </Translation>
+    </Word>
+    <Word>
+      <Native>introduction</Native>
+      <Translation> а) введение, предисловие </Translation>
+    </Word>
+    <Word>
+      <Native>invalid</Native>
+      <Translation>  1.неполноценный , болезненный, нетрудоспособный</Translation>
+    </Word>
+    <Word>
+      <Native>issue</Native>
+      <Translation> исход,  выход,  вытекание</Translation>
+    </Word>
+    <Word>
+      <Native>label</Native>
+      <Translation> ярлык,  этикетка</Translation>
+    </Word>
+    <Word>
+      <Native>layer</Native>
+      <Translation>  слой,  пласт</Translation>
+    </Word>
+    <Word>
+      <Native>margin</Native>
+      <Translation> прилежащая приграничная полоса</Translation>
+    </Word>
+    <Word>
+      <Native>might</Native>
+      <Translation> могущество,  власть,  мощь</Translation>
+    </Word>
+    <Word>
+      <Native>mode</Native>
+      <Translation> метод,  методика, способ или режим работы</Translation>
+    </Word>
+    <Word>
+      <Native>monolithic</Native>
+      <Translation> единый,  монолитный,  целый </Translation>
+    </Word>
+    <Word>
+      <Native>multiple</Native>
+      <Translation>составной,со сложной структурой</Translation>
+    </Word>
+    <Word>
+      <Native>namespace</Native>
+      <Translation>пространство (присваиваемых) имен</Translation>
+    </Word>
+    <Word>
+      <Native>notification</Native>
+      <Translation> а) извещение,  сообщение, уведомление </Translation>
+    </Word>
+    <Word>
+      <Native>notify</Native>
+      <Translation>извещать, уведомлять </Translation>
+    </Word>
+    <Word>
+      <Native>pass</Native>
+      <Translation> 1.идти,  проходить, проезжать </Translation>
+    </Word>
+    <Word>
+      <Native>path</Native>
+      <Translation> тропинка,  тропа,  дорожка  </Translation>
+    </Word>
+    <Word>
+      <Native>pattern</Native>
+      <Translation> образец, модель </Translation>
+    </Word>
+    <Word>
+      <Native>persistence</Native>
+      <Translation> настойчивость,  стойкость</Translation>
+    </Word>
+    <Word>
+      <Native>preceding</Native>
+      <Translation> предшествующий</Translation>
+    </Word>
+    <Word>
+      <Native>presentation</Native>
+      <Translation> представление ( - кого/чего-л. кому-л.)</Translation>
+    </Word>
+    <Word>
+      <Native>presenter</Native>
+      <Translation> лицо, представляющее кого-л</Translation>
+    </Word>
+    <Word>
+      <Native>previous</Native>
+      <Translation>предыдущий,предшествующий(to)</Translation>
+    </Word>
+  </Dictionary>
+  <Dictionary>
+    <DictionaryName>bw_comp_Ryan_Vice_MVVM_1_3</DictionaryName>
+    <Word>
+      <Native>previously</Native>
+      <Translation>заблаговременно,  заранее, предварительно</Translation>
+    </Word>
+    <Word>
+      <Native>pure</Native>
+      <Translation>чистый, беспримесный  </Translation>
+    </Word>
+    <Word>
+      <Native>real</Native>
+      <Translation> реальный, реально существующий, действительный</Translation>
+    </Word>
+    <Word>
+      <Native>reference</Native>
+      <Translation>связь, отношение; касательство </Translation>
+    </Word>
+    <Word>
+      <Native>reflector</Native>
+      <Translation> отражатель</Translation>
+    </Word>
+    <Word>
+      <Native>region</Native>
+      <Translation> край,  область,  зона</Translation>
+    </Word>
+    <Word>
+      <Native>remove</Native>
+      <Translation> перемещение чего-л. на другое место </Translation>
+    </Word>
+    <Word>
+      <Native>require</Native>
+      <Translation>приказывать, требовать </Translation>
+    </Word>
+    <Word>
+      <Native>required</Native>
+      <Translation>необходимый, обязательный , требуемый</Translation>
+    </Word>
+    <Word>
+      <Native>resource</Native>
+      <Translation>запасы, ресурсы, средства;</Translation>
+    </Word>
+    <Word>
+      <Native>responsibility</Native>
+      <Translation>ответственность (за что-л.)  </Translation>
+    </Word>
+    <Word>
+      <Native>result</Native>
+      <Translation> результат,  исход,  вывод</Translation>
+    </Word>
+    <Word>
+      <Native>rich</Native>
+      <Translation>могущественный, богатый, состоятельный</Translation>
+    </Word>
+    <Word>
+      <Native>runtime</Native>
+      <Translation>время прогона (программы или модели)</Translation>
+    </Word>
+    <Word>
+      <Native>sample</Native>
+      <Translation> образец,  образчик, экземпляр </Translation>
+    </Word>
+    <Word>
+      <Native>section</Native>
+      <Translation> рассечение , секция, деталь </Translation>
+    </Word>
+    <Word>
+      <Native>select</Native>
+      <Translation>а) отобранный б) отборный, избранный, выбирать </Translation>
+    </Word>
+    <Word>
+      <Native>sender</Native>
+      <Translation> отправитель 2) передатчик</Translation>
+    </Word>
+    <Word>
+      <Native>session</Native>
+      <Translation> заседание,  собрание, совещание </Translation>
+    </Word>
+    <Word>
+      <Native>setter</Native>
+      <Translation>установочный прибор</Translation>
+    </Word>
+    <Word>
+      <Native>similar</Native>
+      <Translation>подобный,  похожий, сходный  </Translation>
+    </Word>
+    <Word>
+      <Native>simply</Native>
+      <Translation>легко,  просто, буквально, бесхитростно</Translation>
+    </Word>
+    <Word>
+      <Native>single</Native>
+      <Translation>один, одиночный</Translation>
+    </Word>
+    <Word>
+      <Native>situation</Native>
+      <Translation> обстановка,  положение</Translation>
+    </Word>
+    <Word>
+      <Native>solution</Native>
+      <Translation> а) растворение б) раствор, решение; разрешение</Translation>
+    </Word>
+    <Word>
+      <Native>state</Native>
+      <Translation>государство,  нация, страна </Translation>
+    </Word>
+    <Word>
+      <Native>status</Native>
+      <Translation> статус, общественное положение</Translation>
+    </Word>
+    <Word>
+      <Native>string</Native>
+      <Translation> веревка,  ремешок,  завязка, шнурок </Translation>
+    </Word>
+    <Word>
+      <Native>stub</Native>
+      <Translation> пень, обломок</Translation>
+    </Word>
+    <Word>
+      <Native>style</Native>
+      <Translation> стиль,  слог манера</Translation>
+    </Word>
+    <Word>
+      <Native>summary</Native>
+      <Translation> 1.краткое изложение,  конспект</Translation>
+    </Word>
+    <Word>
+      <Native>survival</Native>
+      <Translation> выживание, пережиток  </Translation>
+    </Word>
+    <Word>
+      <Native>target</Native>
+      <Translation> цель, мишень </Translation>
+    </Word>
+    <Word>
+      <Native>technique</Native>
+      <Translation> техника,  технические приемы  </Translation>
+    </Word>
+    <Word>
+      <Native>template</Native>
+      <Translation>тех. лекало, трафарет, шаблон</Translation>
+    </Word>
+    <Word>
+      <Native>testability</Native>
+      <Translation>1) тестируемость,  контролируемость</Translation>
+    </Word>
+    <Word>
+      <Native>title</Native>
+      <Translation> титул,  звание  </Translation>
+    </Word>
+    <Word>
+      <Native>useful</Native>
+      <Translation>полезный, пригодный, используемый </Translation>
+    </Word>
+    <Word>
+      <Native>validate</Native>
+      <Translation>ратифицировать, объявлять действительным</Translation>
+    </Word>
+    <Word>
+      <Native>validation</Native>
+      <Translation> ратификация, утверждение </Translation>
+    </Word>
+    <Word>
+      <Native>various</Native>
+      <Translation>различный,  разный, разнообразный </Translation>
+    </Word>
+    <Word>
+      <Native>verify</Native>
+      <Translation>проверять,  контролировать, сверять </Translation>
+    </Word>
+    <Word>
+      <Native>version</Native>
+      <Translation> версия, вариант </Translation>
+    </Word>
+    <Word>
+      <Native>visual</Native>
+      <Translation>визуальный,  зрительный</Translation>
+    </Word>
+    <Word>
+      <Native>void</Native>
+      <Translation> пустота,  вакуум,  пробел</Translation>
+    </Word>
+    <Word>
+      <Native>web</Native>
+      <Translation> паутина  </Translation>
+    </Word>
+    <Word>
+      <Native>welcome</Native>
+      <Translation> приветствие 2) гостеприимство</Translation>
+    </Word>
+    <Word>
+      <Native>width</Native>
+      <Translation> а) ширина  б) широта </Translation>
+    </Word>
+    <Word>
+      <Native>workflow</Native>
+      <Translation>1) последовательность выполняемых действий</Translation>
+    </Word>
+  </Dictionary>
+</Dictionaries>
